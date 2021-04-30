@@ -1,31 +1,31 @@
 {
-    "name": "calm-days-sober-nights-theme-vscode",
-    "publisher": "giovanicascaes",
-    "displayName": "Calm Days, Sober Nights",
-    "description": "A Visual Studio Code theme for the day light and night shadow coders",
-    "version": "0.0.3",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Calm Days, Sober Nights",
-                "uiTheme": "vs-dark",
-                "path": "./themes/calm-days-sober-nights.json"
-            },
-            {
-                "label": "Calm Days, Sober Nights - Light",
-                "uiTheme": "vs",
-                "path": "./themes/calm-days-sober-nights-light.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/giovanicascaes/calm-days-sober-nights-theme-vscode.git"
-    }
+  "name": "calm-days-sober-nights-theme-vscode",
+  "publisher": "giovanicascaes",
+  "displayName": "Calm Days, Sober Nights",
+  "description": "A Visual Studio Code theme for the day light and night darkness coders",
+  "version": "0.0.5",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calm Days, Sober Nights - Night Darkness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calm-days-sober-nights.json"
+      },
+      {
+        "label": "Calm Days, Sober Nights - Day Light",
+        "uiTheme": "vs",
+        "path": "./themes/calm-days-sober-nights-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giovanicascaes/calm-days-sober-nights-theme-vscode.git"
+  }
 }

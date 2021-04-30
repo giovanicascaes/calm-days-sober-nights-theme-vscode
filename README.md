@@ -1,12 +1,12 @@
 # Calm Days, Sober Nights 🏙🌃
 
-A Visual Studio Code theme for the day light and night shadow coders
+A Visual Studio Code theme for the day light and night darkness coders
 
-## Calm Days
-![Calm Days Theme Preview](calm.png)
+## Day Light
+![Calm Days Theme Preview](day.png)
 
-## Sober Nights
-![Souber Nights Theme Preview](souber.png)
+## Night Darkness
+![Souber Nights Theme Preview](night.png)
 
 # Installation
 
@@ -30,6 +30,7 @@ This theme has the following inspirations:
 - [Horizon Theme](https://github.com/jolaleye/horizon-theme-vscode)
 - [Beautiful UI](https://github.com/swashata/vscode-beautiful-ui)
 - [Aylin](https://github.com/AhmedAbdulrahman/aylin-vscode-theme)
+- macOS light theme
 
 Syntax examples were grabbed from [syntax-highlight-samples](https://github.com/uloco/syntax-highlighting-samples)
 
