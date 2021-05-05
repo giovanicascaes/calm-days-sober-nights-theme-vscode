@@ -1,7 +1,6 @@
 {
   "name": "Delirium Light",
   "type": "light",
-  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#00000020",
     "foreground": "#5c6066",
@@ -288,7 +287,7 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#D68556"
+        "foreground": "#E66829"
       }
     },
     {
@@ -411,7 +410,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#7EBAD2"
+        "foreground": "#71B6D2"
       }
     },
     {
@@ -430,28 +429,29 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#7EBAD2"
+        "foreground": "#71B6D2"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#C75399"
+        "foreground": "#C767A1",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#D68556"
+        "foreground": "#E66829"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#86A327"
+        "foreground": "#97B82C"
       }
     },
     {
@@ -476,7 +476,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#7EBAD2"
+        "foreground": "#71B6D2"
       }
     },
     {
@@ -491,7 +491,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#86A327"
+        "foreground": "#97B82C"
       }
     },
     {
@@ -523,7 +523,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#7EBAD2"
+        "foreground": "#71B6D2"
       }
     },
     {
@@ -578,7 +578,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#D68556"
+        "foreground": "#E66829"
       }
     },
     {
@@ -600,7 +600,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#D68556"
+        "foreground": "#E66829"
       }
     },
     {
@@ -668,7 +668,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#7EBAD2"
+        "foreground": "#71B6D2"
       }
     },
     {
