@@ -112,7 +112,7 @@
     "statusBar.foreground": "#1E262C",
     "statusBar.background": "#B1E68A",
     "statusBar.border": "#95c274",
-    "statusBar.debuggingBackground": "#FF80C4",
+    "statusBar.debuggingBackground": "#BD5389",
     "statusBar.debuggingBorder": "#a14875",
     "statusBar.debuggingForeground": "#FFFFFF",
     "statusBarItem.activeBackground": "#00000028",
@@ -287,7 +287,7 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FEE28E"
+        "foreground": "#FEE084"
       }
     },
     {
