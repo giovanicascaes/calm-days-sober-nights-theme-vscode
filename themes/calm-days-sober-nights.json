@@ -38,7 +38,7 @@
     "list.filterMatchBackground": "#98c3793c",
     "activityBar.dropBackground": "#293842B3",
     "editorGroup.background": "#343D4F",
-    "editorGroup.border": "#ffffff12",
+    "editorGroup.border": "#171F24E6",
     "editorGroup.dropBackground": "#293842B3",
     "editorGroupHeader.noTabsBackground": "#272E3B",
     "tab.unfocusedActiveForeground": "#C7C4B6",
@@ -156,13 +156,13 @@
     "breadcrumbPicker.background": "#1E262C",
     "sideBarSectionHeader.background": "#1E262C",
     "sideBarSectionHeader.foreground": "#EDF1F2",
-    "sideBarSectionHeader.border": "#EDF1F215",
+    "sideBarSectionHeader.border": "#171F24E6",
     "selection.background": "#98c37950",
     "sideBar.background": "#1E262C",
     "sideBar.foreground": "#EDF1F2E0",
-    "sideBar.border": "#EDF1F215",
+    "sideBar.border": "#171F24E6",
     "activityBar.background": "#263038",
-    "activityBar.border": "#EDF1F215",
+    "activityBar.border": "#171F24E6",
     "activityBar.inactiveForeground": "#787D85",
     "editorIndentGuide.activeBackground": "#787D8530",
     "editorIndentGuide.background": "#EDF1F208",
@@ -185,9 +185,9 @@
     "titleBar.inactiveBackground": "#263038",
     "titleBar.activeForeground": "#EDF1F2",
     "titleBar.inactiveForeground": "#787D85",
-    "titleBar.border": "#171F24",
+    "titleBar.border": "#141A1F",
     "editorGroupHeader.tabsBackground": "#263038",
-    "editorGroupHeader.border": "#EDF1F215",
+    "editorGroupHeader.border": "#171F24E6",
     "editorGroupHeader.tabsBorder": "#263038",
     "tab.border": "#263038",
     "tab.inactiveForeground": "#787D85",
@@ -197,12 +197,12 @@
     "tab.hoverBackground": "#232C34",
     "tab.hoverForeground": "#EDF1F2",
     "panel.border": "#EDF1F215",
-    "panel.background": "#263038",
-    "terminal.background": "#263038",
+    "panel.background": "#2C3640",
+    "terminal.background": "#2C3640",
     "panelTitle.inactiveForeground": "#787D85",
     "panelTitle.activeForeground": "#EDF1F2",
     "input.background": "#1A2126",
-    "input.border": "#EDF1F212",
+    "input.border": "#FFFFFF12",
     "checkbox.background": "#1E262C",
     "editor.foreground": "#EDF1F2",
     "sideBarTitle.foreground": "#EDF1F2",
@@ -277,6 +277,13 @@
       }
     },
     {
+      "name": "Punctuation",
+      "scope": ["punctuation.terminator", "meta.delimiter.comma"],
+      "settings": {
+        "foreground": "#969994"
+      }
+    },
+    {
       "name": "Comment",
       "scope": ["comment"],
       "settings": {
@@ -295,7 +302,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp", "constant.character", "constant.other"],
       "settings": {
-        "foreground": "#FF80C4"
+        "foreground": "#FF70BD"
       }
     },
     {
