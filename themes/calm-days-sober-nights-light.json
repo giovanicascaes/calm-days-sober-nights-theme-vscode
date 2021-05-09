@@ -1,6 +1,7 @@
 {
   "name": "Delirium Light",
   "type": "light",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#00000020",
     "foreground": "#5c6066",
@@ -778,6 +779,14 @@
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Prototype",
+      "scope": ["variable.language.prototype"],
+      "settings": {
+        "foreground": "#97B82C",
+        "fontStyle": "bold"
       }
     }
   ]

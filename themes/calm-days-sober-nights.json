@@ -1,6 +1,7 @@
 {
   "name": "Delirium",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#ffffff20",
     "foreground": "#d9d7ce",
@@ -778,6 +779,14 @@
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Prototype",
+      "scope": ["variable.language.prototype"],
+      "settings": {
+        "foreground": "#D2EB8D",
+        "fontStyle": "bold"
       }
     }
   ]
