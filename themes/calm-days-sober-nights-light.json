@@ -78,7 +78,7 @@
     "minimap.errorHighlight": "#CC3956B3",
     "minimap.warningHighlight": "#CC9C39B3",
     "minimap.selectionHighlight": "#7C7E7F4D",
-    "minimap.findMatchHighlight": "#AEB37DE6",
+    "minimap.findMatchHighlight": "#98c379E6",
     "editorGutter.modifiedBackground": "#76C1CCC2",
     "editorGutter.addedBackground": "#90C261C2",
     "editorGutter.deletedBackground": "#CC5252C2",
@@ -780,14 +780,11 @@
       "settings": {
         "fontStyle": ""
       }
-    },
-    {
-      "name": "Prototype",
-      "scope": ["variable.language.prototype"],
-      "settings": {
-        "foreground": "#97B82C",
-        "fontStyle": "bold"
-      }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "variable.defaultLibrary": {
+      "foreground": "#97B82C"
+    }
+  }
 }
