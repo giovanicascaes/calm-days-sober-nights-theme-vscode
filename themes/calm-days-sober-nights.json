@@ -3,7 +3,7 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    "focusBorder": "#ffffff50",
+    "focusBorder": "#ffffff30",
     "foreground": "#d9d7ce",
     "errorForeground": "#FF7F8C",
     "dropdown.foreground": "#d9d7ce",
