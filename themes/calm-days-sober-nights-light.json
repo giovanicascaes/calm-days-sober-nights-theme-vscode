@@ -194,9 +194,9 @@
     "tab.activeForeground": "#7C7E7F",
     "tab.hoverBackground": "#EDF0F2",
     "tab.hoverForeground": "#7C7E7F",
-    "panel.border": "#E2E6E8",
-    "panel.background": "#F6FAFC",
-    "terminal.background": "#F6FAFC",
+    "panel.border": "#00000013",
+    "panel.background": "#F5FBFF",
+    "terminal.background": "#F5FBFF",
     "sideBar.border": "#CED2D4",
     "panelTitle.inactiveForeground": "#90949E",
     "panelTitle.activeForeground": "#7C7E7F",
@@ -344,14 +344,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#219ACC"
+        "foreground": "#1FA9DB"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#219ACC"
+        "foreground": "#1FA9DB"
       }
     },
     {
@@ -579,7 +579,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#219ACC"
+        "foreground": "#1FA9DB"
       }
     },
     {
