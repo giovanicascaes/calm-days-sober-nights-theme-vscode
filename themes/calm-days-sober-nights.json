@@ -68,8 +68,8 @@
     "editorOverviewRuler.modifiedForeground": "#7AEDFF",
     "editorOverviewRuler.addedForeground": "#B0FF66",
     "editorOverviewRuler.deletedForeground": "#FF4D4D",
-    "editorOverviewRuler.errorForeground": "#B3324C",
-    "editorOverviewRuler.warningForeground": "#CC9B41",
+    "editorOverviewRuler.errorForeground": "#C72C49",
+    "editorOverviewRuler.warningForeground": "#FFD142",
     "editorOverviewRuler.infoForeground": "#3099AD",
     "editorError.foreground": "#FF808C",
     "editorWarning.foreground": "#FEE084",
@@ -198,8 +198,8 @@
     "tab.hoverBackground": "#232C34",
     "tab.hoverForeground": "#EDF1F2",
     "panel.border": "#FFFFFF20",
-    "panel.background": "#313B42",
-    "terminal.background": "#313B42",
+    "panel.background": "#2D3A42",
+    "terminal.background": "#2D3A42",
     "panelTitle.inactiveForeground": "#787D85",
     "panelTitle.activeForeground": "#EDF1F2",
     "input.background": "#1A2126",
@@ -470,7 +470,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#D2EB8D"
+        "foreground": "#C8E087"
       }
     },
     {
@@ -510,7 +510,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#D2EB8D"
+        "foreground": "#C8E087"
       }
     },
     {
@@ -786,7 +786,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#D2EB8D"
+      "foreground": "#C8E087"
     }
   }
 }
