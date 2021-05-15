@@ -59,7 +59,7 @@
     "editorCodeLens.foreground": "#ffffff16",
     "editorBracketMatch.background": "#ffffff16",
     "editorBracketMatch.border": "#ffffff16",
-    "editorOverviewRuler.border": "#ffffff12",
+    "editorOverviewRuler.border": "#ffffff09",
     "editorOverviewRuler.findMatchForeground": "#98c3793c",
     "editorOverviewRuler.rangeHighlightForeground": "#ffffff16",
     "editorOverviewRuler.selectionHighlightForeground": "#ffffff4F",
@@ -87,22 +87,25 @@
     "diffEditor.removedTextBackground": "#F936361a",
     "debugExceptionWidget.background": "#E93D46",
     "debugExceptionWidget.border": "#E93D46",
-    "editorMarkerNavigation.background": "#212930",
+    "editorMarkerNavigation.background": "#20272E",
     "editorMarkerNavigationError.background": "#FF6161",
     "editorMarkerNavigationWarning.background": "#FFCE70",
     "editorMarkerNavigationInfo.background": "#94F1FF",
-    "peekView.border": "#343F48",
-    "peekViewEditor.background": "#212930",
-    "peekViewEditorGutter.background": "#212930",
-    "peekViewEditor.matchHighlightBackground": "#ffffff16",
-    "peekViewResult.background": "#1E262C",
+    "problemsErrorIcon.foreground": "#FF6161",
+    "problemsWarningIcon.foreground": "#FFCE70",
+    "problemsInfoIcon.foreground": "#94F1FF",
+    "peekView.border": "#34434F",
+    "peekViewEditor.background": "#232B30",
+    "peekViewEditorGutter.background": "#232B30",
+    "peekViewEditor.matchHighlightBackground": "#98c37922",
+    "peekViewResult.background": "#20272C",
     "peekViewResult.fileForeground": "#d9d7ce",
     "peekViewResult.lineForeground": "#d9d7ce",
-    "peekViewResult.matchHighlightBackground": "#ffffff16",
+    "peekViewResult.matchHighlightBackground": "#98c37930",
     "peekViewResult.selectionBackground": "#ffffff1a",
     "peekViewResult.selectionForeground": "#d9d7ce",
     "peekViewTitle.background": "#263038",
-    "peekViewTitleDescription.foreground": "#B4B09E",
+    "peekViewTitleDescription.foreground": "#EBEBEBA7",
     "peekViewTitleLabel.foreground": "#EBEAE6",
     "merge.currentHeaderBackground": "#24BFDD",
     "merge.currentContentBackground": "#24BFDD1a",
@@ -169,7 +172,7 @@
     "editorIndentGuide.background": "#EDF1F208",
     "editorRuler.foreground": "#EDF1F209",
     "tree.indentGuidesStroke": "#EDF1F215",
-    "editorSuggestWidget.background": "#212930",
+    "editorSuggestWidget.background": "#20272E",
     "editorSuggestWidget.foreground": "#787D85",
     "editorSuggestWidget.border": "#EDF1F215",
     "editorSuggestWidget.selectedBackground": "#787D8530",
@@ -177,7 +180,7 @@
     "editor.lineHighlightBackground": "#EDF1F206",
     "editor.lineHighlightBorder": "#EDF1F208",
     "editorHint.foreground": "#EDF1F2",
-    "notifications.background": "#1A2126",
+    "notifications.background": "#263038",
     "notifications.foreground": "#EDF1F2",
     "button.foreground": "#1E262C",
     "button.background": "#98c379",
@@ -205,7 +208,7 @@
     "input.background": "#1A2126",
     "input.border": "#FFFFFF13",
     "inputOption.activeBackground": "#33414D",
-    "inputOption.activeBorder": "#98c379",
+    "inputOption.activeBorder": "#98c37980",
     "checkbox.background": "#1E262C",
     "editor.foreground": "#EDF1F2",
     "sideBarTitle.foreground": "#EDF1F2",
@@ -223,7 +226,7 @@
     "scrollbar.shadow": "#00000060",
     "widget.shadow": "#00000060",
     "settings.headerForeground": "#787D85",
-    "editorHoverWidget.background": "#212930",
+    "editorHoverWidget.background": "#20272E",
     "editorHoverWidget.foreground": "#EDF1F2",
     "editorHoverWidget.border": "#EDF1F215",
     "checkbox.foreground": "#98c379",
@@ -470,7 +473,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#C8E087"
+        "foreground": "#C3DB7F"
       }
     },
     {
@@ -510,7 +513,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#C8E087"
+        "foreground": "#C3DB7F"
       }
     },
     {
@@ -786,7 +789,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#C8E087"
+      "foreground": "#C3DB7F"
     }
   }
 }
