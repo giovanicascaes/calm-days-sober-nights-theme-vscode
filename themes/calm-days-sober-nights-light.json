@@ -219,7 +219,7 @@
     "menu.foreground": "#7C7E7FC0",
     "menu.border": "#7C7E7F30",
     "menu.separatorBackground": "#7C7E7F30",
-    "menu.selectionForeground": "#FFFFFF",
+    "menu.selectionForeground": "#90949EB3",
     "menu.selectionBackground": "#90949E30",
     "scrollbar.shadow": "#90949E60",
     "widget.shadow": "#90949E60",
