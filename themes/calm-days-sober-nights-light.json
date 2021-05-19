@@ -291,7 +291,12 @@
     },
     {
       "name": "Braces",
-      "scope": ["meta.brace.curly", "meta.brace.round", "meta.brace.square"],
+      "scope": [
+        "meta.brace.curly",
+        "meta.brace.round",
+        "meta.brace.square",
+        "meta.block"
+      ],
       "settings": {
         "foreground": "#78889C"
       }
