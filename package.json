@@ -2,7 +2,7 @@
   "name": "calm-days-sober-nights-theme-vscode",
   "publisher": "giovanicascaes",
   "displayName": "Calm Days, Sober Nights",
-  "description": "A Visual Studio Code theme for the day light and night darkness coders",
+  "description": "A detail-tweaked Visual Studio Code theme for the day light and night darkness coders",
   "icon": "icon.png",
   "version": "0.1.24",
   "engines": {
