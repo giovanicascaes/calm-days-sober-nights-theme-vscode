@@ -141,7 +141,7 @@
     "welcomePage.buttonBackground": "#00000010",
     "welcomePage.buttonHoverBackground": "#0000001A",
     "welcomePage.tileBackground": "#00000010",
-    "welcomePage.tileHoverBackground": "#98c37944",
+    "welcomePage.tileHoverBackground": "#98c37920",
     "walkThrough.embeddedEditorBackground": "#EDEDED",
     "gitDecoration.addedResourceForeground": "#6E8040",
     "gitDecoration.modifiedResourceForeground": "#67A4B3",
