@@ -285,19 +285,13 @@
       }
     },
     {
-      "name": "Punctuation",
-      "scope": ["punctuation.terminator", "meta.delimiter.comma"],
-      "settings": {
-        "foreground": "#969994"
-      }
-    },
-    {
       "name": "Braces",
       "scope": [
         "meta.brace.curly",
         "meta.brace.round",
         "meta.brace.square",
-        "meta.block"
+        "meta.block",
+        "punctuation.section"
       ],
       "settings": {
         "foreground": "#EFF2EA"
@@ -407,16 +401,13 @@
     },
     {
       "name": "Separators like ; or ,",
-      "scope": ["punctuation.separator", "punctuation.terminator"],
+      "scope": [
+        "punctuation.separator",
+        "punctuation.terminator",
+        "meta.delimiter.comma"
+      ],
       "settings": {
-        "foreground": "#DDE0D9b3"
-      }
-    },
-    {
-      "name": "Punctuation",
-      "scope": ["punctuation.section"],
-      "settings": {
-        "foreground": "#DDE0D9"
+        "foreground": "#DDE0D980"
       }
     },
     {
