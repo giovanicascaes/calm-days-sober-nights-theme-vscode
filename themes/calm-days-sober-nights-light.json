@@ -126,7 +126,7 @@
     "statusBarItem.remoteForeground": "#FFFFFF",
     "statusBarItem.remoteBackground": "#FFCC66",
     "statusBar.noFolderForeground": "#1E262C",
-    "statusBar.noFolderBackground": "#DEE4E6",
+    "statusBar.noFolderBackground": "#E9EEF0",
     "statusBar.noFolderBorder": "#C0C5C7",
     "notificationToast.border": "#C8CDCF",
     "notifications.border": "#7C7E7F28",
