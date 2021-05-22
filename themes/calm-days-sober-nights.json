@@ -72,9 +72,9 @@
     "editorOverviewRuler.warningForeground": "#FFD142",
     "editorOverviewRuler.infoForeground": "#3099AD",
     "editorError.foreground": "#FF808C",
-    "editorWarning.foreground": "#FEE389",
+    "editorWarning.foreground": "#FFAC82",
     "list.errorForeground": "#FF808C",
-    "list.warningForeground": "#FEE389",
+    "list.warningForeground": "#FFAC82",
     "minimap.errorHighlight": "#FF476CB3",
     "minimap.warningHighlight": "#FFC347B3",
     "minimap.selectionHighlight": "#EDF1F23D",
@@ -311,14 +311,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FEE389"
+        "foreground": "#FFAC82"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FEE389"
+        "foreground": "#FFAC82"
       }
     },
     {
@@ -489,7 +489,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FEE389"
+        "foreground": "#FFAC82"
       }
     },
     {
@@ -623,7 +623,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FEE389"
+        "foreground": "#FFAC82"
       }
     },
     {
@@ -637,7 +637,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FEE389"
+        "foreground": "#FFAC82"
       }
     },
     {
