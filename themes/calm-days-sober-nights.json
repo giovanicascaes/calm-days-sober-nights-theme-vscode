@@ -3,7 +3,7 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    "focusBorder": "#ffffff30",
+    "focusBorder": "#ffffff37",
     "foreground": "#d9d7ce",
     "errorForeground": "#FF7F8C",
     "dropdown.foreground": "#d9d7ce",
@@ -207,7 +207,7 @@
     "panelTitle.inactiveForeground": "#787D85",
     "panelTitle.activeForeground": "#EDF1F2",
     "input.background": "#1A2126",
-    "input.border": "#FFFFFF13",
+    "input.border": "#FFFFFF20",
     "inputOption.activeBackground": "#33414D",
     "inputOption.activeBorder": "#98c37980",
     "checkbox.background": "#1E262C",
