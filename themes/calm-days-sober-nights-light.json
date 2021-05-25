@@ -535,10 +535,11 @@
         "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
         "storage.type.annotation",
-        "entity.name.class.decorator"
+        "entity.name.class.decorator",
+        "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#C79F54"
+        "foreground": "#C7A76B"
       }
     },
     {
@@ -732,7 +733,7 @@
       "name": "Markup Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "foreground": "#C79F54"
+        "foreground": "#D1B170"
       }
     },
     {

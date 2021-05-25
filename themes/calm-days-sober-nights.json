@@ -161,7 +161,7 @@
     "breadcrumbPicker.background": "#1E262C",
     "sideBarSectionHeader.background": "#1E262C",
     "sideBarSectionHeader.foreground": "#EDF1F2",
-    "sideBarSectionHeader.border": "#171F24F6",
+    "sideBarSectionHeader.border": "#131B1F",
     "selection.background": "#98c37950",
     "sideBar.background": "#1E262C",
     "sideBar.foreground": "#EDF1F2E0",
@@ -547,7 +547,8 @@
         "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
         "storage.type.annotation",
-        "entity.name.class.decorator"
+        "entity.name.class.decorator",
+        "keyword.operator.decorator"
       ],
       "settings": {
         "foreground": "#ffe6b3"
