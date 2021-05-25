@@ -546,7 +546,8 @@
       "scope": [
         "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
-        "storage.type.annotation"
+        "storage.type.annotation",
+        "entity.name.class.decorator"
       ],
       "settings": {
         "foreground": "#ffe6b3"

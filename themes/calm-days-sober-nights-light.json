@@ -206,13 +206,13 @@
     "sideBar.border": "#CED2D4",
     "panelTitle.inactiveForeground": "#90949E",
     "panelTitle.activeForeground": "#7C7E7F",
-    "input.background": "#DFE2E6",
+    "input.background": "#E6E9ED",
     "input.border": "#00000013",
     "inputOption.activeBackground": "#C8CACC",
     "checkbox.background": "#EBEEF2",
     "editor.foreground": "#7C7E7F",
     "sideBarTitle.foreground": "#7C7E7F",
-    "dropdown.background": "#DFE2E6",
+    "dropdown.background": "#E6E9ED",
     "dropdown.listBackground": "#F7F7F7",
     "dropdown.border": "#7C7E7F30",
     "menubar.selectionForeground": "#FFFFFF",
@@ -534,10 +534,11 @@
       "scope": [
         "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
-        "storage.type.annotation"
+        "storage.type.annotation",
+        "entity.name.class.decorator"
       ],
       "settings": {
-        "foreground": "#ffe6b3"
+        "foreground": "#C79F54"
       }
     },
     {
@@ -731,7 +732,7 @@
       "name": "Markup Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "foreground": "#ffe6b3"
+        "foreground": "#C79F54"
       }
     },
     {
