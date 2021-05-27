@@ -113,12 +113,12 @@
     "merge.border": "#E9313B",
     "editorOverviewRuler.currentContentForeground": "#268ABC1a",
     "editorOverviewRuler.incomingContentForeground": "#C97A0B1a",
-    "statusBar.foreground": "#0000008A",
-    "statusBar.background": "#A4D18A",
-    "statusBar.border": "#00000045",
+    "statusBar.foreground": "#0000007B",
+    "statusBar.background": "#9DCC83",
+    "statusBar.border": "#00000048",
     "statusBar.debuggingBackground": "#BD4583",
     "statusBar.debuggingBorder": "#00000045",
-    "statusBar.debuggingForeground": "#ffffffB1",
+    "statusBar.debuggingForeground": "#FFB8DB",
     "statusBarItem.activeBackground": "#00000036",
     "statusBarItem.hoverBackground": "#00000018",
     "statusBarItem.prominentBackground": "#0000004A",
@@ -539,7 +539,7 @@
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#C7A76B"
+        "foreground": "#D6BB84"
       }
     },
     {
