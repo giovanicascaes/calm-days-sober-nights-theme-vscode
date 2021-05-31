@@ -125,7 +125,7 @@
     "statusBarItem.prominentBackground": "#0000004A",
     "statusBarItem.prominentForeground": "#fff",
     "statusBarItem.remoteForeground": "#0000008E",
-    "statusBarItem.remoteBackground": "#CA99FF",
+    "statusBarItem.remoteBackground": "#B796FA",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#263038",
@@ -339,7 +339,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#CA99FF"
+        "foreground": "#B796FA"
       }
     },
     {
@@ -351,14 +351,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#CA99FF"
+        "foreground": "#B796FA"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#CA99FF"
+        "foreground": "#B796FA"
       }
     },
     {
@@ -499,7 +499,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#D3E68E"
+        "foreground": "#E9FFB8"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#D3E68E"
+        "foreground": "#E9FFB8"
       }
     },
     {
@@ -817,7 +817,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#D3E68E"
+      "foreground": "#E9FFB8"
     }
   }
 }
