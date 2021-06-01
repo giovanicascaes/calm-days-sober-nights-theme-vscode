@@ -335,7 +335,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#7646A8"
+        "foreground": "#6746A8"
       }
     },
     {
@@ -347,14 +347,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#7646A8"
+        "foreground": "#6746A8"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#7646A8"
+        "foreground": "#6746A8"
       }
     },
     {
@@ -453,7 +453,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#A28CB8"
+        "foreground": "#9B8CB8"
       }
     },
     {
@@ -487,7 +487,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#97B82C"
+        "foreground": "#ADC758"
       }
     },
     {
@@ -527,7 +527,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#97B82C"
+        "foreground": "#ADC758"
       }
     },
     {
@@ -813,7 +813,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#97B82C"
+      "foreground": "#ADC758"
     }
   }
 }
