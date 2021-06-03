@@ -60,7 +60,7 @@
     "editorBracketMatch.background": "#ffffff16",
     "editorBracketMatch.border": "#ffffff16",
     "editorOverviewRuler.border": "#ffffff00",
-    "editorOverviewRuler.findMatchForeground": "#FFF59E3c",
+    "editorOverviewRuler.findMatchForeground": "#BFF5893c",
     "editorOverviewRuler.rangeHighlightForeground": "#ffffff16",
     "editorOverviewRuler.selectionHighlightForeground": "#ffffff4F",
     "editorOverviewRuler.wordHighlightForeground": "#ffffff1a",
@@ -69,16 +69,16 @@
     "editorOverviewRuler.addedForeground": "#B0FF66",
     "editorOverviewRuler.deletedForeground": "#FF4D4D",
     "editorOverviewRuler.errorForeground": "#C72C49",
-    "editorOverviewRuler.warningForeground": "#FFD142",
+    "editorOverviewRuler.warningForeground": "#FFC642",
     "editorOverviewRuler.infoForeground": "#3099AD",
     "editorError.foreground": "#FF808C",
-    "editorWarning.foreground": "#FEE58E",
+    "editorWarning.foreground": "#FFE0A3",
     "list.errorForeground": "#FF808C",
-    "list.warningForeground": "#FEE58E",
+    "list.warningForeground": "#FFE0A3",
     "minimap.errorHighlight": "#FF476CB3",
-    "minimap.warningHighlight": "#FFD74DB3",
+    "minimap.warningHighlight": "#FFCA4DB3",
     "minimap.selectionHighlight": "#EDF1F23D",
-    "minimap.findMatchHighlight": "#FFF59EB3",
+    "minimap.findMatchHighlight": "#BFF589B3",
     "minimap.background": "#212D33",
     "editorGutter.modifiedBackground": "#94F1FFC2",
     "editorGutter.addedBackground": "#B7F67BC2",
@@ -125,7 +125,7 @@
     "statusBarItem.prominentBackground": "#0000004A",
     "statusBarItem.prominentForeground": "#fff",
     "statusBarItem.remoteForeground": "#0000009B",
-    "statusBarItem.remoteBackground": "#B28CFF",
+    "statusBarItem.remoteBackground": "#EF8E64",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#263038",
@@ -380,7 +380,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -437,7 +437,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -451,7 +451,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -499,14 +499,14 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#ECFFB7"
+        "foreground": "#E9FFAD"
       }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -517,7 +517,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#E3FF9580"
+        "foreground": "#DCF79080"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#ECFFB7"
+        "foreground": "#E9FFAD"
       }
     },
     {
@@ -607,7 +607,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -649,7 +649,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -746,7 +746,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#DDE0D90f",
-        "foreground": "#E3FF95"
+        "foreground": "#DCF790"
       }
     },
     {
@@ -817,7 +817,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#ECFFB7"
+      "foreground": "#E9FFAD"
     }
   }
 }
