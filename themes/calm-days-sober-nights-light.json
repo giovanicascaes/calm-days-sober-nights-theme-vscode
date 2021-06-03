@@ -185,7 +185,7 @@
     "notifications.foreground": "#7C7E7F",
     "button.foreground": "#1E262C",
     "button.background": "#A6CC7F",
-    "button.hoverBackground": "#87AD6C",
+    "button.hoverBackground": "#8DAD6C",
     "titleBar.activeBackground": "#EBF0F2",
     "titleBar.inactiveBackground": "#F3F7F9",
     "titleBar.activeForeground": "#7C7E7F",
@@ -271,7 +271,7 @@
     "notificationCenterHeader.foreground": "#7C7E7F",
     "notificationCenter.border": "#C8CDCF",
     "textLink.foreground": "#A6CC7F",
-    "textLink.activeForeground": "#87AD6C",
+    "textLink.activeForeground": "#8DAD6C",
     "debugToolBar.background": "#EBF0F2",
     "debugToolBar.border": "#EBF0F2",
     "settings.modifiedItemIndicator": "#76C1CC"
