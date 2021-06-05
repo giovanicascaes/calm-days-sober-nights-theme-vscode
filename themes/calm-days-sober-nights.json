@@ -72,9 +72,9 @@
     "editorOverviewRuler.warningForeground": "#FFD942",
     "editorOverviewRuler.infoForeground": "#3099AD",
     "editorError.foreground": "#FF808C",
-    "editorWarning.foreground": "#F2E2A2",
+    "editorWarning.foreground": "#FFEEAB",
     "list.errorForeground": "#FF808C",
-    "list.warningForeground": "#F2E2A2",
+    "list.warningForeground": "#FFEEAB",
     "minimap.errorHighlight": "#FF476CB3",
     "minimap.warningHighlight": "#FFD942B3",
     "minimap.selectionHighlight": "#EDF1F23D",
@@ -380,7 +380,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -437,7 +437,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -451,7 +451,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -499,14 +499,14 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#E6FFB3"
+        "foreground": "#C0D97E"
       }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -517,7 +517,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#E3FF9580"
+        "foreground": "#E3FF9680"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#E6FFB3"
+        "foreground": "#C0D97E"
       }
     },
     {
@@ -607,7 +607,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -649,7 +649,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -746,7 +746,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#DDE0D90f",
-        "foreground": "#E3FF95"
+        "foreground": "#E3FF96"
       }
     },
     {
@@ -817,7 +817,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#E6FFB3"
+      "foreground": "#C0D97E"
     }
   }
 }
