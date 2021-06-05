@@ -69,14 +69,14 @@
     "editorOverviewRuler.addedForeground": "#B0FF66",
     "editorOverviewRuler.deletedForeground": "#FF4D4D",
     "editorOverviewRuler.errorForeground": "#C72C49",
-    "editorOverviewRuler.warningForeground": "#FFC642",
+    "editorOverviewRuler.warningForeground": "#FFD942",
     "editorOverviewRuler.infoForeground": "#3099AD",
     "editorError.foreground": "#FF808C",
-    "editorWarning.foreground": "#F2D7A2",
+    "editorWarning.foreground": "#F2E2A2",
     "list.errorForeground": "#FF808C",
-    "list.warningForeground": "#F2D7A2",
+    "list.warningForeground": "#F2E2A2",
     "minimap.errorHighlight": "#FF476CB3",
-    "minimap.warningHighlight": "#FFCA4DB3",
+    "minimap.warningHighlight": "#FFD942B3",
     "minimap.selectionHighlight": "#EDF1F23D",
     "minimap.findMatchHighlight": "#BFF589B3",
     "minimap.background": "#212D33",
@@ -89,10 +89,10 @@
     "debugExceptionWidget.border": "#E93D46",
     "editorMarkerNavigation.background": "#20272E",
     "editorMarkerNavigationError.background": "#FF6161",
-    "editorMarkerNavigationWarning.background": "#FFCE70",
+    "editorMarkerNavigationWarning.background": "#FFE270",
     "editorMarkerNavigationInfo.background": "#94F1FF",
     "problemsErrorIcon.foreground": "#FF6161",
-    "problemsWarningIcon.foreground": "#FFCE70",
+    "problemsWarningIcon.foreground": "#FFE270",
     "problemsInfoIcon.foreground": "#94F1FF",
     "peekView.border": "#34434F",
     "peekViewEditor.background": "#232B30",
@@ -380,7 +380,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -437,7 +437,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -451,7 +451,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -499,14 +499,14 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#E9FFAD"
+        "foreground": "#CCE094"
       }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -517,7 +517,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#DCF79080"
+        "foreground": "#E3FF9580"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#E9FFAD"
+        "foreground": "#CCE094"
       }
     },
     {
@@ -607,7 +607,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -649,7 +649,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -746,7 +746,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#DDE0D90f",
-        "foreground": "#DCF790"
+        "foreground": "#E3FF95"
       }
     },
     {
@@ -817,7 +817,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#E9FFAD"
+      "foreground": "#CCE094"
     }
   }
 }
