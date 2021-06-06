@@ -499,7 +499,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#BFD18E"
+        "foreground": "#F0FFC7"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#BFD18E"
+        "foreground": "#F0FFC7"
       }
     },
     {
@@ -817,7 +817,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#BFD18E"
+      "foreground": "#F0FFC7"
     }
   }
 }
