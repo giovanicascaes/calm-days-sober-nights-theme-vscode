@@ -201,7 +201,7 @@
     "tab.activeForeground": "#636566",
     "tab.hoverBackground": "#EDF0F2",
     "tab.hoverForeground": "#636566",
-    "panel.border": "#00000009",
+    "panel.border": "#0000001a",
     "panel.background": "#F7FCFF",
     "terminal.background": "#F7FCFF",
     "sideBar.border": "#CED2D4",
