@@ -310,14 +310,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#E66829"
+        "foreground": "#E66220"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#E66829"
+        "foreground": "#E66220"
       }
     },
     {
@@ -480,7 +480,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#E66829"
+        "foreground": "#E66220"
       }
     },
     {
@@ -616,7 +616,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#E66829"
+        "foreground": "#E66220"
       }
     },
     {
@@ -638,7 +638,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#E66829"
+        "foreground": "#E66220"
       }
     },
     {
