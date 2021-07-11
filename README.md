@@ -2,10 +2,10 @@
 
 A detail-tweaked Visual Studio Code theme for the day light and night darkness coders
 
-## Day Light
+## Day
 ![Calm Days Theme Preview](day.png)
 
-## Night Darkness
+## Night
 ![Souber Nights Theme Preview](night.png)
 
 # Installation
