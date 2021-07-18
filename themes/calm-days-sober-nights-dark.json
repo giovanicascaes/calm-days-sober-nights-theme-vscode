@@ -427,7 +427,8 @@
       "scope": [
         "source.java storage.type",
         "source.haskell storage.type",
-        "source.c storage.type"
+        "source.c storage.type",
+        "meta.type.parameters"
       ],
       "settings": {
         "foreground": "#FF8FCB"
