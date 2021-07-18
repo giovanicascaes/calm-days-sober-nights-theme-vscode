@@ -4,7 +4,7 @@
   "displayName": "Calm Days, Sober Nights",
   "description": "A detail-tweaked Visual Studio Code theme for the day light and night darkness coders",
   "icon": "icon.png",
-  "version": "0.1.105",
+  "version": "0.1.106",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -14,12 +14,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Calm Days, Sober Nights - Night Darkness",
+        "label": "Calm Days, Sober Nights - Night",
         "uiTheme": "vs-dark",
         "path": "./themes/calm-days-sober-nights-dark.json"
       },
       {
-        "label": "Calm Days, Sober Nights - Day Light",
+        "label": "Calm Days, Sober Nights - Day",
         "uiTheme": "vs",
         "path": "./themes/calm-days-sober-nights-light.json"
       }
