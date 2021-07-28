@@ -3,7 +3,7 @@
   "type": "light",
   "semanticHighlighting": true,
   "colors": {
-    "focusBorder": "#789E5980",
+    "focusBorder": "#789E5985",
     "sash.hoverBorder": "#00000030",
     "foreground": "#5c6066",
     "errorForeground": "#C34242",
