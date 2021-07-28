@@ -493,6 +493,13 @@
       }
     },
     {
+      "name": "Object",
+      "scope": ["string.unquoted"],
+      "settings": {
+        "foreground": "#6444A3"
+      }
+    },
+    {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
