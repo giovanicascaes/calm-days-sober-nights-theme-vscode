@@ -126,7 +126,7 @@
     "statusBarItem.prominentBackground": "#0000004C",
     "statusBarItem.prominentForeground": "#ffffffF8",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#FCA883",
+    "statusBarItem.remoteBackground": "#B894FF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#263038",
@@ -553,7 +553,6 @@
     {
       "name": "Decorators/annotation",
       "scope": [
-        "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
         "storage.type.annotation",
         "entity.name.class.decorator",

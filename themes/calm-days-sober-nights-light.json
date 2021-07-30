@@ -3,7 +3,7 @@
   "type": "light",
   "semanticHighlighting": true,
   "colors": {
-    "focusBorder": "#789E5985",
+    "focusBorder": "#789E5960",
     "sash.hoverBorder": "#00000030",
     "foreground": "#5c6066",
     "errorForeground": "#C34242",
@@ -124,8 +124,8 @@
     "statusBarItem.hoverBackground": "#00000010",
     "statusBarItem.prominentBackground": "#0000004A",
     "statusBarItem.prominentForeground": "#ffffffF8",
-    "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#E8C472",
+    "statusBarItem.remoteForeground": "#B8ABD1",
+    "statusBarItem.remoteBackground": "#6444A3",
     "statusBarItem.remoteBorder": "#00000026",
     "statusBar.noFolderForeground": "#0000006B",
     "statusBar.noFolderBackground": "#F3F8FA",
@@ -542,7 +542,6 @@
     {
       "name": "Decorators/annotation",
       "scope": [
-        "meta.decorator variable.other",
         "meta.decorator punctuation.decorator",
         "storage.type.annotation",
         "entity.name.class.decorator",
