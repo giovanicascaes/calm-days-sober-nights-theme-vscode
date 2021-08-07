@@ -75,7 +75,7 @@
     "editorError.foreground": "#FF808C",
     "editorWarning.foreground": "#FFEEAB",
     "list.errorForeground": "#E6737E",
-    "list.warningForeground": "#F7E1A3",
+    "list.warningForeground": "#EBD088",
     "minimap.errorHighlight": "#FF476CB3",
     "minimap.warningHighlight": "#FFD973B3",
     "minimap.selectionHighlight": "#C8CBCC3D",
@@ -299,7 +299,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#F7FBFF"
+        "foreground": "#E4E7EBB0"
       }
     },
     {
@@ -412,7 +412,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#E4E7EB80"
+        "foreground": "#E4E7EB76"
       }
     },
     {
