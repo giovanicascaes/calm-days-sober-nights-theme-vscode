@@ -16,7 +16,7 @@ A detail-tweaked Visual Studio Code theme for the day light and night darkness c
 4.  Search for `calm days, sober nights`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload VSCode
-7.  From the menu bar click: Code > Preferences > Color Theme > **Calm Days, Souber Bights**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Calm Days, Sober Nights**
 
 ## Notes
 

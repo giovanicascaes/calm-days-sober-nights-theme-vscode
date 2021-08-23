@@ -314,14 +314,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FF9780"
+        "foreground": "#FF937A"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FF9780"
+        "foreground": "#FF937A"
       }
     },
     {
@@ -387,14 +387,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#80DFFF"
+        "foreground": "#75DDFF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#80DFFF"
+        "foreground": "#75DDFF"
       }
     },
     {
@@ -459,7 +459,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#B2F7F7"
+        "foreground": "#B3F5FF"
       }
     },
     {
@@ -478,7 +478,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#B2F7F7"
+        "foreground": "#B3F5FF"
       }
     },
     {
@@ -493,7 +493,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FF9780"
+        "foreground": "#FF937A"
       }
     },
     {
@@ -532,7 +532,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#B2F7F7"
+        "foreground": "#B3F5FF"
       }
     },
     {
@@ -580,7 +580,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#B2F7F7"
+        "foreground": "#B3F5FF"
       }
     },
     {
@@ -628,14 +628,14 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#80DFFF"
+        "foreground": "#75DDFF"
       }
     },
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FF9780"
+        "foreground": "#FF937A"
       }
     },
     {
@@ -649,7 +649,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FF9780"
+        "foreground": "#FF937A"
       }
     },
     {
@@ -717,7 +717,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#B2F7F7"
+        "foreground": "#B3F5FF"
       }
     },
     {

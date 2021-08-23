@@ -448,14 +448,14 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#71ABD1"
+        "foreground": "#61A6C2"
       }
     },
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#AE81B8"
+        "foreground": "#AA6EB8"
       }
     },
     {
@@ -467,7 +467,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#71ABD1"
+        "foreground": "#61A6C2"
       }
     },
     {
@@ -521,7 +521,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#71ABD1"
+        "foreground": "#61A6C2"
       }
     },
     {
@@ -569,7 +569,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#71ABD1"
+        "foreground": "#61A6C2"
       }
     },
     {
@@ -714,7 +714,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#71ABD1"
+        "foreground": "#61A6C2"
       }
     },
     {
