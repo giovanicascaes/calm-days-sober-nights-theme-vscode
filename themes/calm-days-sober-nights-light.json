@@ -427,7 +427,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -441,7 +441,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -455,7 +455,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#AA6EB8"
+        "foreground": "#A551B8"
       }
     },
     {
@@ -503,7 +503,7 @@
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -514,7 +514,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#32992580"
+        "foreground": "#2F8F2280"
       }
     },
     {
@@ -603,7 +603,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -638,7 +638,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -653,7 +653,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {
@@ -750,7 +750,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#5E6B7A0f",
-        "foreground": "#329925"
+        "foreground": "#2F8F22"
       }
     },
     {

@@ -126,7 +126,7 @@
     "statusBarItem.prominentBackground": "#0000004C",
     "statusBarItem.prominentForeground": "#000000E9",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#A375FF",
+    "statusBarItem.remoteBackground": "#AD85FF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#262C38",
@@ -339,7 +339,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#A375FF"
+        "foreground": "#AD85FF"
       }
     },
     {
@@ -351,14 +351,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#A375FF"
+        "foreground": "#AD85FF"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#A375FF"
+        "foreground": "#AD85FF"
       }
     },
     {
@@ -380,7 +380,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -438,7 +438,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -452,7 +452,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -466,7 +466,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#ED9EFF"
+        "foreground": "#EEA3FF"
       }
     },
     {
@@ -507,14 +507,14 @@
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
       "name": "Object",
       "scope": ["string.unquoted"],
       "settings": {
-        "foreground": "#8595FF"
+        "foreground": "#99A7FF"
       }
     },
     {
@@ -525,7 +525,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#91FF9580"
+        "foreground": "#83E68680"
       }
     },
     {
@@ -614,7 +614,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -656,7 +656,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -753,7 +753,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#E4E7EB0f",
-        "foreground": "#91FF95"
+        "foreground": "#83E686"
       }
     },
     {
@@ -827,7 +827,7 @@
       "foreground": "#B8FFBA"
     },
     "property.declaration": {
-      "foreground": "#8595FF"
+      "foreground": "#99A7FF"
     }
   }
 }
