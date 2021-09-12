@@ -126,7 +126,7 @@
     "statusBarItem.prominentBackground": "#0000004C",
     "statusBarItem.prominentForeground": "#000000E9",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#B18AFF",
+    "statusBarItem.remoteBackground": "#A375FF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#262C38",
@@ -339,7 +339,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#B18AFF"
+        "foreground": "#A375FF"
       }
     },
     {
@@ -351,14 +351,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#B18AFF"
+        "foreground": "#A375FF"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#B18AFF"
+        "foreground": "#A375FF"
       }
     },
     {
@@ -466,7 +466,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#F1B3FF"
+        "foreground": "#ED9EFF"
       }
     },
     {
@@ -514,7 +514,7 @@
       "name": "Object",
       "scope": ["string.unquoted"],
       "settings": {
-        "foreground": "#99A7FF"
+        "foreground": "#8595FF"
       }
     },
     {
@@ -827,7 +827,7 @@
       "foreground": "#B8FFBA"
     },
     "property.declaration": {
-      "foreground": "#99A7FF"
+      "foreground": "#8595FF"
     }
   }
 }
