@@ -125,7 +125,7 @@
     "statusBarItem.prominentBackground": "#0000004A",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#B8ABD1",
-    "statusBarItem.remoteBackground": "#6444A3",
+    "statusBarItem.remoteBackground": "#7158A3",
     "statusBarItem.remoteBorder": "#00000026",
     "statusBar.noFolderForeground": "#0000006B",
     "statusBar.noFolderBackground": "#F2F7F9",
@@ -145,10 +145,10 @@
     "welcomePage.tileBackground": "#00000010",
     "welcomePage.tileHoverBackground": "#6DC26F20",
     "walkThrough.embeddedEditorBackground": "#EDEDED",
-    "gitDecoration.untrackedResourceForeground": "#84994D",
-    "gitDecoration.addedResourceForeground": "#6E8040",
-    "gitDecoration.modifiedResourceForeground": "#588C99",
-    "gitDecoration.stageModifiedResourceForeground": "#497480",
+    "gitDecoration.untrackedResourceForeground": "#4D994E",
+    "gitDecoration.addedResourceForeground": "#408041",
+    "gitDecoration.modifiedResourceForeground": "#599699",
+    "gitDecoration.stageModifiedResourceForeground": "#497D80",
     "gitDecoration.deletedResourceForeground": "#995959",
     "gitDecoration.stageDeletedResourceForeground": "#804A4A",
     "gitDecoration.ignoredResourceForeground": "#5c6066a6",
@@ -244,14 +244,14 @@
     "terminal.ansiMagenta": "#A64A75",
     "terminal.ansiRed": "#BF5A56",
     "terminal.ansiWhite": "#E1E3E6",
-    "terminal.ansiBrightBlack": "#90949E",
+    "terminal.ansiBrightBlack": "#d7dae0",
     "terminal.ansiBrightBlue": "#77B6C7",
     "terminal.ansiBrightGreen": "#7DAD4D",
     "terminal.ansiBrightYellow": "#C7AE5A",
     "terminal.ansiBrightCyan": "#5AC7AF",
     "terminal.ansiBrightMagenta": "#AD4D7A",
     "terminal.ansiBrightRed": "#C75E5A",
-    "terminal.ansiBrightWhite": "#d7dae0",
+    "terminal.ansiBrightWhite": "#90949E",
     "editorWidget.background": "#E9EDF5",
     "editorWidget.border": "#61636630",
     "editorWidget.foreground": "#90949E",
@@ -272,7 +272,7 @@
     "notificationCenterHeader.foreground": "#616366",
     "notificationCenter.border": "#C4C8CF",
     "textLink.foreground": "#6DC26F",
-    "textLink.activeForeground": "#64B365",
+    "textLink.activeForeground": "#569957",
     "debugToolBar.background": "#E6EAF2",
     "debugToolBar.border": "#E6EAF2",
     "settings.modifiedItemIndicator": "#76C1CC"
@@ -336,7 +336,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#6444A3"
+        "foreground": "#7158A3"
       }
     },
     {
@@ -348,14 +348,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#6444A3"
+        "foreground": "#7158A3"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#6444A3"
+        "foreground": "#7158A3"
       }
     },
     {
@@ -448,14 +448,14 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#61A6C2"
+        "foreground": "#5BACB0"
       }
     },
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#A551B8"
+        "foreground": "#A554B8"
       }
     },
     {
@@ -467,7 +467,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#61A6C2"
+        "foreground": "#5BACB0"
       }
     },
     {
@@ -521,7 +521,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#61A6C2"
+        "foreground": "#5BACB0"
       }
     },
     {
@@ -569,7 +569,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#61A6C2"
+        "foreground": "#5BACB0"
       }
     },
     {
@@ -714,7 +714,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#61A6C2"
+        "foreground": "#5BACB0"
       }
     },
     {
