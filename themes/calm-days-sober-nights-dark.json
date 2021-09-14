@@ -275,7 +275,7 @@
     "notificationCenterHeader.foreground": "#C8CBCC",
     "notificationCenter.border": "#1A1F26",
     "textLink.foreground": "#91FA94",
-    "textLink.activeForeground": "#79D17C",
+    "textLink.activeForeground": "#88EB8B",
     "debugToolBar.background": "#2A2F3B",
     "debugToolBar.border": "#2A2F3B",
     "settings.modifiedItemIndicator": "#94F1FF"

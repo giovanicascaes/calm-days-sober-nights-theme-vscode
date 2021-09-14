@@ -272,7 +272,7 @@
     "notificationCenterHeader.foreground": "#616366",
     "notificationCenter.border": "#C4C8CF",
     "textLink.foreground": "#6DC26F",
-    "textLink.activeForeground": "#569957",
+    "textLink.activeForeground": "#64B365",
     "debugToolBar.background": "#E6EAF2",
     "debugToolBar.border": "#E6EAF2",
     "settings.modifiedItemIndicator": "#76C1CC"
