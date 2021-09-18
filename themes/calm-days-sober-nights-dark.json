@@ -797,6 +797,14 @@
     },
     {
       "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
         "entity.name.function",
         "variable.parameter",
         "markup.quote",

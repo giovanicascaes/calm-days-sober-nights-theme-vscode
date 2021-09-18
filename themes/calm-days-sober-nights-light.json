@@ -783,13 +783,18 @@
         "keyword.operator.expression",
         "keyword.other",
         "keyword.operator.new",
-        "entity.other.attribute-name",
         "storage",
         "storage.type",
         "keyword.generator.asterisk.js"
       ],
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
