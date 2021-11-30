@@ -301,7 +301,7 @@
     {
       "settings": {
         "background": "#2D2A3B",
-        "foreground": "#DFDDEB"
+        "foreground": "#D9D6EB"
       }
     },
     {
@@ -316,7 +316,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#DFDDEBB0"
+        "foreground": "#D9D6EBB0"
       }
     },
     {
@@ -382,7 +382,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#DFDDEB"
+        "foreground": "#D9D6EB"
       }
     },
     {
@@ -429,7 +429,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#DFDDEB76"
+        "foreground": "#D9D6EB76"
       }
     },
     {
@@ -703,14 +703,14 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#DFDDEB05"
+        "background": "#D9D6EB05"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#DFDDEB0f"
+        "background": "#D9D6EB0f"
       }
     },
     {
@@ -718,7 +718,7 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#DFDDEB0f",
+        "background": "#D9D6EB0f",
         "foreground": "#605C73"
       }
     },
@@ -769,7 +769,7 @@
       "name": "Markup Table",
       "scope": ["markup.table"],
       "settings": {
-        "background": "#DFDDEB0f",
+        "background": "#D9D6EB0f",
         "foreground": "#9EFFBA"
       }
     },
@@ -792,7 +792,7 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
       "settings": {
-        "background": "#DFDDEB",
+        "background": "#D9D6EB",
         "foreground": "#605C73"
       }
     },
