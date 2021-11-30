@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.4.3
+Improve variable colors
 ## 1.4.2
 Improve variable colors
 ## 1.4.1
