@@ -293,7 +293,9 @@
     "editorBracketHighlight.foreground3": "#40D2FF",
     "editorBracketPairGuide.activeBackground4": "#80FFD7",
     "editorBracketHighlight.foreground4": "#80FFD7",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675"
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675",
+    "editorLightBulb.foreground": "#FAB38E",
+    "editorLightBulbAutoFix.foreground": "#66EBFF"
   },
   "tokenColors": [
     {

@@ -1,6 +1,6 @@
 # Calm Days, Sober Nights 🏙🌃
 
-A detail-tweaked Visual Studio Code theme for the day light and night darkness coders
+A dVisual Studio Code theme for the day light and night darkness coders
 
 ## Day
 ![Calm Days Theme Preview](day.png)
