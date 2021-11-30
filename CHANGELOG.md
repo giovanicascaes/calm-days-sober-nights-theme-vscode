@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.4.1
+Fix icon resolution
 ## 1.4.0
 Icon improvement
 ## 1.3.0
