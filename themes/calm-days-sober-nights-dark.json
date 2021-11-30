@@ -238,6 +238,7 @@
     "editorHoverWidget.background": "#282533",
     "editorHoverWidget.foreground": "#C9C8CC",
     "editorHoverWidget.border": "#C9C8CC15",
+    "editorHoverWidget.statusBarBackground": "#2E2B3B",
     "checkbox.foreground": "#9EFFBA",
     "quickInput.background": "#272336",
     "quickInput.foreground": "#7A7785",
@@ -294,8 +295,8 @@
     "editorBracketPairGuide.activeBackground4": "#80FFD7",
     "editorBracketHighlight.foreground4": "#80FFD7",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675",
-    "editorLightBulb.foreground": "#FAB38E",
-    "editorLightBulbAutoFix.foreground": "#66EBFF"
+    "editorLightBulb.foreground": "#FAB48E",
+    "editorLightBulbAutoFix.foreground": "#91F0FF"
   },
   "tokenColors": [
     {
