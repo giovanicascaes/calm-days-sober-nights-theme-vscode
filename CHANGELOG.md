@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.5
+Some color tweaks
+
 ## 1.4.4
 Improve bulb icons and hover widgets
 ## 1.4.3

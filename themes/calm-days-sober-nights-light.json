@@ -23,8 +23,8 @@
     "scrollbarSlider.activeBackground": "#0000004d",
     "scrollbarSlider.hoverBackground": "#00000033",
     "progressBar.background": "#F2590C",
-    "list.activeSelectionBackground": "#00000009",
-    "list.activeSelectionForeground": "#56555E",
+    "list.activeSelectionBackground": "#00000010",
+    "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#E1DFEDB3",
     "list.focusBackground": "#00000012",
     "list.focusForeground": "#000000",
@@ -234,7 +234,7 @@
     "editorHoverWidget.background": "#EAE9F2",
     "editorHoverWidget.foreground": "#626166",
     "editorHoverWidget.border": "#62616630",
-    "editorHoverWidget.statusBarBackground": "#E2E1EB",
+    "editorHoverWidget.statusBarBackground": "#E5E4ED",
     "checkbox.foreground": "#6DC285",
     "quickInput.background": "#EBE9F5",
     "quickInput.foreground": "#92909E",
@@ -291,7 +291,7 @@
     "editorBracketPairGuide.activeBackground4": "#57AD92",
     "editorBracketHighlight.foreground4": "#57AD92",
     "editorBracketHighlight.unexpectedBracket.foreground": "#CF344D",
-    "editorLightBulb.foreground": "#CF7848",
+    "editorLightBulb.foreground": "#CF7748",
     "editorLightBulbAutoFix.foreground": "#368E9C"
   },
   "tokenColors": [
@@ -565,7 +565,7 @@
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#CCA556"
+        "foreground": "#C77D48"
       }
     },
     {

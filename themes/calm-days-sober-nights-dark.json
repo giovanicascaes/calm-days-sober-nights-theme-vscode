@@ -23,14 +23,14 @@
     "scrollbarSlider.activeBackground": "#ffffff4d",
     "scrollbarSlider.hoverBackground": "#ffffff33",
     "progressBar.background": "#7FDBCA",
-    "list.activeSelectionBackground": "#ffffff10",
+    "list.activeSelectionBackground": "#ffffff11",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#322D45B3",
     "list.focusBackground": "#ffffff13",
     "list.focusForeground": "#FFFFFF",
     "list.focusOutline": "#FFFFFF24",
     "list.highlightForeground": "#9EFFBA",
-    "list.hoverBackground": "#ffffff09",
+    "list.hoverBackground": "#ffffff08",
     "list.hoverForeground": "#FFFFFF",
     "list.inactiveSelectionBackground": "#ffffff10",
     "list.inactiveSelectionForeground": "#FFFFFF",
@@ -238,7 +238,7 @@
     "editorHoverWidget.background": "#282533",
     "editorHoverWidget.foreground": "#C9C8CC",
     "editorHoverWidget.border": "#C9C8CC15",
-    "editorHoverWidget.statusBarBackground": "#2E2B3B",
+    "editorHoverWidget.statusBarBackground": "#2C2938",
     "checkbox.foreground": "#9EFFBA",
     "quickInput.background": "#272336",
     "quickInput.foreground": "#7A7785",
@@ -295,7 +295,7 @@
     "editorBracketPairGuide.activeBackground4": "#80FFD7",
     "editorBracketHighlight.foreground4": "#80FFD7",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675",
-    "editorLightBulb.foreground": "#FAB48E",
+    "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF"
   },
   "tokenColors": [
@@ -577,7 +577,7 @@
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#ffe6b3"
+        "foreground": "#FACEAF"
       }
     },
     {
