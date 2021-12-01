@@ -48,14 +48,14 @@
     "tab.unfocusedInactiveForeground": "#BBBAC2",
     "tab.unfocusedHoverBackground": "#ECEBF580",
     "editorLineNumber.activeForeground": "#92909EB3",
-    "editor.wordHighlightBackground": "#736C9416",
-    "editor.wordHighlightStrongBackground": "#736C9418",
+    "editor.wordHighlightBackground": "#736C9414",
+    "editor.wordHighlightStrongBackground": "#736C9416",
     "editor.selectionBackground": "#6059801d",
-    "editor.selectionHighlightBackground": "#00000010",
-    "editor.inactiveSelectionBackground": "#60598010",
+    "editor.selectionHighlightBackground": "#00000008",
+    "editor.inactiveSelectionBackground": "#60598008",
     "editor.findMatchBackground": "#76789318",
-    "editor.findMatchHighlightBackground": "#736C9416",
-    "editor.findRangeHighlightBackground": "#736C9411",
+    "editor.findMatchHighlightBackground": "#736C9414",
+    "editor.findRangeHighlightBackground": "#736C9409",
     "editorLink.activeForeground": "#3fa6d9",
     "editor.rangeHighlightBackground": "#00000007",
     "editor.rangeHighlightBorder": "#00000007",
@@ -189,7 +189,7 @@
     "button.hoverBackground": "#5EA873",
     "button.secondaryBackground": "#6DC28520",
     "button.secondaryHoverBackground": "#5EA87332",
-    "button.secondaryForeground": "#6DC285",
+    "button.secondaryForeground": "#569969",
     "titleBar.activeBackground": "#E6E4F0",
     "titleBar.inactiveBackground": "#F2F0FA",
     "titleBar.activeForeground": "#626166",
@@ -261,7 +261,7 @@
     "editorWidget.border": "#62616630",
     "editorWidget.foreground": "#92909E",
     "badge.background": "#6FB37020",
-    "badge.foreground": "#6DC285",
+    "badge.foreground": "#569969",
     "editorCursor.foreground": "#6DC285",
     "editorSuggestWidget.highlightForeground": "#6DC285",
     "editorWidget.resizeBorder": "#6DC285",
@@ -353,7 +353,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#E04943"
+        "foreground": "#E05C3F"
       }
     },
     {
@@ -365,14 +365,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#E04943"
+        "foreground": "#E05C3F"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#E04943"
+        "foreground": "#E05C3F"
       }
     },
     {
@@ -565,7 +565,7 @@
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#C77D48"
+        "foreground": "#E69053"
       }
     },
     {
@@ -738,7 +738,7 @@
       "name": "Markup added",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#a6cc70"
+        "foreground": "#599C1B"
       }
     },
     {
@@ -752,7 +752,7 @@
       "name": "Markup removed",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#f27983"
+        "foreground": "#4A3C69"
       }
     },
     {

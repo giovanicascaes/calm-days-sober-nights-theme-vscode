@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.6
+Improved token colors, selection colors
+
 ## 1.4.5
 Some color tweaks
 
