@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.10
+Enhance braces colored pair colors
+
 ## 1.4.9
 Updating diff colors
 
