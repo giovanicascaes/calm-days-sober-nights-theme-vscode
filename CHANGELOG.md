@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.7
+Changed green on syntax highlighting; other fixes
+
 ## 1.4.6
 Improved token colors, selection colors
 
