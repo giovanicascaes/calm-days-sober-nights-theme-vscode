@@ -503,7 +503,7 @@
     },
     {
       "name": "Object",
-      "scope": ["string.unquoted"],
+      "scope": ["string.unquoted", "meta.embedded"],
       "settings": {
         "foreground": "#4955A3"
       }

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.8
+Fix meta.embedded
+
 ## 1.4.7
 Changed green on syntax highlighting; other fixes
 

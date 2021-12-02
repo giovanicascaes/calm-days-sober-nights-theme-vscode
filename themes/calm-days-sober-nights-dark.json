@@ -529,7 +529,7 @@
     },
     {
       "name": "Object",
-      "scope": ["string.unquoted"],
+      "scope": ["string.unquoted", "meta.embedded"],
       "settings": {
         "foreground": "#8E9DFA"
       }
