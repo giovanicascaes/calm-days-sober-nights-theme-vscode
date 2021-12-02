@@ -64,12 +64,12 @@
     "editorOverviewRuler.findMatchForeground": "#7678933c",
     "editorOverviewRuler.rangeHighlightForeground": "#ffffff16",
     "editorOverviewRuler.selectionHighlightForeground": "#ffffff4F",
-    "editorOverviewRuler.modifiedForeground": "#68E8CA",
-    "editorOverviewRuler.addedForeground": "#B0FF66",
-    "editorOverviewRuler.deletedForeground": "#9A8EB3",
-    "editorOverviewRuler.errorForeground": "#FF6675",
-    "editorOverviewRuler.warningForeground": "#FAB38E",
-    "editorOverviewRuler.infoForeground": "#66EBFF",
+    "editorOverviewRuler.modifiedForeground": "#68E8CAA1",
+    "editorOverviewRuler.addedForeground": "#5DE876A1",
+    "editorOverviewRuler.deletedForeground": "#AFA1CCA1",
+    "editorOverviewRuler.errorForeground": "#FF6675A1",
+    "editorOverviewRuler.warningForeground": "#FAB38EA1",
+    "editorOverviewRuler.infoForeground": "#66EBFFA1",
     "editorError.foreground": "#FF6675",
     "editorWarning.foreground": "#FAB38E",
     "editorInfo.foreground": "#66EBFF",
@@ -80,11 +80,11 @@
     "minimap.selectionHighlight": "#AA99FF3D",
     "minimap.findMatchHighlight": "#767893B3",
     "minimap.background": "#2D2A3D",
-    "editorGutter.modifiedBackground": "#68E8CAC2",
-    "editorGutter.addedBackground": "#B0FF66C2",
-    "editorGutter.deletedBackground": "#9A8EB3C2",
-    "diffEditor.insertedTextBackground": "#B0FF661d",
-    "diffEditor.removedTextBackground": "#9A8EB31d",
+    "editorGutter.modifiedBackground": "#68E8CAB3",
+    "editorGutter.addedBackground": "#5DE876B3",
+    "editorGutter.deletedBackground": "#AFA1CCB3",
+    "diffEditor.insertedTextBackground": "#5DE8761d",
+    "diffEditor.removedTextBackground": "#AFA1CC1d",
     "debugExceptionWidget.background": "#E93D46",
     "debugExceptionWidget.border": "#E93D46",
     "editorMarkerNavigation.background": "#2A2738",
@@ -148,7 +148,7 @@
     "gitDecoration.addedResourceForeground": "#8ACF7C",
     "gitDecoration.modifiedResourceForeground": "#68E8CA",
     "gitDecoration.stageModifiedResourceForeground": "#5DCFB4",
-    "gitDecoration.deletedResourceForeground": "#9A8EB3",
+    "gitDecoration.deletedResourceForeground": "#AFA1CC",
     "gitDecoration.stageDeletedResourceForeground": "#837999",
     "gitDecoration.ignoredResourceForeground": "#D9D9D9a6",
     "gitDecoration.conflictingResourceForeground": "#D69A89",
@@ -741,7 +741,7 @@
       "name": "Markup added",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#B0FF66"
+        "foreground": "#5DE876"
       }
     },
     {
@@ -755,7 +755,7 @@
       "name": "Markup removed",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#9A8EB3"
+        "foreground": "#AFA1CC"
       }
     },
     {

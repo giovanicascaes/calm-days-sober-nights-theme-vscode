@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.9
+Updating diff colors
+
 ## 1.4.8
 Fix meta.embedded
 
