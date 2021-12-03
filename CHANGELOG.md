@@ -1,6 +1,9 @@
 # Change Log
 
-## 1.4.10
+## 1.4.12
+Enhance syntax color
+
+## 1.4.11
 Enhance syntax color
 
 ## 1.4.10

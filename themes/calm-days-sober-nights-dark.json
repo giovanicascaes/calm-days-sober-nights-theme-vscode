@@ -397,7 +397,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -455,7 +455,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -469,7 +469,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -517,14 +517,14 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -542,7 +542,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#9EFFCB80"
+        "foreground": "#8EE6B780"
       }
     },
     {
@@ -564,7 +564,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#96FAC5"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -631,7 +631,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -673,7 +673,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -770,7 +770,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#E1DFEB0f",
-        "foreground": "#9EFFCB"
+        "foreground": "#8EE6B7"
       }
     },
     {
@@ -849,7 +849,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#96FAC5"
+      "foreground": "#8EE6B7"
     },
     "property.declaration": {
       "foreground": "#8E9DFA"
