@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.15
+Update main color
+
 ## 1.4.14
 Enhance syntax color
 
