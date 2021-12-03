@@ -136,7 +136,7 @@
     "extensionButton.prominentForeground": "#FFFFFF99",
     "extensionButton.prominentBackground": "#BD4583",
     "extensionButton.prominentHoverBackground": "#A83E75",
-    "pickerGroup.border": "#342F4A",
+    "pickerGroup.border": "#C9C8CC25",
     "pickerGroup.foreground": "#BBB5C7",
     "terminal.selectionBackground": "#AA99FF1D",
     "welcomePage.buttonBackground": "#00000024",
