@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.13
+Enhance syntax color
+
 ## 1.4.12
 Enhance syntax color
 
