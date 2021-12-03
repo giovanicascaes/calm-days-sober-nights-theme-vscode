@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.17
+Update light theme main color
+
 ## 1.4.16
 Update light theme main color, quick open separator color
 
