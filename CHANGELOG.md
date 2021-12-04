@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.20
+Update light function name color
+
 ## 1.4.19
 Update numerics syntax color
 
