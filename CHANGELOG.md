@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.21
+Update overview ruler colors
+
 ## 1.4.20
 Update light function name color
 
