@@ -352,7 +352,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#E64640"
+        "foreground": "#F53C36"
       }
     },
     {
@@ -364,14 +364,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#E64640"
+        "foreground": "#F53C36"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#E64640"
+        "foreground": "#F53C36"
       }
     },
     {

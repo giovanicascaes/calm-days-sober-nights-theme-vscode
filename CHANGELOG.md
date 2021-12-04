@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.19
+Update numerics syntax color
+
 ## 1.4.18
 Update function name syntax color
 
