@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.22
+Update some syntax colors, dark hover buttons/links
+
 ## 1.4.21
 Update overview ruler colors
 
