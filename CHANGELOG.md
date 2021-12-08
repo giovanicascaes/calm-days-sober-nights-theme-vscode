@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.25
+Update button hover colors
+
 ## 1.4.24
 Update some syntax colors
 

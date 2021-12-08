@@ -188,7 +188,7 @@
     "button.background": "#6ABD90",
     "button.hoverBackground": "#5CA37C",
     "button.secondaryBackground": "#6ABD9020",
-    "button.secondaryHoverBackground": "#63B38732",
+    "button.secondaryHoverBackground": "#5CA37C34",
     "button.secondaryForeground": "#4B8565",
     "titleBar.activeBackground": "#E6E4F0",
     "titleBar.inactiveBackground": "#F2F0FA",
