@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.23
+Update some hover extension button color
+
 ## 1.4.22
 Update some syntax colors, dark hover buttons/links
 
