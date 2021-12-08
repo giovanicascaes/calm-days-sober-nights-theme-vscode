@@ -404,14 +404,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#3DCAF5"
+        "foreground": "#35C4F0"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#3DCAF5"
+        "foreground": "#35C4F0"
       }
     },
     {
@@ -476,7 +476,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#64E0E0"
+        "foreground": "#6CE6E6"
       }
     },
     {
@@ -495,7 +495,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#64E0E0E6"
+        "foreground": "#6CE6E6E6"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#64E0E0E6"
+        "foreground": "#6CE6E6E6"
       }
     },
     {
@@ -597,7 +597,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#64E0E0E6"
+        "foreground": "#6CE6E6E6"
       }
     },
     {
@@ -645,7 +645,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#3DCAF5"
+        "foreground": "#35C4F0"
       }
     },
     {
@@ -734,7 +734,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#64E0E0E6"
+        "foreground": "#6CE6E6E6"
       }
     },
     {

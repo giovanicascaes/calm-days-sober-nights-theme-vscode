@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.24
+Update some syntax colors
+
 ## 1.4.23
 Update some hover extension button color
 
