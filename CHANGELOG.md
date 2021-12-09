@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.26
+Add inlay hints colors
+
 ## 1.4.25
 Update button hover colors
 

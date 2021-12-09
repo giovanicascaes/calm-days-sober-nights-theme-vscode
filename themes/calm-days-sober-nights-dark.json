@@ -296,7 +296,9 @@
     "editorBracketHighlight.foreground4": "#FAA896B0",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675B0",
     "editorLightBulb.foreground": "#FAC4A7",
-    "editorLightBulbAutoFix.foreground": "#91F0FF"
+    "editorLightBulbAutoFix.foreground": "#91F0FF",
+    "editorInlayHint.background": "#BB99FF1B",
+    "editorInlayHint.foreground": "#A88AE6"
   },
   "tokenColors": [
     {
