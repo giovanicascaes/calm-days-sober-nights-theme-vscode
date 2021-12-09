@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.27
+More visible line numbers
+
 ## 1.4.26
 Add inlay hints colors
 
