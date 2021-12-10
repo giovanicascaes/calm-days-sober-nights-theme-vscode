@@ -298,7 +298,7 @@
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
     "editorInlayHint.background": "#BB99FF1B",
-    "editorInlayHint.foreground": "#A88AE6"
+    "editorInlayHint.foreground": "#AB8DEB"
   },
   "tokenColors": [
     {

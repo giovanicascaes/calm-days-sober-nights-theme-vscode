@@ -1,5 +1,8 @@
 # Change Log
 
+
+## 1.4.29
+Fix secondary button hover light, inlay hints dark
 ## 1.4.28
 Change merge colors; fix editor lens, inlay hints light
 
