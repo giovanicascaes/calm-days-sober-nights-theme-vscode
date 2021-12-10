@@ -298,7 +298,9 @@
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
     "editorInlayHint.background": "#BB99FF1B",
-    "editorInlayHint.foreground": "#AB8DEB"
+    "editorInlayHint.foreground": "#AB8DEB",
+    "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
+    "editor.snippetFinalTabstopHighlightBackground": "#"
   },
   "tokenColors": [
     {
@@ -431,7 +433,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#E1DFEB76"
+        "foreground": "#E1DFEB96"
       }
     },
     {

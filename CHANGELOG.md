@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.30
+Update snippets tabstop, punctuation colors
+
 ## 1.4.29
 Fix secondary button hover light, inlay hints dark
 ## 1.4.28
