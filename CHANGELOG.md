@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.31
+Update syntax color
+
 ## 1.4.30
 Update snippets tabstop, punctuation colors
 

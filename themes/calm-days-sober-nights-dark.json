@@ -506,7 +506,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#FFB8CC",
+        "foreground": "#FF91B1",
         "fontStyle": "italic"
       }
     },
