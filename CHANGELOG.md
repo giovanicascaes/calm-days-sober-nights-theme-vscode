@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.36
+Update dark inlay hints
+
 ## 1.4.35
 Update some dark syntax color
 

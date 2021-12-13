@@ -298,7 +298,7 @@
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
     "editorInlayHint.background": "#AE8DF21B",
-    "editorInlayHint.foreground": "#AC90E8",
+    "editorInlayHint.foreground": "#C0A3FF",
     "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
     "editor.snippetFinalTabstopHighlightBackground": "#"
   },
