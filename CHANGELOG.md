@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.35
+Update some dark syntax color
+
 ## 1.4.34
 Update dark syntax color: stronger
 
