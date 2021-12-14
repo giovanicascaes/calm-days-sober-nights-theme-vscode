@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.38
+Update inlay hints, some syntax colors, widget color
+
 ## 1.4.37
 Update inlay hints
 

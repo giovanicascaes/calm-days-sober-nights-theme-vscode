@@ -298,7 +298,7 @@
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
     "editorInlayHint.background": "#3AD9D91B",
-    "editorInlayHint.foreground": "#3AD9D9E1",
+    "editorInlayHint.foreground": "#3AD9D9C1",
     "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
     "editor.snippetFinalTabstopHighlightBackground": "#"
   },
@@ -408,14 +408,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#11BEF2"
+        "foreground": "#19C8FF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#11BEF2"
+        "foreground": "#19C8FF"
       }
     },
     {
@@ -649,7 +649,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#11BEF2"
+        "foreground": "#19C8FF"
       }
     },
     {

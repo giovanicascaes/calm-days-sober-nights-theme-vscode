@@ -31,6 +31,7 @@ This theme has the following inspirations:
 - [Beautiful UI](https://github.com/swashata/vscode-beautiful-ui)
 - [Aylin](https://github.com/AhmedAbdulrahman/aylin-vscode-theme)
 - macOS light theme
+- [ray.so Candy Theme](https://ray.so)
 
 Syntax examples were grabbed from [syntax-highlight-samples](https://github.com/uloco/syntax-highlighting-samples)
 

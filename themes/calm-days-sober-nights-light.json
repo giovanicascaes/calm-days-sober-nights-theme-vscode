@@ -36,8 +36,8 @@
     "list.inactiveSelectionForeground": "#000000",
     "list.inactiveFocusBackground": "#00000011",
     "list.invalidItemForeground": "#CF344D",
-    "listFilterWidget.outline": "#D8CEED",
-    "listFilterWidget.background": "#D8CEED",
+    "listFilterWidget.outline": "#E4D9FA",
+    "listFilterWidget.background": "#E4D9FA",
     "listFilterWidget.noMatchesOutline": "#CF344D",
     "list.filterMatchBackground": "#76789318",
     "activityBar.dropBackground": "#E3E1EDB3",
@@ -294,7 +294,7 @@
     "editorLightBulb.foreground": "#CF7748",
     "editorLightBulbAutoFix.foreground": "#368E9C",
     "editorInlayHint.background": "#1E94941B",
-    "editorInlayHint.foreground": "#1E9494E1",
+    "editorInlayHint.foreground": "#1E9494C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10"
   },
   "tokenColors": [
@@ -395,14 +395,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#0087B0"
+        "foreground": "#007FA6"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#0087B0"
+        "foreground": "#007FA6"
       }
     },
     {
@@ -636,7 +636,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#0087B0"
+        "foreground": "#007FA6"
       }
     },
     {
