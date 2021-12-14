@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.4.39
+Update string, numeric light syntax color
 
 ## 1.4.38
 Update inlay hints, some syntax colors, widget color
