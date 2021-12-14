@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 1.4.37
+Update inlay hints
+
 ## 1.4.36
 Update dark inlay hints
 

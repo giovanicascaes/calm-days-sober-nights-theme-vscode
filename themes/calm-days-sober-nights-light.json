@@ -293,8 +293,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#CF344DCB0",
     "editorLightBulb.foreground": "#CF7748",
     "editorLightBulbAutoFix.foreground": "#368E9C",
-    "editorInlayHint.background": "#7151B311",
-    "editorInlayHint.foreground": "#8C64DE",
+    "editorInlayHint.background": "#1E94941B",
+    "editorInlayHint.foreground": "#1E9494E1",
     "editor.snippetTabstopHighlightBackground": "#67627A10"
   },
   "tokenColors": [

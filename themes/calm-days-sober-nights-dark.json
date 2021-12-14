@@ -297,8 +297,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675B0",
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
-    "editorInlayHint.background": "#AE8DF21B",
-    "editorInlayHint.foreground": "#C0A3FF",
+    "editorInlayHint.background": "#3AD9D91B",
+    "editorInlayHint.foreground": "#3AD9D9E1",
     "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
     "editor.snippetFinalTabstopHighlightBackground": "#"
   },
