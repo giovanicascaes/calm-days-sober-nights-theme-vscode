@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.42
+Update syntax colors
+
 ## 1.4.41
 Update syntax colors, input borders
 
