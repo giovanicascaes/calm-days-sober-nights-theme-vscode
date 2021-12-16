@@ -215,14 +215,14 @@
     "panelTitle.inactiveForeground": "#7A7785",
     "panelTitle.activeForeground": "#C9C8CC",
     "input.background": "#242130",
-    "input.border": "#ffffff18",
+    "input.border": "#ffffff10",
     "inputOption.activeBackground": "#36324D",
     "checkbox.background": "#272336",
     "editor.foreground": "#C9C8CC",
     "sideBarTitle.foreground": "#C9C8CC",
     "dropdown.background": "#242130",
     "dropdown.listBackground": "#242130",
-    "dropdown.border": "#C9C8CC12",
+    "dropdown.border": "#ffffff10",
     "menubar.selectionForeground": "#FFFFFF",
     "menubar.selectionBackground": "#7A778520",
     "menu.background": "#2D2A3B",
@@ -481,7 +481,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#54DEDE"
+        "foreground": "#4BDEDE"
       }
     },
     {
@@ -507,7 +507,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#C48DC4",
+        "foreground": "#F2A5F2",
         "fontStyle": "italic"
       }
     },

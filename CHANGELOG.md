@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.41
+Update syntax colors, input borders
+
 ## 1.4.40
 Update welcome screen, syntax color
 
