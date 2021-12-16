@@ -139,7 +139,6 @@
     "pickerGroup.border": "#62616630",
     "pickerGroup.foreground": "#5B5A63",
     "terminal.selectionBackground": "#6059801a",
-    "welcomePage.background": "#F4F2FC",
     "welcomePage.buttonBackground": "#00000010",
     "welcomePage.buttonHoverBackground": "#0000001A",
     "welcomePage.tileBackground": "#00000010",
@@ -368,7 +367,7 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#F0403A"
+        "foreground": "#2B283B"
       }
     },
     {

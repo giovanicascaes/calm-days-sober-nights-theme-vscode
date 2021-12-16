@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.43
+Remove welcome custom background
+
 ## 1.4.42
 Update syntax colors
 
