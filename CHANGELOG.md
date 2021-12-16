@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.40
+Update welcome screen, syntax color
+
 ## 1.4.39
 Update string, numeric light syntax color
 

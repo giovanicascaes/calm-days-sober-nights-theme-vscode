@@ -138,6 +138,7 @@
     "pickerGroup.border": "#C9C8CC25",
     "pickerGroup.foreground": "#BBB5C7",
     "terminal.selectionBackground": "#AA99FF1D",
+    "welcomePage.background": "#2F2C40",
     "welcomePage.buttonBackground": "#00000024",
     "welcomePage.buttonHoverBackground": "#ffffff1A",
     "welcomePage.tileBackground": "#00000024",
@@ -297,8 +298,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675B0",
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
-    "editorInlayHint.background": "#3AD9D91B",
-    "editorInlayHint.foreground": "#3AD9D9C1",
+    "editorInlayHint.background": "#37E6E61B",
+    "editorInlayHint.foreground": "#37E6E6C1",
     "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
     "editor.snippetFinalTabstopHighlightBackground": "#"
   },
@@ -480,7 +481,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#3AD9D9"
+        "foreground": "#54DEDE"
       }
     },
     {
@@ -499,14 +500,14 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#3AD9D9E6"
+        "foreground": "#37E6E6E6"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#FF91B1",
+        "foreground": "#C48DC4",
         "fontStyle": "italic"
       }
     },
@@ -601,7 +602,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#3AD9D9E6"
+        "foreground": "#37E6E6E6"
       }
     },
     {
@@ -738,7 +739,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#3AD9D9E6"
+        "foreground": "#37E6E6E6"
       }
     },
     {
