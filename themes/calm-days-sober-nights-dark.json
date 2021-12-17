@@ -292,13 +292,13 @@
     "editorBracketHighlight.foreground2": "#8A8DE6B0",
     "editorBracketPairGuide.activeBackground3": "#73DEA5B0",
     "editorBracketHighlight.foreground3": "#73DEA5B0",
-    "editorBracketPairGuide.activeBackground4": "#FFB09EB0",
-    "editorBracketHighlight.foreground4": "#FFB09EB0",
+    "editorBracketPairGuide.activeBackground4": "#FFA894B0",
+    "editorBracketHighlight.foreground4": "#FFA894B0",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF6675B0",
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
-    "editorInlayHint.background": "#37E6E61B",
-    "editorInlayHint.foreground": "#37E6E6C1",
+    "editorInlayHint.background": "#4EDEDE1B",
+    "editorInlayHint.foreground": "#4EDEDEC1",
     "editor.snippetTabstopHighlightBackground": "#E1DFEB10",
     "editor.snippetFinalTabstopHighlightBackground": "#"
   },
@@ -335,14 +335,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FFB09E"
+        "foreground": "#FFA894"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FFB09E"
+        "foreground": "#FFA894"
       }
     },
     {
@@ -360,7 +360,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#FF8985"
+        "foreground": "#FF7F7A"
       }
     },
     {
@@ -372,14 +372,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#FF8985"
+        "foreground": "#FF7F7A"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#FF8985"
+        "foreground": "#FF7F7A"
       }
     },
     {
@@ -480,12 +480,16 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#43DEDE"
+        "foreground": "#4EDEDE"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "meta.parameter"],
+      "scope": [
+        "variable.parameter",
+        "meta.parameter",
+        "meta.function.parameters"
+      ],
       "settings": {
         "foreground": "#AE8DF2"
       }
@@ -499,14 +503,14 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#37E6E6E6"
+        "foreground": "#4EDEDEE6"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#F2A5F2",
+        "foreground": "#FA878F",
         "fontStyle": "italic"
       }
     },
@@ -514,7 +518,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FFB09E"
+        "foreground": "#FFA894"
       }
     },
     {
@@ -601,7 +605,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#37E6E6E6"
+        "foreground": "#4EDEDEE6"
       }
     },
     {
@@ -656,7 +660,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FFB09E"
+        "foreground": "#FFA894"
       }
     },
     {
@@ -670,7 +674,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FFB09E"
+        "foreground": "#FFA894"
       }
     },
     {
@@ -738,7 +742,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#37E6E6E6"
+        "foreground": "#4EDEDEE6"
       }
     },
     {
@@ -817,9 +821,7 @@
       }
     },
     {
-      "scope": [
-        "entity.other.attribute-name"
-      ],
+      "scope": ["entity.other.attribute-name"],
       "settings": {
         "fontStyle": "italic"
       }

@@ -288,8 +288,8 @@
     "editorBracketHighlight.foreground2": "#4955A3B0",
     "editorBracketPairGuide.activeBackground3": "#4FB07CB0",
     "editorBracketHighlight.foreground3": "#4FB07CB0",
-    "editorBracketPairGuide.activeBackground4": "#F06F51B0",
-    "editorBracketHighlight.foreground4": "#F06F51B0",
+    "editorBracketPairGuide.activeBackground4": "#F06848B0",
+    "editorBracketHighlight.foreground4": "#F06848B0",
     "editorBracketHighlight.unexpectedBracket.foreground": "#CF344DCB0",
     "editorLightBulb.foreground": "#CF7748",
     "editorLightBulbAutoFix.foreground": "#368E9C",
@@ -330,14 +330,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F06F51"
+        "foreground": "#F06848"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F06F51"
+        "foreground": "#F06848"
       }
     },
     {
@@ -355,7 +355,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#F0403A"
+        "foreground": "#F03630"
       }
     },
     {
@@ -367,14 +367,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#2B283B"
+        "foreground": "#F03630"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#F0403A"
+        "foreground": "#F03630"
       }
     },
     {
@@ -493,7 +493,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#B362B3",
+        "foreground": "#EB3D43",
         "fontStyle": "italic"
       }
     },
@@ -501,7 +501,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F06F51"
+        "foreground": "#F06848"
       }
     },
     {
@@ -643,7 +643,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F06F51"
+        "foreground": "#F06848"
       }
     },
     {
@@ -665,7 +665,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F06F51"
+        "foreground": "#F06848"
       }
     },
     {
