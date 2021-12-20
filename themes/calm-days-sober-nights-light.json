@@ -284,8 +284,8 @@
     "debugToolBar.border": "#E6E4F0",
     "settings.modifiedItemIndicator": "#1A9494",
     "settings.rowHoverBackground": "#00000007",
-    "editorBracketPairGuide.activeBackground1": "#0D6F75",
-    "editorBracketHighlight.foreground1": "#0D6F75",
+    "editorBracketPairGuide.activeBackground1": "#0B7375",
+    "editorBracketHighlight.foreground1": "#0B7375",
     "editorBracketPairGuide.activeBackground2": "#006B8C",
     "editorBracketHighlight.foreground2": "#006B8C",
     "editorBracketPairGuide.activeBackground3": "#AD3F65",
@@ -295,8 +295,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF7748",
     "editorLightBulbAutoFix.foreground": "#368E9C",
-    "editorInlayHint.background": "#10878F1B",
-    "editorInlayHint.foreground": "#10878FC1",
+    "editorInlayHint.background": "#0D8D8F1B",
+    "editorInlayHint.foreground": "#0D8D8FC1",
     "editor.snippetTabstopHighlightBackground": "#67627A10"
   },
   "tokenColors": [
@@ -470,7 +470,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#10878F"
+        "foreground": "#0D8D8F"
       }
     },
     {
@@ -489,14 +489,14 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#10878F"
+        "foreground": "#0D8D8F"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#0F7980",
+        "foreground": "#0C7E80",
         "fontStyle": "italic"
       }
     },
@@ -543,7 +543,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#0F7980"
+        "foreground": "#0C7E80"
       }
     },
     {
@@ -591,7 +591,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#10878F"
+        "foreground": "#0D8D8F"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#10878F"
+        "foreground": "#0D8D8F"
       }
     },
     {

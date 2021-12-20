@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.2
+Fix light function name color
+
 ## 1.5.1
 Fix comments colors, quick input foreground
 
