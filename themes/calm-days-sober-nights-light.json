@@ -239,7 +239,7 @@
     "editorHoverWidget.statusBarBackground": "#E5E4ED",
     "checkbox.foreground": "#63B387",
     "quickInput.background": "#EBE9F5",
-    "quickInput.foreground": "#8D899E",
+    "quickInput.foreground": "#5B5966",
     "input.foreground": "#5A5966",
     "input.placeholderForeground": "#807E8F90",
     "terminal.foreground": "#5B5966",
@@ -326,7 +326,7 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#A29BC2"
+        "foreground": "#AAA5C2"
       }
     },
     {
@@ -617,7 +617,7 @@
         "source.stylus support.type"
       ],
       "settings": {
-        "foreground": "#A29BC2"
+        "foreground": "#AAA5C2"
       }
     },
     {
@@ -632,7 +632,7 @@
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
       "settings": {
-        "foreground": "#A29BC2"
+        "foreground": "#AAA5C2"
       }
     },
     {
@@ -721,7 +721,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#645E7A0f",
-        "foreground": "#A29BC2"
+        "foreground": "#AAA5C2"
       }
     },
     {
@@ -786,8 +786,8 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "background": "#A29BC2",
-        "foreground": "#A29BC2"
+        "background": "#AAA5C2",
+        "foreground": "#AAA5C2"
       }
     },
     {
@@ -795,7 +795,7 @@
       "scope": ["punctuation.definition.markdown"],
       "settings": {
         "background": "#645E7A",
-        "foreground": "#A29BC2"
+        "foreground": "#AAA5C2"
       }
     },
     {

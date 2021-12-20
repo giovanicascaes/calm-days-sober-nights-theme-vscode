@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.1
+Fix comments colors, quick input foreground
+
 ## 1.5.0
 Several colors updated
 
