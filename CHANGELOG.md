@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.6.0
+More purple, syntax function name enhanced
 ## 1.5.3
 More purple
 
