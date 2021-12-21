@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.1
+Fix snipped tab stop color
+
 ## 1.6.0
 More purple, syntax function name enhanced
 ## 1.5.3
