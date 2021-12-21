@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.3
+More purple
+
 ## 1.5.2
 Fix light function name color
 
