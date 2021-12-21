@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.6.2
+Update balloons and ignored resource colors
 ## 1.6.1
 Fix snipped tab stop color
 
