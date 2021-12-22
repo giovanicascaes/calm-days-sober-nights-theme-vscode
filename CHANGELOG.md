@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.6.8
+Enhance terminal colors
 ## 1.6.7
 Add light them editor info color
 
