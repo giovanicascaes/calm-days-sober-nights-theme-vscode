@@ -71,6 +71,7 @@
     "editorOverviewRuler.unicodeForeground": "#CF8634C3",
     "editorError.foreground": "#CF344D",
     "editorWarning.foreground": "#CF6A34",
+    "editorInfo.foreground": "#2DA3B5",
     "list.errorForeground": "#CF344D",
     "list.warningForeground": "#CF6A34",
     "minimap.errorHighlight": "#CF344DB3",

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.7
+Add light them editor info color
+
 ## 1.6.6
 Fix description color
 ## 1.6.5
