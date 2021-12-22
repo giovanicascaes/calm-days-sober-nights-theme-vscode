@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.6.5
+Fix resource ignored colors
 ## 1.6.4
 Fix resource ignored colors
 
