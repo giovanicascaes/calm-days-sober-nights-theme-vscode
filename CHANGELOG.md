@@ -1,6 +1,8 @@
 # Change Log
 
-## 1.6.8
+## 1.6.9
+Update whitespace, code lens, dropdown border colors
+## 1.6.9
 Enhance terminal colors
 ## 1.6.7
 Add light them editor info color
