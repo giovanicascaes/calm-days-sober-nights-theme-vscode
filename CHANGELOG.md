@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.13
+Editor hover highlight Color fix
+
 ## 1.6.12
 Some color fixes
 

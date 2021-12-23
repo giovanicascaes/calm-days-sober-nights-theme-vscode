@@ -52,7 +52,7 @@
     "editor.findMatchBackground": "#76789368",
     "editor.findMatchHighlightBackground": "#736C9448",
     "editor.findRangeHighlightBackground": "#736C9419",
-    "editor.hoverHighlightBackground": "#9C8AF910",
+    "editor.hoverHighlightBackground": "#A191F210",
     "editorLink.activeForeground": "#3DDAFF",
     "editor.rangeHighlightBackground": "#ffffff08",
     "editorWhitespace.foreground": "#DAD8EB16",
