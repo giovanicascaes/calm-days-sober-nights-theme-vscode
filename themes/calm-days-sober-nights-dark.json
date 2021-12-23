@@ -11,13 +11,13 @@
     "errorForeground": "#FF6675",
     "dropdown.foreground": "#BAB8CC",
     "inputValidation.errorBackground": "#E66774",
-    "inputValidation.errorForeground": "#000000B9",
+    "inputValidation.errorForeground": "#000000C6",
     "inputValidation.errorBorder": "#E66774",
     "inputValidation.infoBackground": "#45C8E6",
-    "inputValidation.infoForeground": "#000000B9",
+    "inputValidation.infoForeground": "#000000C6",
     "inputValidation.infoBorder": "#45C8E6",
     "inputValidation.warningBackground": "#E69B73",
-    "inputValidation.warningForeground": "#000000B9",
+    "inputValidation.warningForeground": "#000000C6",
     "inputValidation.warningBorder": "#E69B73",
     "scrollbarSlider.background": "#ffffff1a",
     "scrollbarSlider.activeBackground": "#ffffff4d",
@@ -62,13 +62,13 @@
     "editorOverviewRuler.findMatchForeground": "#7678933c",
     "editorOverviewRuler.rangeHighlightForeground": "#ffffff16",
     "editorOverviewRuler.selectionHighlightForeground": "#ffffff4F",
-    "editorOverviewRuler.modifiedForeground": "#68E8CAC3",
-    "editorOverviewRuler.addedForeground": "#5DE876C3",
-    "editorOverviewRuler.deletedForeground": "#AFA1CCC3",
-    "editorOverviewRuler.errorForeground": "#FF6675C3",
-    "editorOverviewRuler.warningForeground": "#FAB38EC3",
-    "editorOverviewRuler.infoForeground": "#66EBFFC3",
-    "editorOverviewRuler.unicodeForeground": "#FFCC91C3",
+    "editorOverviewRuler.modifiedForeground": "#68E8CAD3",
+    "editorOverviewRuler.addedForeground": "#5DE876D3",
+    "editorOverviewRuler.deletedForeground": "#AFA1CCD3",
+    "editorOverviewRuler.errorForeground": "#FF6675D3",
+    "editorOverviewRuler.warningForeground": "#FAB38ED3",
+    "editorOverviewRuler.infoForeground": "#66EBFFD3",
+    "editorOverviewRuler.unicodeForeground": "#FFCC91D3",
     "editorError.foreground": "#FF6675",
     "editorWarning.foreground": "#FAB38E",
     "editorInfo.foreground": "#66EBFF",
@@ -216,7 +216,7 @@
     "panelTitle.inactiveForeground": "#746D85",
     "panelTitle.activeForeground": "#BAB8CC",
     "input.background": "#242130",
-    "input.border": "#BAB8CC10",
+    "input.border": "#BAB8CC12",
     "inputOption.activeBackground": "#37334A",
     "checkbox.background": "#272336",
     "editor.foreground": "#BAB8CC",
@@ -286,8 +286,8 @@
     "debugToolBar.border": "#2D2A3B",
     "settings.modifiedItemIndicator": "#68E8CA",
     "settings.rowHoverBackground": "#ffffff07",
-    "editorBracketPairGuide.activeBackground1": "#45B5C4",
-    "editorBracketHighlight.foreground1": "#45B5C4",
+    "editorBracketPairGuide.activeBackground1": "#3DBBCC",
+    "editorBracketHighlight.foreground1": "#3DBBCC",
     "editorBracketPairGuide.activeBackground2": "#17B5E6",
     "editorBracketHighlight.foreground2": "#17B5E6",
     "editorBracketPairGuide.activeBackground3": "#E06C95",
@@ -297,8 +297,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
-    "editorInlayHint.background": "#4ECDDE1B",
-    "editorInlayHint.foreground": "#4ECDDEC1",
+    "editorInlayHint.background": "#45D3E61B",
+    "editorInlayHint.foreground": "#45D3E6C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#998AE61D"
   },
@@ -481,16 +481,12 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#4ECDDE"
+        "foreground": "#45D3E6"
       }
     },
     {
       "name": "Function arguments",
-      "scope": [
-        "variable.parameter",
-        "meta.parameter",
-        "meta.function.parameters"
-      ],
+      "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
         "foreground": "#AE8DF2"
       }
@@ -504,14 +500,14 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#4ECDDEE6"
+        "foreground": "#45D3E6E6"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#48BFCF",
+        "foreground": "#40C4D6",
         "fontStyle": "italic"
       }
     },
@@ -558,7 +554,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#48BFCF"
+        "foreground": "#40C4D6"
       }
     },
     {
@@ -606,7 +602,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#4ECDDEE6"
+        "foreground": "#45D3E6E6"
       }
     },
     {
@@ -743,7 +739,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#4ECDDEE6"
+        "foreground": "#45D3E6E6"
       }
     },
     {

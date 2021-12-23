@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.10
+Update several colors
+
 ## 1.6.9
 Update whitespace, code lens, dropdown border colors
 ## 1.6.9
