@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.7.0
+New string colors
+
 ## 1.6.14
 Fix borders, hovers
 
