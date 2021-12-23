@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.14
+Fix borders, hovers
+
 ## 1.6.13
 Editor hover highlight Color fix
 
