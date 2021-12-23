@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.11
+Update light deleted color
+
 ## 1.6.10
 Update several colors
 

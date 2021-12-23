@@ -64,7 +64,7 @@
     "editorOverviewRuler.selectionHighlightForeground": "#0000004F",
     "editorOverviewRuler.modifiedForeground": "#1A9494D3",
     "editorOverviewRuler.addedForeground": "#1A9C32D3",
-    "editorOverviewRuler.deletedForeground": "#3E3159D3",
+    "editorOverviewRuler.deletedForeground": "#3C2961D3",
     "editorOverviewRuler.errorForeground": "#CF344DD3",
     "editorOverviewRuler.warningForeground": "#CF6A34D3",
     "editorOverviewRuler.infoForeground": "#2DA3B5D3",
@@ -82,9 +82,9 @@
     "editorUnicodeHighlight.border": "#CF863466",
     "editorGutter.modifiedBackground": "#1A9494B3",
     "editorGutter.addedBackground": "#1A9C32B3",
-    "editorGutter.deletedBackground": "#3E3159B3",
+    "editorGutter.deletedBackground": "#3C2961B3",
     "diffEditor.insertedTextBackground": "#1A9C321a",
-    "diffEditor.removedTextBackground": "#3E31591a",
+    "diffEditor.removedTextBackground": "#3C29611a",
     "debugExceptionWidget.background": "#E93D46",
     "debugExceptionWidget.border": "#E93D46",
     "editorMarkerNavigation.background": "#EDEBF5",
@@ -759,7 +759,7 @@
       "name": "Markup removed",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#3E3159"
+        "foreground": "#3C2961"
       }
     },
     {
