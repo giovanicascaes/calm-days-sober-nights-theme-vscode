@@ -22,7 +22,7 @@
     "scrollbarSlider.background": "#0000001a",
     "scrollbarSlider.activeBackground": "#0000004d",
     "scrollbarSlider.hoverBackground": "#00000033",
-    "progressBar.background": "#F03630",
+    "progressBar.background": "#F14C46",
     "list.activeSelectionBackground": "#00000010",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#E1DFEDB3",
@@ -339,14 +339,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F0484E"
+        "foreground": "#F25F64"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F0484E"
+        "foreground": "#F25F64"
       }
     },
     {
@@ -364,7 +364,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#F03630"
+        "foreground": "#F14C46"
       }
     },
     {
@@ -376,14 +376,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#F03630"
+        "foreground": "#F14C46"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#F03630"
+        "foreground": "#F14C46"
       }
     },
     {
@@ -510,7 +510,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F0484E"
+        "foreground": "#F25F64"
       }
     },
     {
@@ -652,7 +652,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F0484E"
+        "foreground": "#F25F64"
       }
     },
     {
@@ -674,7 +674,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F0484E"
+        "foreground": "#F25F64"
       }
     },
     {

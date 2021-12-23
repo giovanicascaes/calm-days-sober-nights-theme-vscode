@@ -22,7 +22,7 @@
     "scrollbarSlider.background": "#ffffff1a",
     "scrollbarSlider.activeBackground": "#ffffff4d",
     "scrollbarSlider.hoverBackground": "#ffffff33",
-    "progressBar.background": "#FF7F7A",
+    "progressBar.background": "#FF8E8A",
     "list.activeSelectionBackground": "#ffffff11",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#322D45B3",
@@ -340,14 +340,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FF9498"
+        "foreground": "#FFA3A6"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FF9498"
+        "foreground": "#FFA3A6"
       }
     },
     {
@@ -365,7 +365,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#FF7F7A"
+        "foreground": "#FF8E8A"
       }
     },
     {
@@ -377,14 +377,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#FF7F7A"
+        "foreground": "#FF8E8A"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#FF7F7A"
+        "foreground": "#FF8E8A"
       }
     },
     {
@@ -519,7 +519,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FF9498"
+        "foreground": "#FFA3A6"
       }
     },
     {
@@ -661,7 +661,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FF9498"
+        "foreground": "#FFA3A6"
       }
     },
     {
@@ -675,7 +675,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FF9498"
+        "foreground": "#FFA3A6"
       }
     },
     {
