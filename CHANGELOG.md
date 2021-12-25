@@ -1,5 +1,7 @@
 # Change Log
 
+## 1.8.0
+Update main color, syntax colors
 ## 1.7.1
 Updated string colors
 ## 1.7.0
