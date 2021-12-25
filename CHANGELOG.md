@@ -1,9 +1,13 @@
 # Change Log
 
+## 1.8.1
+More blue modified colors
 ## 1.8.0
 Update main color, syntax colors
+
 ## 1.7.1
 Updated string colors
+
 ## 1.7.0
 Lighter string colors
 
