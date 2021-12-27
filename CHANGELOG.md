@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.8.3
+Syntax small changes
+
 ## 1.8.2
 Syntax small changes
 
