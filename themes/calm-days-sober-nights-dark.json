@@ -22,7 +22,7 @@
     "scrollbarSlider.background": "#ffffff1a",
     "scrollbarSlider.activeBackground": "#ffffff4d",
     "scrollbarSlider.hoverBackground": "#ffffff33",
-    "progressBar.background": "#FF8E8A",
+    "progressBar.background": "#FF8985",
     "list.activeSelectionBackground": "#ffffff11",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#322D45B3",
@@ -365,7 +365,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#FF8E8A"
+        "foreground": "#FF8985"
       }
     },
     {
@@ -377,14 +377,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#FF8E8A"
+        "foreground": "#FF8985"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#FF8E8A"
+        "foreground": "#FF8985"
       }
     },
     {
@@ -413,14 +413,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#19C8FF"
+        "foreground": "#19C2FF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#19C8FF"
+        "foreground": "#19C2FF"
       }
     },
     {
@@ -664,7 +664,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#19C8FF"
+        "foreground": "#19C2FF"
       }
     },
     {

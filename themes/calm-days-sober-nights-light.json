@@ -22,7 +22,7 @@
     "scrollbarSlider.background": "#0000001a",
     "scrollbarSlider.activeBackground": "#0000004d",
     "scrollbarSlider.hoverBackground": "#00000033",
-    "progressBar.background": "#F14C46",
+    "progressBar.background": "#F14741",
     "list.activeSelectionBackground": "#00000010",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#E1DFEDB3",
@@ -376,14 +376,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#F14C46"
+        "foreground": "#F14741"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#F14C46"
+        "foreground": "#F14741"
       }
     },
     {
@@ -404,14 +404,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#007FA6"
+        "foreground": "#007AA6"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#007FA6"
+        "foreground": "#007AA6"
       }
     },
     {
@@ -655,7 +655,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#007FA6"
+        "foreground": "#007AA6"
       }
     },
     {
