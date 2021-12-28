@@ -292,8 +292,8 @@
     "settings.rowHoverBackground": "#ffffff07",
     "editorBracketPairGuide.activeBackground1": "#31BACC",
     "editorBracketHighlight.foreground1": "#31BACC",
-    "editorBracketPairGuide.activeBackground2": "#17B5E6",
-    "editorBracketHighlight.foreground2": "#17B5E6",
+    "editorBracketPairGuide.activeBackground2": "#17AFE6",
+    "editorBracketHighlight.foreground2": "#17AFE6",
     "editorBracketPairGuide.activeBackground3": "#E06C95",
     "editorBracketHighlight.foreground3": "#E06C95",
     "editorBracketPairGuide.activeBackground4": "#66C492",
@@ -340,14 +340,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FF9EA3"
+        "foreground": "#FF9EA4"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FF9EA3"
+        "foreground": "#FF9EA4"
       }
     },
     {
@@ -413,14 +413,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#0FC7FF"
+        "foreground": "#19BEFA"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#0FC7FF"
+        "foreground": "#19BEFA"
       }
     },
     {
@@ -511,7 +511,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#33C2D6",
+        "foreground": "#72E6C1",
         "fontStyle": "italic"
       }
     },
@@ -519,14 +519,14 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FF9EA3"
+        "foreground": "#FF9EA4"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#4FD6BE"
+        "foreground": "#38DBD3"
       }
     },
     {
@@ -583,7 +583,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#4FD6BE"
+        "foreground": "#38DBD3"
       }
     },
     {
@@ -664,14 +664,14 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#0FC7FF"
+        "foreground": "#19BEFA"
       }
     },
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FF9EA3"
+        "foreground": "#FF9EA4"
       }
     },
     {
@@ -685,7 +685,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FF9EA3"
+        "foreground": "#FF9EA4"
       }
     },
     {
@@ -866,7 +866,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#4FD6BE"
+      "foreground": "#38DBD3"
     },
     "property.declaration": {
       "foreground": "#8C84EB"

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.9.0
+Update several syntax colors
+
 ## 1.8.3
 Syntax small changes
 
