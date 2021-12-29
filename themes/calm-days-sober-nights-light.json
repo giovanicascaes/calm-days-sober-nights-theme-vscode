@@ -291,8 +291,8 @@
     "settings.rowHoverBackground": "#00000007",
     "editorBracketPairGuide.activeBackground1": "#156873",
     "editorBracketHighlight.foreground1": "#156873",
-    "editorBracketPairGuide.activeBackground2": "#00678C",
-    "editorBracketHighlight.foreground2": "#00678C",
+    "editorBracketPairGuide.activeBackground2": "#00628C",
+    "editorBracketHighlight.foreground2": "#00628C",
     "editorBracketPairGuide.activeBackground3": "#AD3F65",
     "editorBracketHighlight.foreground3": "#AD3F65",
     "editorBracketPairGuide.activeBackground4": "#007537",
@@ -404,14 +404,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#0071A1"
+        "foreground": "#0074A6"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#0071A1"
+        "foreground": "#0074A6"
       }
     },
     {
@@ -502,7 +502,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#00A39A",
+        "foreground": "#009E95",
         "fontStyle": "italic"
       }
     },
@@ -524,7 +524,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#00A39A"
+        "foreground": "#009E95"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#00A39A"
+        "foreground": "#009E95"
       }
     },
     {
@@ -655,7 +655,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#0071A1"
+        "foreground": "#0074A6"
       }
     },
     {
@@ -864,7 +864,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#00A39A"
+      "foreground": "#009E95"
     },
     "property.declaration": {
       "foreground": "#4545A8"
