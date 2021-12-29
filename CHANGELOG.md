@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.10.3
+Small syntax tweaks
+
 ## 1.10.2
 Small syntax tweak
 
