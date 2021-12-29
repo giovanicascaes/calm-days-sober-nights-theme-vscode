@@ -2,3 +2,4 @@ node_modules
 *.vsix
 .history
 .DS_Store
+build.js

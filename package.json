@@ -8,6 +8,9 @@
   "engines": {
     "vscode": "^1.55.0"
   },
+  "scripts": {
+    "build:no-bold-style": "node build.js"
+  },
   "categories": [
     "Themes"
   ],
@@ -22,11 +25,25 @@
         "label": "Calm Days, Sober Nights - Day",
         "uiTheme": "vs",
         "path": "./themes/calm-days-sober-nights-light.json"
+      },
+      {
+        "label": "Calm Days, Sober Nights - Night (no bold style)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calm-days-sober-nights-dark-no-bold-style.json"
+      },
+      {
+        "label": "Calm Days, Sober Nights - Day (no bold style)",
+        "uiTheme": "vs",
+        "path": "./themes/calm-days-sober-nights-light-no-bold-style.json"
       }
     ]
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/giovanicascaes/calm-days-sober-nights-theme-vscode.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.5.1"
   }
 }

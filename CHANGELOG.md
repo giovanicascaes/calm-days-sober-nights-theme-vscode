@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.10.0
+Add no bold style; syntax update
+
 ## 1.9.0
 Update several syntax colors
 
