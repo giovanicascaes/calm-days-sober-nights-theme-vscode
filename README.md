@@ -2,6 +2,12 @@
 
 A Visual Studio Code theme for the day light and night darkness coders
 
+There's 4 versions available:
+- a dark theme
+- a light theme
+- a dark theme with no bold style
+- a light theme with no bold style
+
 ## Day
 ![Calm Days Theme Preview](day.png)
 

@@ -383,12 +383,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#19BEFA" }
+      "settings": { "foreground": "#0DB6FF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#19BEFA" }
+      "settings": { "foreground": "#0DB6FF" }
     },
     {
       "name": "Operators",
@@ -573,7 +573,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#19BEFA" }
+      "settings": { "foreground": "#0DB6FF" }
     },
     {
       "name": "Search Results Lines",

@@ -404,14 +404,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#007AA6"
+        "foreground": "#0071A1"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#007AA6"
+        "foreground": "#0071A1"
       }
     },
     {
@@ -655,7 +655,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#007AA6"
+        "foreground": "#0071A1"
       }
     },
     {
