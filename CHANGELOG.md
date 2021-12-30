@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.10.4
+Small decorator syntax tweak
+
 ## 1.10.3
 Small syntax tweaks
 

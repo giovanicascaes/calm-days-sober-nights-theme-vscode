@@ -521,7 +521,7 @@
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
-      "settings": { "foreground": "#FACEAF" }
+      "settings": { "foreground": "#FADBAF" }
     },
     {
       "name": "Invalid",
