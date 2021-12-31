@@ -13,9 +13,9 @@
     "inputValidation.errorBackground": "#E66774",
     "inputValidation.errorForeground": "#000000C6",
     "inputValidation.errorBorder": "#E66774",
-    "inputValidation.infoBackground": "#45C8E6",
+    "inputValidation.infoBackground": "#45B0E6",
     "inputValidation.infoForeground": "#000000C6",
-    "inputValidation.infoBorder": "#45C8E6",
+    "inputValidation.infoBorder": "#45B0E6",
     "inputValidation.warningBackground": "#E69B73",
     "inputValidation.warningForeground": "#000000C6",
     "inputValidation.warningBorder": "#E69B73",
@@ -68,11 +68,11 @@
     "editorOverviewRuler.deletedForeground": "#AFA1CCD3",
     "editorOverviewRuler.errorForeground": "#FF6675D3",
     "editorOverviewRuler.warningForeground": "#FAB38ED3",
-    "editorOverviewRuler.infoForeground": "#66E3FFD3",
+    "editorOverviewRuler.infoForeground": "#66CCFFD3",
     "editorOverviewRuler.unicodeForeground": "#FFCC91D3",
     "editorError.foreground": "#FF6675",
     "editorWarning.foreground": "#FAB38E",
-    "editorInfo.foreground": "#66E3FF",
+    "editorInfo.foreground": "#66CCFF",
     "list.errorForeground": "#FF6675",
     "list.warningForeground": "#FAB38E",
     "minimap.errorHighlight": "#FF6675B3",
@@ -92,10 +92,10 @@
     "editorMarkerNavigation.background": "#2A2738",
     "editorMarkerNavigationError.background": "#FF6675",
     "editorMarkerNavigationWarning.background": "#FAB38E",
-    "editorMarkerNavigationInfo.background": "#66E3FF",
+    "editorMarkerNavigationInfo.background": "#66CCFF",
     "problemsErrorIcon.foreground": "#FF6675",
     "problemsWarningIcon.foreground": "#FAB38E",
-    "problemsInfoIcon.foreground": "#66E3FF",
+    "problemsInfoIcon.foreground": "#66CCFF",
     "peekView.border": "#39344F",
     "peekViewEditor.background": "#2A2738",
     "peekViewEditorGutter.background": "#2A2738",
@@ -292,8 +292,8 @@
     "settings.rowHoverBackground": "#ffffff07",
     "editorBracketPairGuide.activeBackground1": "#31BACC",
     "editorBracketHighlight.foreground1": "#31BACC",
-    "editorBracketPairGuide.activeBackground2": "#17A8E6",
-    "editorBracketHighlight.foreground2": "#17A8E6",
+    "editorBracketPairGuide.activeBackground2": "#20ABE6",
+    "editorBracketHighlight.foreground2": "#20ABE6",
     "editorBracketPairGuide.activeBackground3": "#E06C95",
     "editorBracketHighlight.foreground3": "#E06C95",
     "editorBracketPairGuide.activeBackground4": "#66C492",
@@ -413,14 +413,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#1FBCFF"
+        "foreground": "#24BDFF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#1FBCFF"
+        "foreground": "#24BDFF"
       }
     },
     {
@@ -664,7 +664,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#1FBCFF"
+        "foreground": "#24BDFF"
       }
     },
     {

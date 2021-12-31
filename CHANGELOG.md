@@ -1,6 +1,9 @@
 # Change Log
 
 ## 1.10.5
+Small syntax tweak; info color tweak
+
+## 1.10.5
 Small syntax tweak
 
 ## 1.10.4
