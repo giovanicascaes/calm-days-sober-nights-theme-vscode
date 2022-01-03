@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.3
+Some tweaks on syntax colors
+
 ## 1.11.2
 Some tweaks purple syntax colors
 

@@ -126,7 +126,7 @@
     "statusBarItem.prominentBackground": "#0000004A",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#BEABD1",
-    "statusBarItem.remoteBackground": "#7657C2",
+    "statusBarItem.remoteBackground": "#7353C2",
     "statusBarItem.remoteBorder": "#00000026",
     "statusBar.noFolderForeground": "#0000006B",
     "statusBar.noFolderBackground": "#F4F2FA",
@@ -436,7 +436,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "foreground": "#7657C2" }
+      "settings": { "foreground": "#7353C2" }
     },
     {
       "name": "Function call",
@@ -461,7 +461,7 @@
     {
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
-      "settings": { "foreground": "#4449B8" }
+      "settings": { "foreground": "#4E45B5" }
     },
     {
       "name": "Entity name",
@@ -707,6 +707,6 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": { "foreground": "#009C93" },
-    "property.declaration": { "foreground": "#4449B8" }
+    "property.declaration": { "foreground": "#4E45B5" }
   }
 }

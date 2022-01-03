@@ -127,7 +127,7 @@
     "statusBarItem.prominentBackground": "#0000004C",
     "statusBarItem.prominentForeground": "#000000E9",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#B294FF",
+    "statusBarItem.remoteBackground": "#AE8FFF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#2D2A3D",
@@ -442,7 +442,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "foreground": "#B294FF" }
+      "settings": { "foreground": "#AE8FFF" }
     },
     {
       "name": "Function call",
@@ -487,7 +487,7 @@
     {
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
-      "settings": { "foreground": "#7A7FF5" }
+      "settings": { "foreground": "#857BF2" }
     },
     {
       "name": "Tag start/end",
@@ -709,6 +709,6 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": { "foreground": "#3CEBE2" },
-    "property.declaration": { "foreground": "#7A7FF5" }
+    "property.declaration": { "foreground": "#857BF2" }
   }
 }

@@ -127,7 +127,7 @@
     "statusBarItem.prominentBackground": "#0000004C",
     "statusBarItem.prominentForeground": "#000000E9",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#B294FF",
+    "statusBarItem.remoteBackground": "#AE8FFF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#2D2A3D",
@@ -492,7 +492,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#B294FF"
+        "foreground": "#AE8FFF"
       }
     },
     {
@@ -550,7 +550,7 @@
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
       "settings": {
-        "foreground": "#7A7FF5"
+        "foreground": "#857BF2"
       }
     },
     {
@@ -869,7 +869,7 @@
       "foreground": "#3CEBE2"
     },
     "property.declaration": {
-      "foreground": "#7A7FF5"
+      "foreground": "#857BF2"
     }
   }
 }
