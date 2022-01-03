@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.5
+Add no bold colors changes from last version
+
 ## 1.11.4
 Some tweaks terminal and line numbers colors
 
