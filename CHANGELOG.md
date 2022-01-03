@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.4
+Some tweaks terminal and line numbers colors
+
 ## 1.11.3
 Some tweaks on syntax colors
 
