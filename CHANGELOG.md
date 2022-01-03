@@ -1,13 +1,19 @@
 # Change Log
 
+## 1.11.2
+Some tweaks purple syntax colors
+
+## 1.11.1
+Some tweaks on purple shades
+
+## 1.11.0
+More purple colors
+
 ## 1.10.7
 Small dark syntax tweak
 
 ## 1.10.6
 Small syntax tweak; info color tweak
-
-## 1.11.0
-More purple colors
 
 ## 1.10.5
 Small syntax tweak
