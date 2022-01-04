@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.9
+Small tweaks
+
 ## 1.11.8
 Improve borders, list, syntax colors
 
