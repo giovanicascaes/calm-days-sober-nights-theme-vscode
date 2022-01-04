@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.8
+Improve borders, list, syntax colors
+
 ## 1.11.7
 Improve borders, merge colors
 
