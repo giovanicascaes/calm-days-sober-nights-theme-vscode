@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.10
+Several tweaks in IDE colors
+
 ## 1.11.9
 Small tweaks
 
