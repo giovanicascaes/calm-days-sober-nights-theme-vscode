@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.12
+Better drop colors
+
 ## 1.11.11
 Several tweaks in scrollbars
 
