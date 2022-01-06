@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.13
+Enhanced input borders
+
 ## 1.11.12
 Better drop colors
 
