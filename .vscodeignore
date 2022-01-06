@@ -2,4 +2,9 @@ node_modules
 *.vsix
 .history
 .DS_Store
-build.js
+build_icons.js
+build_no-bold-style-themes.js
+test-colors.sh
+yarn.lock
+.git*
+.history

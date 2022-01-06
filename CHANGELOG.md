@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.2
+Improve editor ghost text
+
 ## 1.12.1
 Improve editor ghost text
 
