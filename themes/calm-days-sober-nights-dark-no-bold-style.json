@@ -313,7 +313,7 @@
     "banner.background": "#343042",
     "banner.foreground": "#746D85",
     "banner.iconForeground": "#C8C5DB",
-    "editorGhostText.foreground": "#C8C5DB80"
+    "editorGhostText.foreground": "#C8C5DB60"
   },
   "tokenColors": [
     { "settings": { "background": "#2D2A3B", "foreground": "#B3ADCC" } },
