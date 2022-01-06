@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.0
+Added icon theme, improve borders and syntax colors
+
 ## 1.11.13
 Enhanced input borders
 

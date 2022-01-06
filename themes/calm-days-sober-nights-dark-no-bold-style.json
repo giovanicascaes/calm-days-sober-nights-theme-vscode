@@ -129,7 +129,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#000000A0",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#B294FF",
+    "statusBarItem.remoteBackground": "#B699FF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
     "statusBar.noFolderBackground": "#2D2A3D",
@@ -140,7 +140,7 @@
     "extensionButton.prominentForeground": "#FFFFFFC8",
     "extensionButton.prominentBackground": "#BD4583",
     "extensionButton.prominentHoverBackground": "#D64F95",
-    "pickerGroup.border": "#C8C5DB25",
+    "pickerGroup.border": "#C8C5DB15",
     "pickerGroup.foreground": "#BAB5C7",
     "terminal.selectionBackground": "#BFB3FF1D",
     "welcomePage.buttonBackground": "#00000024",
@@ -234,7 +234,7 @@
     "menu.background": "#2D2A3B",
     "menu.foreground": "#C8C5DBC0",
     "menu.border": "#C8C5DB15",
-    "menu.separatorBackground": "#C8C5DB25",
+    "menu.separatorBackground": "#C8C5DB15",
     "menu.selectionForeground": "#FFFFFF",
     "menu.selectionBackground": "#746D8525",
     "scrollbar.shadow": "#00000060",
@@ -257,7 +257,7 @@
     "terminal.ansiBlue": "#6EEAFA",
     "terminal.ansiMagenta": "#E0B9FA",
     "terminal.ansiCyan": "#90E0C7",
-    "terminal.ansiWhite": "#C8C5DB",
+    "terminal.ansiWhite": "#EBE9F5",
     "terminal.ansiBrightBlack": "#5A5573",
     "terminal.ansiBrightRed": "#F27985",
     "terminal.ansiBrightGreen": "#70CCBB",
@@ -292,7 +292,7 @@
     "toolbar.hoverBackground": "#ffffff10",
     "toolbar.activeBackground": "#ffffff18",
     "settings.modifiedItemIndicator": "#68E8E8",
-    "settings.focusedRowBorder": "#C8C5DB20",
+    "settings.focusedRowBorder": "#C8C5DB15",
     "settings.focusedRowBackground": "#C8C5DB09",
     "settings.rowHoverBackground": "#C8C5DB04",
     "editorBracketPairGuide.activeBackground1": "#31BACC",
@@ -451,7 +451,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "foreground": "#B294FF" }
+      "settings": { "foreground": "#B699FF" }
     },
     {
       "name": "Function call",
@@ -496,7 +496,7 @@
     {
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
-      "settings": { "foreground": "#8C83F2" }
+      "settings": { "foreground": "#8D84F0" }
     },
     {
       "name": "Tag start/end",
@@ -718,6 +718,6 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": { "foreground": "#3CEBE2" },
-    "property.declaration": { "foreground": "#8C83F2" }
+    "property.declaration": { "foreground": "#8D84F0" }
   }
 }

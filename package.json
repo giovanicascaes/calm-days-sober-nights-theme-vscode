@@ -4,12 +4,13 @@
   "displayName": "Calm Days, Sober Nights",
   "description": "A Visual Studio Code theme for the day light and night darkness coders",
   "icon": "icon.png",
-  "version": "1.11.13",
+  "version": "1.12.0",
   "engines": {
     "vscode": "^1.55.0"
   },
   "scripts": {
-    "build:no-bold-style": "node build.js"
+    "build:no-bold-style": "node build_no-bold-style-themes.js",
+    "build:icons": "node build_icons.js"
   },
   "categories": [
     "Themes"
@@ -35,6 +36,13 @@
         "label": "Calm Days, Sober Nights - Day (no bold style)",
         "uiTheme": "vs",
         "path": "./themes/calm-days-sober-nights-light-no-bold-style.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "calm-days-sober-nights_quill-icons",
+        "label": "Calm Days, Sober Nights (Quill icons)",
+        "path": "./themes/calm-days-sober-nights_quill-icons.json"
       }
     ]
   },

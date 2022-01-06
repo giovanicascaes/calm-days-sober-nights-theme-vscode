@@ -26,7 +26,7 @@
     "list.activeSelectionBackground": "#6A658212",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#C8C5DB50",
-    "list.focusBackground": "#6A658214",
+    "list.focusBackground": "#6A658215",
     "list.focusForeground": "#000000",
     "list.focusOutline": "#6A658222",
     "list.highlightForeground": "#6ABDAE",
@@ -128,7 +128,7 @@
     "statusBarItem.prominentBackground": "#0000003A",
     "statusBarItem.prominentForeground": "#ffffffA0",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#7657C2",
+    "statusBarItem.remoteBackground": "#7A5BC2",
     "statusBarItem.remoteBorder": "#00000026",
     "statusBar.noFolderForeground": "#0000006B",
     "statusBar.noFolderBackground": "#F4F2FA",
@@ -139,7 +139,7 @@
     "extensionButton.prominentForeground": "#FFFFFFC8",
     "extensionButton.prominentBackground": "#BD4583",
     "extensionButton.prominentHoverBackground": "#A33C72",
-    "pickerGroup.border": "#6A658220",
+    "pickerGroup.border": "#6A658215",
     "pickerGroup.foreground": "#565563",
     "terminal.selectionBackground": "#6059801a",
     "welcomePage.buttonBackground": "#00000010",
@@ -175,10 +175,10 @@
     "editorIndentGuide.activeBackground": "#9994B330",
     "editorIndentGuide.background": "#6A658208",
     "editorRuler.foreground": "#6A658209",
-    "tree.indentGuidesStroke": "#6A658220",
+    "tree.indentGuidesStroke": "#6A658215",
     "editorSuggestWidget.background": "#EAE9F2",
     "editorSuggestWidget.foreground": "#9994B3",
-    "editorSuggestWidget.border": "#6A658220",
+    "editorSuggestWidget.border": "#6A658215",
     "editorSuggestWidget.selectedBackground": "#9994B330",
     "editorLineNumber.foreground": "#9892B375",
     "editorLineNumber.activeForeground": "#9A95B3",
@@ -232,8 +232,8 @@
     "menubar.selectionBackground": "#9994B320",
     "menu.background": "#EFEDF7",
     "menu.foreground": "#6A6582C0",
-    "menu.border": "#6A658220",
-    "menu.separatorBackground": "#6A658220",
+    "menu.border": "#6A658215",
+    "menu.separatorBackground": "#6A658215",
     "menu.selectionForeground": "#53525E",
     "menu.selectionBackground": "#9994B330",
     "scrollbar.shadow": "#9994B360",
@@ -241,7 +241,7 @@
     "settings.headerForeground": "#6A6582",
     "editorHoverWidget.background": "#EAE9F2",
     "editorHoverWidget.foreground": "#6A6582",
-    "editorHoverWidget.border": "#6A658220",
+    "editorHoverWidget.border": "#6A658215",
     "editorHoverWidget.statusBarBackground": "#E5E4ED",
     "checkbox.foreground": "#6ABDAE",
     "quickInput.background": "#EBE9F5",
@@ -257,7 +257,7 @@
     "terminal.ansiMagenta": "#9175C7",
     "terminal.ansiCyan": "#46ba94",
     "terminal.ansiWhite": "#BCB8D6",
-    "terminal.ansiBrightBlack": "#6A6582",
+    "terminal.ansiBrightBlack": "#837E9C",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B392",
     "terminal.ansiBrightYellow": "#F28449",
@@ -266,7 +266,7 @@
     "terminal.ansiBrightCyan": "#4cbf99",
     "terminal.ansiBrightWhite": "#CAC9D1",
     "editorWidget.background": "#EBE9F5",
-    "editorWidget.border": "#6A658220",
+    "editorWidget.border": "#6A658215",
     "editorWidget.foreground": "#6A6582",
     "badge.background": "#6FB37020",
     "badge.foreground": "#4B857A",
@@ -291,7 +291,7 @@
     "toolbar.hoverBackground": "#00000010",
     "toolbar.activeBackground": "#00000018",
     "settings.modifiedItemIndicator": "#1A9494",
-    "settings.focusedRowBorder": "#6A658220",
+    "settings.focusedRowBorder": "#6A658215",
     "settings.focusedRowBackground": "#6A658209",
     "settings.rowHoverBackground": "#6A658204",
     "editorBracketPairGuide.activeBackground1": "#156873",
@@ -492,7 +492,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#7657C2"
+        "foreground": "#7A5BC2"
       }
     },
     {
@@ -526,7 +526,7 @@
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
       "settings": {
-        "foreground": "#534AB5"
+        "foreground": "#544BB3"
       }
     },
     {
@@ -876,7 +876,7 @@
       "foreground": "#009C93"
     },
     "property.declaration": {
-      "foreground": "#534AB5"
+      "foreground": "#544BB3"
     }
   }
 }
