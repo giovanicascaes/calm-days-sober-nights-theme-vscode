@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.4
+Improve light diff colors
+
 ## 1.12.3
 Improve guides
 
