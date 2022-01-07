@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.5
+Improve scrollbars, merge colors
+
 ## 1.12.4
 Improve light diff colors
 
