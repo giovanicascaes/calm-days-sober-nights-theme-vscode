@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.3
+Improve guides
+
 ## 1.12.2
 Improve editor ghost text
 

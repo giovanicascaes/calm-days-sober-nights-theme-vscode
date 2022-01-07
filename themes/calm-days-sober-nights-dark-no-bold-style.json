@@ -175,9 +175,9 @@
     "activityBar.border": "#1A1724E6",
     "activityBar.inactiveForeground": "#746D85",
     "editorIndentGuide.activeBackground": "#746D8530",
-    "editorIndentGuide.background": "#C8C5DB08",
+    "editorIndentGuide.background": "#C8C5DB09",
     "editorRuler.foreground": "#C8C5DB09",
-    "tree.indentGuidesStroke": "#C8C5DB15",
+    "tree.indentGuidesStroke": "#C8C5DB25",
     "editorSuggestWidget.background": "#282533",
     "editorSuggestWidget.foreground": "#746D85",
     "editorSuggestWidget.border": "#C8C5DB15",
@@ -295,14 +295,14 @@
     "settings.focusedRowBorder": "#C8C5DB15",
     "settings.focusedRowBackground": "#C8C5DB09",
     "settings.rowHoverBackground": "#C8C5DB04",
-    "editorBracketPairGuide.activeBackground1": "#31BACC",
-    "editorBracketHighlight.foreground1": "#31BACC",
-    "editorBracketPairGuide.activeBackground2": "#20ABE6",
-    "editorBracketHighlight.foreground2": "#20ABE6",
-    "editorBracketPairGuide.activeBackground3": "#E06C95",
-    "editorBracketHighlight.foreground3": "#E06C95",
-    "editorBracketPairGuide.activeBackground4": "#66C492",
-    "editorBracketHighlight.foreground4": "#66C492",
+    "editorBracketPairGuide.activeBackground1": "#31BACCB1",
+    "editorBracketHighlight.foreground1": "#31BACC80",
+    "editorBracketPairGuide.activeBackground2": "#E06C95B1",
+    "editorBracketHighlight.foreground2": "#E06C9580",
+    "editorBracketPairGuide.activeBackground3": "#25ACE6B1",
+    "editorBracketHighlight.foreground3": "#25ACE680",
+    "editorBracketPairGuide.activeBackground4": "#927ACCB1",
+    "editorBracketHighlight.foreground4": "#927ACC80",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAC4A7",
     "editorLightBulbAutoFix.foreground": "#91F0FF",
@@ -393,12 +393,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#2EBFFF" }
+      "settings": { "foreground": "#29BDFF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#2EBFFF" }
+      "settings": { "foreground": "#29BDFF" }
     },
     {
       "name": "Operators",
@@ -583,7 +583,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#2EBFFF" }
+      "settings": { "foreground": "#29BDFF" }
     },
     {
       "name": "Search Results Lines",
