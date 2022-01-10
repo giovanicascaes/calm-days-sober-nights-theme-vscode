@@ -89,8 +89,8 @@
     "editorGutter.modifiedBackground": "#1A9494B3",
     "editorGutter.addedBackground": "#1A9C32B3",
     "editorGutter.deletedBackground": "#654E93B3",
-    "diffEditor.insertedTextBackground": "#1A9C3210",
-    "diffEditor.removedTextBackground": "#654E9310",
+    "diffEditor.insertedTextBackground": "#1A9C3214",
+    "diffEditor.removedTextBackground": "#654E9314",
     "diffEditor.diagonalFill": "#6A658218",
     "debugExceptionWidget.background": "#E93D46",
     "debugExceptionWidget.border": "#E93D46",
@@ -259,7 +259,7 @@
     "terminal.ansiBlue": "#2EBED1",
     "terminal.ansiMagenta": "#9175C7",
     "terminal.ansiCyan": "#46ba94",
-    "terminal.ansiWhite": "#BCB8D6",
+    "terminal.ansiWhite": "#9C97BD",
     "terminal.ansiBrightBlack": "#837E9C",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B392",
@@ -345,21 +345,21 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#BCB8D6"
+        "foreground": "#9C97BD"
       }
     },
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F25F6E"
+        "foreground": "#F25F70"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F25F6E"
+        "foreground": "#F25F70"
       }
     },
     {
@@ -523,7 +523,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F25F6E"
+        "foreground": "#F25F70"
       }
     },
     {
@@ -646,7 +646,7 @@
         "source.stylus support.type"
       ],
       "settings": {
-        "foreground": "#BCB8D6"
+        "foreground": "#9C97BD"
       }
     },
     {
@@ -661,7 +661,7 @@
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
       "settings": {
-        "foreground": "#BCB8D6"
+        "foreground": "#9C97BD"
       }
     },
     {
@@ -675,7 +675,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F25F6E"
+        "foreground": "#F25F70"
       }
     },
     {
@@ -697,7 +697,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F25F6E"
+        "foreground": "#F25F70"
       }
     },
     {
@@ -750,7 +750,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#7470990f",
-        "foreground": "#BCB8D6"
+        "foreground": "#9C97BD"
       }
     },
     {
@@ -815,8 +815,8 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "background": "#BCB8D6",
-        "foreground": "#BCB8D6"
+        "background": "#9C97BD",
+        "foreground": "#9C97BD"
       }
     },
     {
@@ -824,7 +824,7 @@
       "scope": ["punctuation.definition.markdown"],
       "settings": {
         "background": "#747099",
-        "foreground": "#BCB8D6"
+        "foreground": "#9C97BD"
       }
     },
     {

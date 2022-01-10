@@ -4,7 +4,7 @@
   "displayName": "Calm Days, Sober Nights",
   "description": "A Visual Studio Code theme for the day light and night darkness coders",
   "icon": "icon.png",
-  "version": "1.12.5",
+  "version": "1.12.6",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -12,7 +12,7 @@
     "build:no-bold-style-themes": "node build_no-bold-style-themes.js",
     "build:icons": "node build_icons.js",
     "build": "yarn build:no-bold-style-themes && yarn build:icons",
-    "publish:vsmp": "vsce package --yarn && vsce publish"
+    "publish:vscode": "vsce package --yarn && vsce publish"
   },
   "categories": [
     "Themes"
