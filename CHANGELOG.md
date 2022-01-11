@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.7
+Improve string, comments colors
+
 ## 1.12.6
 Improve diff, string, comments colors
 
