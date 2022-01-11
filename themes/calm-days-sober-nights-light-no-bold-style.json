@@ -89,8 +89,8 @@
     "editorGutter.modifiedBackground": "#1A9494B3",
     "editorGutter.addedBackground": "#1A9C32B3",
     "editorGutter.deletedBackground": "#654E93B3",
-    "diffEditor.insertedTextBackground": "#1A9C3214",
-    "diffEditor.removedTextBackground": "#654E9314",
+    "diffEditor.insertedTextBackground": "#1A9C3217",
+    "diffEditor.removedTextBackground": "#654E9317",
     "diffEditor.diagonalFill": "#6A658218",
     "debugExceptionWidget.background": "#E93D46",
     "debugExceptionWidget.border": "#E93D46",
@@ -341,12 +341,12 @@
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
-      "settings": { "foreground": "#F25F78" }
+      "settings": { "foreground": "#F25F7A" }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
-      "settings": { "foreground": "#F25F78" }
+      "settings": { "foreground": "#F25F7A" }
     },
     {
       "name": "Regular Expressions",
@@ -469,7 +469,7 @@
     {
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
-      "settings": { "foreground": "#F25F78" }
+      "settings": { "foreground": "#F25F7A" }
     },
     {
       "name": "Object",
@@ -585,7 +585,7 @@
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
-      "settings": { "foreground": "#F25F78" }
+      "settings": { "foreground": "#F25F7A" }
     },
     { "scope": ["message.error"], "settings": { "foreground": "#ff3333" } },
     {
@@ -596,7 +596,7 @@
     {
       "name": "Markup heading",
       "scope": ["markup.heading", "markup.heading entity.name"],
-      "settings": { "fontStyle": "bold", "foreground": "#F25F78" }
+      "settings": { "fontStyle": "bold", "foreground": "#F25F7A" }
     },
     {
       "name": "Markup links",
