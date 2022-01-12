@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.9
+Improve input border, selection
+
 ## 1.12.8
 Improve diff, string colors
 
