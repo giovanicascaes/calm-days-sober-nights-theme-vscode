@@ -1,6 +1,12 @@
 # Change Log
 
+## 1.12.11
+Improve peek view
+
 ## 1.12.10
+Add debug colors, small tweaks
+
+## 1.12.9
 Improve input border, selection
 
 ## 1.12.8
