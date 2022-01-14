@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.12.9
+## 1.12.10
 Improve input border, selection
 
 ## 1.12.8

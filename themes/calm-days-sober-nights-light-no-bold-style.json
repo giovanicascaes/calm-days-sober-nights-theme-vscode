@@ -92,8 +92,6 @@
     "diffEditor.insertedTextBackground": "#1A9C3217",
     "diffEditor.removedTextBackground": "#654E9317",
     "diffEditor.diagonalFill": "#6A658218",
-    "debugExceptionWidget.background": "#E93D46",
-    "debugExceptionWidget.border": "#E93D46",
     "editorMarkerNavigation.background": "#EDEBF5",
     "editorMarkerNavigationError.background": "#CF344D",
     "editorMarkerNavigationWarning.background": "#CF6A34",
@@ -181,7 +179,7 @@
     "tree.indentGuidesStroke": "#6A658225",
     "editorSuggestWidget.background": "#EAE9F2",
     "editorSuggestWidget.foreground": "#9994B3",
-    "editorSuggestWidget.border": "#6A658215",
+    "editorSuggestWidget.border": "#6A658225",
     "editorSuggestWidget.selectedBackground": "#9994B330",
     "editorLineNumber.foreground": "#9892B375",
     "editorLineNumber.activeForeground": "#9A95B3",
@@ -244,8 +242,9 @@
     "settings.headerForeground": "#6A6582",
     "editorHoverWidget.background": "#EAE9F2",
     "editorHoverWidget.foreground": "#6A6582",
-    "editorHoverWidget.border": "#6A658215",
+    "editorHoverWidget.border": "#6A658225",
     "editorHoverWidget.statusBarBackground": "#E5E4ED",
+    "editorSuggestWidgetStatus.foreground": "#9994B3",
     "checkbox.foreground": "#6ABDAE",
     "quickInput.background": "#EBE9F5",
     "quickInput.foreground": "#6A6582",
@@ -259,7 +258,7 @@
     "terminal.ansiBlue": "#2EBED1",
     "terminal.ansiMagenta": "#9175C7",
     "terminal.ansiCyan": "#46ba94",
-    "terminal.ansiWhite": "#9B95BD",
+    "terminal.ansiWhite": "#9A93BD",
     "terminal.ansiBrightBlack": "#817B9C",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B392",
@@ -279,7 +278,7 @@
     "activityBar.activeBorder": "#6ABDAE",
     "activityBar.foreground": "#6ABDAE",
     "activityBarBadge.background": "#6ABDAE",
-    "activityBarBadge.foreground": "#D6FFF7",
+    "activityBarBadge.foreground": "#CCFFF6",
     "activityBar.activeBackground": "#6ABDAE12",
     "tab.activeBorder": "#6ABDAE",
     "panelTitle.activeBorder": "#6ABDAE",
@@ -316,7 +315,27 @@
     "banner.foreground": "#9994B3",
     "banner.iconForeground": "#6A6582",
     "editorGhostText.foreground": "#6A658260",
-    "editorUnnecessaryCode.opacity": "#00000070"
+    "editorUnnecessaryCode.opacity": "#00000070",
+    "editor.stackFrameHighlightBackground": "#CC1F5A25",
+    "editor.focusedStackFrameHighlightBackground": "#1FCC7619",
+    "debugView.exceptionLabelBackground": "#CF344D",
+    "debugView.exceptionLabelForeground": "#FFCCD4",
+    "debugView.stateLabelBackground": "#6A658220",
+    "debugView.stateLabelForeground": "#6A6582",
+    "debugTokenExpression.name": "#544BB3",
+    "debugExceptionWidget.background": "#CF344D10",
+    "debugExceptionWidget.border": "#CF344D",
+    "debugTokenExpression.value": "#747099",
+    "debugTokenExpression.string": "#F25F7A",
+    "debugTokenExpression.boolean": "#F1414A",
+    "debugTokenExpression.number": "#F1414A",
+    "debugTokenExpression.error": "#ff3333",
+    "debugIcon.breakpointForeground": "#D9628A",
+    "debugIcon.breakpointDisabledForeground": "#9C96B5",
+    "debugIcon.breakpointUnverifiedForeground": "#9C96B5",
+    "debugIcon.breakpointCurrentStackframeForeground": "#B31B4F",
+    "debugIcon.breakpointStackframeForeground": "#1BB367",
+    "debugView.valueChangedHighlight": "#D14F9380"
   },
   "tokenColors": [
     { "settings": { "background": "#EFEDF7", "foreground": "#747099" } },
@@ -336,7 +355,7 @@
     {
       "name": "Comment",
       "scope": ["comment"],
-      "settings": { "fontStyle": "italic", "foreground": "#9B95BD" }
+      "settings": { "fontStyle": "italic", "foreground": "#9A93BD" }
     },
     {
       "name": "String",
@@ -565,7 +584,7 @@
         "source.less support.type",
         "source.stylus support.type"
       ],
-      "settings": { "foreground": "#9B95BD" }
+      "settings": { "foreground": "#9A93BD" }
     },
     {
       "name": "CSS Properties",
@@ -575,7 +594,7 @@
     {
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
-      "settings": { "foreground": "#9B95BD" }
+      "settings": { "foreground": "#9A93BD" }
     },
     {
       "name": "Search Results Match Nums",
@@ -631,7 +650,7 @@
     {
       "name": "Markdown Separator",
       "scope": ["meta.separator"],
-      "settings": { "background": "#7470990f", "foreground": "#9B95BD" }
+      "settings": { "background": "#7470990f", "foreground": "#9A93BD" }
     },
     {
       "name": "Markup Blockquote",
@@ -676,12 +695,12 @@
     {
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
-      "settings": { "background": "#9B95BD", "foreground": "#9B95BD" }
+      "settings": { "background": "#9A93BD", "foreground": "#9A93BD" }
     },
     {
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
-      "settings": { "background": "#747099", "foreground": "#9B95BD" }
+      "settings": { "background": "#747099", "foreground": "#9A93BD" }
     },
     {
       "scope": [
