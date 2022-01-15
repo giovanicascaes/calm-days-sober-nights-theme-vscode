@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.12
+Improve peek view
+
 ## 1.12.11
 Improve peek view
 
