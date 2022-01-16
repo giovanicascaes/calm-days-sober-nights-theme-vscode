@@ -1,6 +1,9 @@
 # Change Log
 
 ## 1.12.14
+Peek view, syntax colors tweaks
+
+## 1.12.14
 Improve peek view
 
 ## 1.12.13

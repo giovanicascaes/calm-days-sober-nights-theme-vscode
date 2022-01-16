@@ -304,8 +304,8 @@
     "editorBracketHighlight.foreground1": "#31BACC80",
     "editorBracketPairGuide.activeBackground2": "#E06C95B1",
     "editorBracketHighlight.foreground2": "#E06C9580",
-    "editorBracketPairGuide.activeBackground3": "#23BBFAB1",
-    "editorBracketHighlight.foreground3": "#23BBFA80",
+    "editorBracketPairGuide.activeBackground3": "#00B4FFB1",
+    "editorBracketHighlight.foreground3": "#00B4FF80",
     "editorBracketPairGuide.activeBackground4": "#927ACCB1",
     "editorBracketHighlight.foreground4": "#927ACC80",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
@@ -418,12 +418,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#23BBFA" }
+      "settings": { "foreground": "#00B4FF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#23BBFA" }
+      "settings": { "foreground": "#00B4FF" }
     },
     {
       "name": "Operators",
@@ -492,7 +492,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#3CEBE2", "fontStyle": "italic" }
+      "settings": { "foreground": "#47EDE4", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -502,7 +502,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#3CEBE2" }
+      "settings": { "foreground": "#47EDE4" }
     },
     {
       "name": "Static types",
@@ -546,7 +546,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#3CEBE2" }
+      "settings": { "foreground": "#47EDE4" }
     },
     {
       "name": "Decorators/annotation",
@@ -608,7 +608,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#23BBFA" }
+      "settings": { "foreground": "#00B4FF" }
     },
     {
       "name": "Search Results Lines",
@@ -743,7 +743,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#3CEBE2" },
+    "variable.defaultLibrary": { "foreground": "#47EDE4" },
     "property.declaration": { "foreground": "#8D84F0" }
   }
 }

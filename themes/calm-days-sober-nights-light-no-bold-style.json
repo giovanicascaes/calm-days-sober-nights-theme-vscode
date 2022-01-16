@@ -102,7 +102,7 @@
     "problemsErrorIcon.foreground": "#CF344D",
     "problemsWarningIcon.foreground": "#CF6A34",
     "problemsInfoIcon.foreground": "#2D88B5",
-    "peekView.border": "#B1ABCC",
+    "peekView.border": "#B4AFCC",
     "peekViewEditor.background": "#EDEBF5",
     "peekViewEditorGutter.background": "#EDEBF5",
     "peekViewEditor.matchHighlightBackground": "#76789322",
@@ -112,7 +112,7 @@
     "peekViewResult.matchHighlightBackground": "#76789330",
     "peekViewResult.selectionBackground": "#6A658212",
     "peekViewResult.selectionForeground": "#000000",
-    "peekViewTitle.background": "#B1ABCC19",
+    "peekViewTitle.background": "#B4AFCC19",
     "peekViewTitleDescription.foreground": "#575361A7",
     "peekViewTitleLabel.foreground": "#5D5A68",
     "merge.currentHeaderBackground": "#82C7C73a",
@@ -486,7 +486,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#009C93", "fontStyle": "italic" }
+      "settings": { "foreground": "#089E94", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -501,7 +501,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#009C93" }
+      "settings": { "foreground": "#089E94" }
     },
     {
       "name": "Static types",
@@ -540,7 +540,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#009C93" }
+      "settings": { "foreground": "#089E94" }
     },
     {
       "name": "Decorators/annotation",
@@ -741,7 +741,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#009C93" },
+    "variable.defaultLibrary": { "foreground": "#089E94" },
     "property.declaration": { "foreground": "#544BB3" }
   }
 }
