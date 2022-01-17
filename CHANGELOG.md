@@ -1,6 +1,9 @@
 # Change Log
 
-## 1.12.14
+## 1.12.16
+Improve syntax colors
+
+## 1.12.15
 Peek view, syntax colors tweaks
 
 ## 1.12.14
