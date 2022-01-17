@@ -439,14 +439,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#0072A3"
+        "foreground": "#0075A3"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#0072A3"
+        "foreground": "#0075A3"
       }
     },
     {
@@ -690,7 +690,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#0072A3"
+        "foreground": "#0075A3"
       }
     },
     {
