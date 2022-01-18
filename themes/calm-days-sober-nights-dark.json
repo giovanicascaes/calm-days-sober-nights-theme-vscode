@@ -304,8 +304,8 @@
     "editorBracketHighlight.foreground1": "#31BACC80",
     "editorBracketPairGuide.activeBackground2": "#E06C95B1",
     "editorBracketHighlight.foreground2": "#E06C9580",
-    "editorBracketPairGuide.activeBackground3": "#00B7FFB1",
-    "editorBracketHighlight.foreground3": "#00B7FF80",
+    "editorBracketPairGuide.activeBackground3": "#00BFFFB1",
+    "editorBracketHighlight.foreground3": "#00BFFF80",
     "editorBracketPairGuide.activeBackground4": "#927ACCB1",
     "editorBracketHighlight.foreground4": "#927ACC80",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
@@ -448,14 +448,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#00B7FF"
+        "foreground": "#00BFFF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#00B7FF"
+        "foreground": "#00BFFF"
       }
     },
     {
@@ -699,7 +699,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#00B7FF"
+        "foreground": "#00BFFF"
       }
     },
     {
