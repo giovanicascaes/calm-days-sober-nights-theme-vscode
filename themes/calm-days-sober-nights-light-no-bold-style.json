@@ -261,7 +261,7 @@
     "terminal.ansiBlue": "#2EBED1",
     "terminal.ansiMagenta": "#9175C7",
     "terminal.ansiCyan": "#46ba94",
-    "terminal.ansiWhite": "#9A93BD",
+    "terminal.ansiWhite": "#AAA3C7",
     "terminal.ansiBrightBlack": "#817B9C",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B392",
@@ -358,7 +358,7 @@
     {
       "name": "Comment",
       "scope": ["comment"],
-      "settings": { "fontStyle": "italic", "foreground": "#9A93BD" }
+      "settings": { "fontStyle": "italic", "foreground": "#AAA3C7" }
     },
     {
       "name": "String",
@@ -530,7 +530,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#176F7A" }
+      "settings": { "foreground": "#17727D" }
     },
     {
       "name": "Library constant",
@@ -587,7 +587,7 @@
         "source.less support.type",
         "source.stylus support.type"
       ],
-      "settings": { "foreground": "#9A93BD" }
+      "settings": { "foreground": "#AAA3C7" }
     },
     {
       "name": "CSS Properties",
@@ -597,7 +597,7 @@
     {
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
-      "settings": { "foreground": "#9A93BD" }
+      "settings": { "foreground": "#AAA3C7" }
     },
     {
       "name": "Search Results Match Nums",
@@ -653,7 +653,7 @@
     {
       "name": "Markdown Separator",
       "scope": ["meta.separator"],
-      "settings": { "background": "#7470990f", "foreground": "#9A93BD" }
+      "settings": { "background": "#7470990f", "foreground": "#AAA3C7" }
     },
     {
       "name": "Markup Blockquote",
@@ -698,12 +698,12 @@
     {
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
-      "settings": { "background": "#9A93BD", "foreground": "#9A93BD" }
+      "settings": { "background": "#AAA3C7", "foreground": "#AAA3C7" }
     },
     {
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
-      "settings": { "background": "#747099", "foreground": "#9A93BD" }
+      "settings": { "background": "#747099", "foreground": "#AAA3C7" }
     },
     {
       "scope": [

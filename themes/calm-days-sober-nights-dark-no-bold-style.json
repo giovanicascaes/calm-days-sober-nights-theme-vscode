@@ -536,7 +536,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#32C0D4" }
+      "settings": { "foreground": "#33C2D6" }
     },
     {
       "name": "Library constant",

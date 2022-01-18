@@ -261,7 +261,7 @@
     "terminal.ansiBlue": "#2EBED1",
     "terminal.ansiMagenta": "#9175C7",
     "terminal.ansiCyan": "#46ba94",
-    "terminal.ansiWhite": "#9A93BD",
+    "terminal.ansiWhite": "#AAA3C7",
     "terminal.ansiBrightBlack": "#817B9C",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B392",
@@ -367,7 +367,7 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#9A93BD"
+        "foreground": "#AAA3C7"
       }
     },
     {
@@ -594,7 +594,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#176F7A"
+        "foreground": "#17727D"
       }
     },
     {
@@ -668,7 +668,7 @@
         "source.stylus support.type"
       ],
       "settings": {
-        "foreground": "#9A93BD"
+        "foreground": "#AAA3C7"
       }
     },
     {
@@ -683,7 +683,7 @@
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
       "settings": {
-        "foreground": "#9A93BD"
+        "foreground": "#AAA3C7"
       }
     },
     {
@@ -772,7 +772,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#7470990f",
-        "foreground": "#9A93BD"
+        "foreground": "#AAA3C7"
       }
     },
     {
@@ -837,8 +837,8 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "background": "#9A93BD",
-        "foreground": "#9A93BD"
+        "background": "#AAA3C7",
+        "foreground": "#AAA3C7"
       }
     },
     {
@@ -846,7 +846,7 @@
       "scope": ["punctuation.definition.markdown"],
       "settings": {
         "background": "#747099",
-        "foreground": "#9A93BD"
+        "foreground": "#AAA3C7"
       }
     },
     {
