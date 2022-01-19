@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.20
+Improve syntax, input validation colors
+
 ## 1.12.19
 Improve syntax colors
 

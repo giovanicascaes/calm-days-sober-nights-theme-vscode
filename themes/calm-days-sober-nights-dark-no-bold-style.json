@@ -10,15 +10,15 @@
     "icon.foreground": "#C8C5DB",
     "errorForeground": "#FF6675",
     "dropdown.foreground": "#C8C5DB",
-    "inputValidation.errorBackground": "#E66774",
-    "inputValidation.errorForeground": "#000000C6",
-    "inputValidation.errorBorder": "#E66774",
-    "inputValidation.infoBackground": "#45B0E6",
-    "inputValidation.infoForeground": "#000000C6",
-    "inputValidation.infoBorder": "#45B0E6",
-    "inputValidation.warningBackground": "#E69B73",
-    "inputValidation.warningForeground": "#000000C6",
-    "inputValidation.warningBorder": "#E69B73",
+    "inputValidation.errorBackground": "#452F42",
+    "inputValidation.errorForeground": "#ffffffA7",
+    "inputValidation.errorBorder": "#FF6675",
+    "inputValidation.infoBackground": "#303B51",
+    "inputValidation.infoForeground": "#ffffffA7",
+    "inputValidation.infoBorder": "#66CCFF",
+    "inputValidation.warningBackground": "#433844",
+    "inputValidation.warningForeground": "#ffffffA7",
+    "inputValidation.warningBorder": "#FAB38E",
     "scrollbarSlider.background": "#C8C5DB2a",
     "scrollbarSlider.activeBackground": "#C8C5DB5d",
     "scrollbarSlider.hoverBackground": "#C8C5DB43",
@@ -408,7 +408,7 @@
     {
       "name": "Member Variable",
       "scope": ["variable.member"],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Language variable",
@@ -428,7 +428,7 @@
     {
       "name": "Operators",
       "scope": ["keyword.operator"],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Separators like ; or ,",
@@ -442,7 +442,7 @@
     {
       "name": "Accessor",
       "scope": ["punctuation.accessor"],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Types fixes",
@@ -452,7 +452,7 @@
         "source.c storage.type",
         "meta.type.parameters"
       ],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Inherited class type",
@@ -462,7 +462,7 @@
     {
       "name": "Lambda arrow",
       "scope": ["storage.type.function"],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Java primitive variable types",
@@ -536,12 +536,12 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#33C2D6" }
+      "settings": { "foreground": "#34C4D9" }
     },
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#FA78A5" }
+      "settings": { "fontStyle": "italic", "foreground": "#FF75A7" }
     },
     {
       "name": "Library class/type",
@@ -556,7 +556,7 @@
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
-      "settings": { "foreground": "#EBC083" }
+      "settings": { "foreground": "#FFD8A3" }
     },
     {
       "name": "Invalid",
@@ -582,7 +582,7 @@
         "source.less entity.name.tag",
         "source.stylus entity.name.tag"
       ],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "CSS browser prefix",
@@ -629,12 +629,12 @@
     {
       "name": "Markup Italic",
       "scope": ["markup.italic"],
-      "settings": { "fontStyle": "italic", "foreground": "#FA78A5" }
+      "settings": { "fontStyle": "italic", "foreground": "#FF75A7" }
     },
     {
       "name": "Markup Bold",
       "scope": ["markup.bold"],
-      "settings": { "fontStyle": "bold", "foreground": "#FA78A5" }
+      "settings": { "fontStyle": "bold", "foreground": "#FF75A7" }
     },
     {
       "name": "Markup Bold/italic",
@@ -694,7 +694,7 @@
     {
       "name": "Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw"],
-      "settings": { "foreground": "#FA78A5" }
+      "settings": { "foreground": "#FF75A7" }
     },
     {
       "name": "Markdown - Line Break",
