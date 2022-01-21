@@ -11,13 +11,13 @@
     "errorForeground": "#CF344D",
     "dropdown.foreground": "#6A6582",
     "inputValidation.errorBackground": "#F0D9E7",
-    "inputValidation.errorForeground": "#0000008A",
+    "inputValidation.errorForeground": "#6A6582",
     "inputValidation.errorBorder": "#CF344D",
     "inputValidation.infoBackground": "#DAE3F1",
-    "inputValidation.infoForeground": "#0000008A",
+    "inputValidation.infoForeground": "#6A6582",
     "inputValidation.infoBorder": "#2D88B5",
     "inputValidation.warningBackground": "#EFDFE3",
-    "inputValidation.warningForeground": "#0000008A",
+    "inputValidation.warningForeground": "#6A6582",
     "inputValidation.warningBorder": "#CF6A34",
     "scrollbarSlider.background": "#6A65822a",
     "scrollbarSlider.activeBackground": "#6A65825d",
@@ -102,7 +102,7 @@
     "problemsErrorIcon.foreground": "#CF344D",
     "problemsWarningIcon.foreground": "#CF6A34",
     "problemsInfoIcon.foreground": "#2D88B5",
-    "peekView.border": "#B4AFCC",
+    "peekView.border": "#9994B3",
     "peekViewEditor.background": "#EDEBF5",
     "peekViewEditorGutter.background": "#EDEBF5",
     "peekViewEditor.matchHighlightBackground": "#76789322",
@@ -112,9 +112,9 @@
     "peekViewResult.matchHighlightBackground": "#76789330",
     "peekViewResult.selectionBackground": "#6A658212",
     "peekViewResult.selectionForeground": "#000000",
-    "peekViewTitle.background": "#B4AFCC19",
-    "peekViewTitleDescription.foreground": "#575361A7",
-    "peekViewTitleLabel.foreground": "#5D5A68",
+    "peekViewTitle.background": "#9994B319",
+    "peekViewTitleDescription.foreground": "#6A6582A7",
+    "peekViewTitleLabel.foreground": "#6A6582",
     "merge.currentHeaderBackground": "#82C7C73a",
     "merge.currentContentBackground": "#82C7C72a",
     "merge.incomingHeaderBackground": "#84CF913a",
@@ -308,8 +308,8 @@
     "editorBracketPairGuide.activeBackground4": "#6A4FA8B1",
     "editorBracketHighlight.foreground4": "#6A4FA880",
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
-    "editorLightBulb.foreground": "#CF7748",
-    "editorLightBulbAutoFix.foreground": "#368E9C",
+    "editorLightBulb.foreground": "#CF6A34",
+    "editorLightBulbAutoFix.foreground": "#2D88B5",
     "editorInlayHint.background": "#197F8C1B",
     "editorInlayHint.foreground": "#197F8CC1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
@@ -392,7 +392,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#0AA877"
+        "foreground": "#089E94"
       }
     },
     {
@@ -432,7 +432,7 @@
       "name": "Member Variable",
       "scope": ["variable.member"],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -453,7 +453,7 @@
       "name": "Operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -471,7 +471,7 @@
       "name": "Accessor",
       "scope": ["punctuation.accessor"],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -483,7 +483,7 @@
         "meta.type.parameters"
       ],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -497,7 +497,7 @@
       "name": "Lambda arrow",
       "scope": ["storage.type.function"],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -602,7 +602,7 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -655,7 +655,7 @@
         "source.stylus entity.name.tag"
       ],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -734,7 +734,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -742,7 +742,7 @@
       "scope": ["markup.bold"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {
@@ -830,7 +830,7 @@
       "name": "Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw"],
       "settings": {
-        "foreground": "#DC2367"
+        "foreground": "#DC1F65"
       }
     },
     {

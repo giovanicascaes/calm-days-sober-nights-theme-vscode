@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.21
+Improve syntax, input validation, peek view colors
+
 ## 1.12.20
 Improve syntax, input validation colors
 
