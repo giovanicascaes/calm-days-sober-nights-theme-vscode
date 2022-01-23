@@ -501,7 +501,7 @@
     },
     {
       "name": "Entity name",
-      "scope": ["entity.name", "variable.other.constant"],
+      "scope": ["entity.name"],
       "settings": { "foreground": "#089E94" }
     },
     {
