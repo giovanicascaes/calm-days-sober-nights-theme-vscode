@@ -465,13 +465,13 @@
     },
     {
       "name": "Function name",
-      "scope": ["entity.name.function"],
+      "scope": ["entity.name.function", "entity.name.function-call"],
       "settings": { "foreground": "#197F8C" }
     },
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "foreground": "#7A5BC2" }
+      "settings": { "fontStyle": "italic", "foreground": "#7A5BC2" }
     },
     {
       "name": "Function call",
@@ -479,9 +479,10 @@
         "variable.function",
         "variable.annotation",
         "meta.function-call.generic",
-        "support.function.go"
+        "support.function.go",
+        "entity.name.function-call"
       ],
-      "settings": { "foreground": "#197F8C" }
+      "settings": { "fontStyle": "italic", "foreground": "#197F8C" }
     },
     {
       "name": "Library function",
@@ -500,7 +501,7 @@
     },
     {
       "name": "Entity name",
-      "scope": ["entity.name"],
+      "scope": ["entity.name", "variable.other.constant"],
       "settings": { "foreground": "#089E94" }
     },
     {

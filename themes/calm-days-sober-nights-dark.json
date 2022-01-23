@@ -527,6 +527,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#B699FF"
       }
     },
@@ -539,6 +540,7 @@
         "support.function.go"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#37D1E6E6"
       }
     },
@@ -559,7 +561,7 @@
     },
     {
       "name": "Entity name",
-      "scope": ["entity.name"],
+      "scope": ["entity.name", "variable.other.constant"],
       "settings": {
         "foreground": "#4DF7EF"
       }
