@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.27
+Gitlens colors
+
 ## 1.12.26
 Fix syntax colors
 

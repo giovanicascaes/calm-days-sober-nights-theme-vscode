@@ -3,6 +3,11 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
+    "gitlens.trailingLineForegroundColor": "#C8C5DB40",
+    "gitlens.lineHighlightBackgroundColor": "#0084AD15",
+    "gitlens.gutterUncommittedForegroundColor": "#C8C5DB",
+    "gitlens.gutterBackgroundColor": "#2D2A3B",
+    "gitlens.gutterForegroundColor": "#8A829E",
     "focusBorder": "#C8C5DB30",
     "sash.hoverBorder": "#C8C5DB35",
     "foreground": "#C8C5DB",
