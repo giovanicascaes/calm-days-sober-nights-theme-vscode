@@ -465,7 +465,7 @@
     },
     {
       "name": "Function name",
-      "scope": ["entity.name.function", "entity.name.function-call"],
+      "scope": ["entity.name.function"],
       "settings": { "foreground": "#197F8C" }
     },
     {
@@ -479,8 +479,7 @@
         "variable.function",
         "variable.annotation",
         "meta.function-call.generic",
-        "support.function.go",
-        "entity.name.function-call"
+        "support.function.go"
       ],
       "settings": { "fontStyle": "italic", "foreground": "#197F8C" }
     },
