@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#C8C5DB2a",
     "scrollbarSlider.activeBackground": "#C8C5DB5d",
     "scrollbarSlider.hoverBackground": "#C8C5DB43",
-    "progressBar.background": "#FF7A81",
+    "progressBar.background": "#FF808B",
     "list.activeSelectionBackground": "#C8C5DB13",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#6A658250",
@@ -141,7 +141,7 @@
     "statusBarItem.remoteBackground": "#A885FF",
     "statusBarItem.remoteBorder": "#00000045",
     "statusBar.noFolderForeground": "#ffffff8F",
-    "statusBar.noFolderBackground": "#2D2A3D",
+    "statusBar.noFolderBackground": "#2A2738",
     "statusBar.noFolderBorder": "#00000060",
     "notificationToast.border": "#2E2B40",
     "notifications.border": "#C8C5DB10",
@@ -297,8 +297,8 @@
     "notificationCenter.border": "#1B1A26",
     "textLink.foreground": "#85E6D4",
     "textLink.activeForeground": "#94FFEB",
-    "debugToolBar.background": "#2D2A3B",
-    "debugToolBar.border": "#2D2A3B",
+    "debugToolBar.background": "#242130",
+    "debugToolBar.border": "#242130",
     "toolbar.hoverBackground": "#ffffff10",
     "toolbar.activeBackground": "#ffffff18",
     "settings.modifiedItemIndicator": "#68E8E8",
@@ -309,15 +309,15 @@
     "editorBracketHighlight.foreground1": "#31BACC80",
     "editorBracketPairGuide.activeBackground2": "#E06C95B1",
     "editorBracketHighlight.foreground2": "#E06C9580",
-    "editorBracketPairGuide.activeBackground3": "#00AEFFB1",
-    "editorBracketHighlight.foreground3": "#00AEFF80",
+    "editorBracketPairGuide.activeBackground3": "#19A3FFB1",
+    "editorBracketHighlight.foreground3": "#19A3FF80",
     "editorBracketPairGuide.activeBackground4": "#927ACCB1",
     "editorBracketHighlight.foreground4": "#927ACC80",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#37C3E61B",
-    "editorInlayHint.foreground": "#37C3E6C1",
+    "editorInlayHint.background": "#37BAE61B",
+    "editorInlayHint.foreground": "#37BAE6C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#998AE61D",
     "banner.background": "#343042",
@@ -335,9 +335,9 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#B3ADCC",
-    "debugTokenExpression.string": "#FF94A8",
-    "debugTokenExpression.boolean": "#FF7A81",
-    "debugTokenExpression.number": "#FF7A81",
+    "debugTokenExpression.string": "#FF99AF",
+    "debugTokenExpression.boolean": "#FF808B",
+    "debugTokenExpression.number": "#FF808B",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#C8C5DB",
@@ -380,14 +380,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FF94A8"
+        "foreground": "#FF99AF"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FF94A8"
+        "foreground": "#FF99AF"
       }
     },
     {
@@ -405,7 +405,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#FF7A81"
+        "foreground": "#FF808B"
       }
     },
     {
@@ -417,14 +417,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#FF7A81"
+        "foreground": "#FF808B"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#FF7A81"
+        "foreground": "#FF808B"
       }
     },
     {
@@ -453,14 +453,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#00AEFF"
+        "foreground": "#19A3FF"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#00AEFF"
+        "foreground": "#19A3FF"
       }
     },
     {
@@ -525,7 +525,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#37C3E6"
+        "foreground": "#37BAE6"
       }
     },
     {
@@ -546,7 +546,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#37C3E6E6"
+        "foreground": "#37BAE6E6"
       }
     },
     {
@@ -561,7 +561,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FF94A8"
+        "foreground": "#FF99AF"
       }
     },
     {
@@ -610,7 +610,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#34B8D9"
+        "foreground": "#34B0D9"
       }
     },
     {
@@ -637,7 +637,7 @@
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#F2CC96"
+        "foreground": "#F0CE9E"
       }
     },
     {
@@ -658,7 +658,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#37C3E6E6"
+        "foreground": "#37BAE6E6"
       }
     },
     {
@@ -706,14 +706,14 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#00AEFF"
+        "foreground": "#19A3FF"
       }
     },
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FF94A8"
+        "foreground": "#FF99AF"
       }
     },
     {
@@ -727,7 +727,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FF94A8"
+        "foreground": "#FF99AF"
       }
     },
     {
@@ -795,7 +795,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#37C3E6E6"
+        "foreground": "#37BAE6E6"
       }
     },
     {
