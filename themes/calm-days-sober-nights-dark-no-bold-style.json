@@ -316,8 +316,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#37BAE61B",
-    "editorInlayHint.foreground": "#37BAE6C1",
+    "editorInlayHint.background": "#37C0E61B",
+    "editorInlayHint.foreground": "#37C0E6C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#998AE61D",
     "banner.background": "#343042",
@@ -477,7 +477,7 @@
     {
       "name": "Function name",
       "scope": ["entity.name.function"],
-      "settings": { "foreground": "#37BAE6" }
+      "settings": { "foreground": "#37C0E6" }
     },
     {
       "name": "Function arguments",
@@ -492,7 +492,7 @@
         "meta.function-call.generic",
         "support.function.go"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#37BAE6E6" }
+      "settings": { "fontStyle": "italic", "foreground": "#37C0E6E6" }
     },
     {
       "name": "Library function",
@@ -541,7 +541,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#34B0D9" }
+      "settings": { "foreground": "#34B5D9" }
     },
     {
       "name": "Library constant",
@@ -576,7 +576,7 @@
     {
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
-      "settings": { "foreground": "#37BAE6E6" }
+      "settings": { "foreground": "#37C0E6E6" }
     },
     {
       "name": "CSS tag names",
@@ -669,7 +669,7 @@
     {
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
-      "settings": { "foreground": "#37BAE6E6" }
+      "settings": { "foreground": "#37C0E6E6" }
     },
     {
       "name": "Markup added",
