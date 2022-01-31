@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.32
+Improve dialog, buttons colors
+
 ## 1.12.31
 Improve syntax colors
 
