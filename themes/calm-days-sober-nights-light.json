@@ -8,7 +8,7 @@
     "gitlens.gutterUncommittedForegroundColor": "#6A6582",
     "gitlens.gutterBackgroundColor": "#EFEDF7",
     "gitlens.gutterForegroundColor": "#9892B3",
-    "focusBorder": "#6A658230",
+    "focusBorder": "#6A658234",
     "sash.hoverBorder": "#6A658235",
     "foreground": "#6A6582",
     "descriptionForeground": "#9994B3",
@@ -227,7 +227,7 @@
     "panelTitle.inactiveForeground": "#9994B3",
     "panelTitle.activeForeground": "#6A6582",
     "input.background": "#E6E4F0",
-    "input.border": "#00000007",
+    "input.border": "#00000008",
     "inputOption.activeBackground": "#00000018",
     "inputOption.hoverBackground": "#00000010",
     "checkbox.background": "#EBE9F5",
@@ -334,7 +334,7 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#747099",
-    "debugTokenExpression.string": "#F25C7D",
+    "debugTokenExpression.string": "#F25779",
     "debugTokenExpression.boolean": "#F14352",
     "debugTokenExpression.number": "#F14352",
     "debugTokenExpression.error": "#ff3333",
@@ -379,14 +379,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F25C7D"
+        "foreground": "#F25779"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F25C7D"
+        "foreground": "#F25779"
       }
     },
     {
@@ -552,7 +552,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F25C7D"
+        "foreground": "#F25779"
       }
     },
     {
@@ -704,7 +704,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F25C7D"
+        "foreground": "#F25779"
       }
     },
     {
@@ -726,7 +726,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F25C7D"
+        "foreground": "#F25779"
       }
     },
     {

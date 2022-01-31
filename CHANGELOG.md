@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.31
+Improve syntax colors
+
 ## 1.12.30
 Improve syntax colors
 

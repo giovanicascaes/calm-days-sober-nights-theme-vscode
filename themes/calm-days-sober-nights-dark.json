@@ -8,7 +8,7 @@
     "gitlens.gutterUncommittedForegroundColor": "#C8C5DB",
     "gitlens.gutterBackgroundColor": "#2D2A3B",
     "gitlens.gutterForegroundColor": "#8A829E",
-    "focusBorder": "#C8C5DB30",
+    "focusBorder": "#C8C5DB34",
     "sash.hoverBorder": "#C8C5DB35",
     "foreground": "#C8C5DB",
     "descriptionForeground": "#746D85",
@@ -222,13 +222,13 @@
     "tab.unfocusedActiveForeground": "#605A73",
     "tab.unfocusedInactiveForeground": "#605A73",
     "tab.unfocusedHoverForeground": "#7C738C",
-    "panel.border": "#C8C5DB20",
+    "panel.border": "#C8C5DB1a",
     "panel.background": "#2A2738",
     "terminal.background": "#2A2738",
     "panelTitle.inactiveForeground": "#746D85",
     "panelTitle.activeForeground": "#C8C5DB",
     "input.background": "#242130",
-    "input.border": "#00000015",
+    "input.border": "#00000016",
     "inputOption.activeBackground": "#ffffff18",
     "inputOption.hoverBackground": "#ffffff10",
     "checkbox.background": "#242130",
@@ -335,7 +335,7 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#B3ADCC",
-    "debugTokenExpression.string": "#FF99AF",
+    "debugTokenExpression.string": "#FF9EB3",
     "debugTokenExpression.boolean": "#FF808B",
     "debugTokenExpression.number": "#FF808B",
     "debugTokenExpression.error": "#ff3333",
@@ -380,14 +380,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FF99AF"
+        "foreground": "#FF9EB3"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FF99AF"
+        "foreground": "#FF9EB3"
       }
     },
     {
@@ -561,7 +561,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FF99AF"
+        "foreground": "#FF9EB3"
       }
     },
     {
@@ -713,7 +713,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FF99AF"
+        "foreground": "#FF9EB3"
       }
     },
     {
@@ -727,7 +727,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FF99AF"
+        "foreground": "#FF9EB3"
       }
     },
     {
