@@ -309,15 +309,15 @@
     "editorBracketHighlight.foreground1": "#31BACC80",
     "editorBracketPairGuide.activeBackground2": "#E06C95B1",
     "editorBracketHighlight.foreground2": "#E06C9580",
-    "editorBracketPairGuide.activeBackground3": "#19A3FFB1",
-    "editorBracketHighlight.foreground3": "#19A3FF80",
+    "editorBracketPairGuide.activeBackground3": "#19B2FFB1",
+    "editorBracketHighlight.foreground3": "#19B2FF80",
     "editorBracketPairGuide.activeBackground4": "#927ACCB1",
     "editorBracketHighlight.foreground4": "#927ACC80",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#37C0E61B",
-    "editorInlayHint.foreground": "#37C0E6C1",
+    "editorInlayHint.background": "#35CBE61B",
+    "editorInlayHint.foreground": "#35CBE6C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#998AE61D",
     "banner.background": "#343042",
@@ -383,7 +383,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#4DF7EF" }
+      "settings": { "foreground": "#49E8E3" }
     },
     {
       "name": "Escape Characters",
@@ -423,12 +423,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#19A3FF" }
+      "settings": { "foreground": "#19B2FF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#19A3FF" }
+      "settings": { "foreground": "#19B2FF" }
     },
     {
       "name": "Operators",
@@ -477,7 +477,7 @@
     {
       "name": "Function name",
       "scope": ["entity.name.function"],
-      "settings": { "foreground": "#37C0E6" }
+      "settings": { "foreground": "#35CBE6" }
     },
     {
       "name": "Function arguments",
@@ -492,12 +492,12 @@
         "meta.function-call.generic",
         "support.function.go"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#37C0E6E6" }
+      "settings": { "fontStyle": "italic", "foreground": "#35CBE6E6" }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#4DF7EF", "fontStyle": "italic" }
+      "settings": { "foreground": "#49E8E3", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -507,7 +507,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#4DF7EF" }
+      "settings": { "foreground": "#49E8E3" }
     },
     {
       "name": "Static types",
@@ -541,7 +541,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#34B5D9" }
+      "settings": { "foreground": "#32C0D9" }
     },
     {
       "name": "Library constant",
@@ -551,7 +551,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#4DF7EF" }
+      "settings": { "foreground": "#49E8E3" }
     },
     {
       "name": "Decorators/annotation",
@@ -576,7 +576,7 @@
     {
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
-      "settings": { "foreground": "#37C0E6E6" }
+      "settings": { "foreground": "#35CBE6E6" }
     },
     {
       "name": "CSS tag names",
@@ -613,7 +613,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#19A3FF" }
+      "settings": { "foreground": "#19B2FF" }
     },
     {
       "name": "Search Results Lines",
@@ -669,7 +669,7 @@
     {
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
-      "settings": { "foreground": "#37C0E6E6" }
+      "settings": { "foreground": "#35CBE6E6" }
     },
     {
       "name": "Markup added",
@@ -748,7 +748,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#4DF7EF" },
+    "variable.defaultLibrary": { "foreground": "#49E8E3" },
     "property.declaration": { "foreground": "#8078E6" }
   }
 }
