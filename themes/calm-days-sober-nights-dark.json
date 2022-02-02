@@ -316,8 +316,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#35C8E61B",
-    "editorInlayHint.foreground": "#35C8E6C1",
+    "editorInlayHint.background": "#35C6E61B",
+    "editorInlayHint.foreground": "#35C6E6C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#998AE61D",
     "banner.background": "#343042",
@@ -525,7 +525,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#35C8E6"
+        "foreground": "#35C6E6"
       }
     },
     {
@@ -546,7 +546,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#35C8E6E6"
+        "foreground": "#35C6E6E6"
       }
     },
     {
@@ -610,7 +610,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#32BDD9"
+        "foreground": "#32BAD9"
       }
     },
     {
@@ -658,7 +658,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#35C8E6E6"
+        "foreground": "#35C6E6E6"
       }
     },
     {
@@ -795,7 +795,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#35C8E6E6"
+        "foreground": "#35C6E6E6"
       }
     },
     {
