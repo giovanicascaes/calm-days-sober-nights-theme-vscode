@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.12.37
+Improve secondary buttons colors
+
+## 1.12.36
+Improve merge light colors
+
 ## 1.12.35
 Improve syntax colors
 
