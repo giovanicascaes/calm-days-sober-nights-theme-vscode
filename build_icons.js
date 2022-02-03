@@ -18,14 +18,14 @@ fs.readdir(directoryPath, function (_err, files) {
             /fill="#[a-z0-9]{6}"/gim,
             `fill="${darkTheme.colors.foreground}"`
           )
-          .replace(/fill-opacity="[0-9]\.[0-9]+"/gim, 'fill-opacity="0.46"');
+          .replace(/(fill-opacity="[0-9]\.[0-9]+"){1}/im, 'fill-opacity="0.46"');
       } else {
         newValue = data
           .replace(
             /fill="#[a-z0-9]{6}"/gim,
             `fill="${lightTheme.colors.foreground}"`
           )
-          .replace(/fill-opacity="[0-9]\.[0-9]+"/gim, 'fill-opacity="0.56"');
+          .replace(/(fill-opacity="[0-9]\.[0-9]+"){1}/im, 'fill-opacity="0.56"');
       }
 
       fs.writeFileSync(filePath, newValue, "utf-8");

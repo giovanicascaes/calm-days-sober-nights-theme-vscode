@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.38
+Roughly fix open folder icons
+
 ## 1.12.37
 Improve secondary buttons colors
 
