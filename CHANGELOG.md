@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.39
+Improve inputs
+
 ## 1.12.38
 Roughly fix open folder icons
 
