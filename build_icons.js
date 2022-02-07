@@ -12,21 +12,23 @@ fs.readdir(directoryPath, function (_err, files) {
       const data = fs.readFileSync(filePath, "utf-8");
       let newValue;
 
-      if (file.endsWith("_dark.svg")) {
-        newValue = data
-          .replace(
-            /fill="#[a-z0-9]{6}"/gim,
-            `fill="${darkTheme.colors.foreground}"`
-          )
-          .replace(/(fill-opacity="[0-9]\.[0-9]+"){1}/im, 'fill-opacity="0.46"');
-      } else {
-        newValue = data
-          .replace(
-            /fill="#[a-z0-9]{6}"/gim,
-            `fill="${lightTheme.colors.foreground}"`
-          )
-          .replace(/(fill-opacity="[0-9]\.[0-9]+"){1}/im, 'fill-opacity="0.56"');
-      }
+      newValue = data
+        .replace(
+          /fill="#[a-z0-9]{6}"/gim,
+          `fill="${
+            file.endsWith("_dark.svg")
+              ? darkTheme.colors.foreground
+              : lightTheme.colors.foreground
+          }"`
+        )
+        .replace(
+          /(fill-opacity="[0-9]\.[0-9]+"){1}/im,
+          `fill-opacity="0.${file.endsWith("_dark.svg") ? "4" : "5"}6"`
+        )
+        .replace(
+          /(Path-3-Copy.+)(fill-opacity="[0-9]\.[0-9]+")/gim,
+          `$1fill-opacity="0.${file.endsWith("_dark.svg") ? "08" : "12"}"`
+        );
 
       fs.writeFileSync(filePath, newValue, "utf-8");
     }
