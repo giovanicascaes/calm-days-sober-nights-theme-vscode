@@ -384,7 +384,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#49E8E8" }
+      "settings": { "foreground": "#49E8E5" }
     },
     {
       "name": "Escape Characters",
@@ -498,7 +498,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#49E8E8", "fontStyle": "italic" }
+      "settings": { "foreground": "#49E8E5", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -508,7 +508,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#49E8E8" }
+      "settings": { "foreground": "#49E8E5" }
     },
     {
       "name": "Static types",
@@ -552,7 +552,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#49E8E8" }
+      "settings": { "foreground": "#49E8E5" }
     },
     {
       "name": "Decorators/annotation",
@@ -749,7 +749,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#49E8E8" },
+    "variable.defaultLibrary": { "foreground": "#49E8E5" },
     "property.declaration": { "foreground": "#8078E6" }
   }
 }
