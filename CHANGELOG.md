@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.12.43
+Improve input borders, icons colors
+
 ## 1.12.42
 Improve input borders, icons, list colors
 

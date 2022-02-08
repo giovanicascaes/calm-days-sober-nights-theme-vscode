@@ -33,7 +33,7 @@
     "list.dropBackground": "#C8C5DB50",
     "list.focusBackground": "#6A658215",
     "list.focusForeground": "#000000",
-    "list.focusOutline": "#6A658222",
+    "list.focusOutline": "#6A658240",
     "list.highlightForeground": "#6ABDAE",
     "list.hoverBackground": "#6A658209",
     "list.hoverForeground": "#000000",
@@ -41,8 +41,8 @@
     "list.inactiveSelectionForeground": "#000000",
     "list.inactiveFocusBackground": "#ffffff50",
     "list.invalidItemForeground": "#CF344D",
-    "listFilterWidget.outline": "#E4D9FA",
-    "listFilterWidget.background": "#E4D9FA",
+    "listFilterWidget.outline": "#D4C5F0",
+    "listFilterWidget.background": "#D4C5F0",
     "listFilterWidget.noMatchesOutline": "#CF344D",
     "list.filterMatchBackground": "#76789318",
     "sideBar.dropBackground": "#C8C5DB50",
@@ -187,7 +187,7 @@
     "tree.indentGuidesStroke": "#6A658225",
     "editorSuggestWidget.background": "#EAE9F2",
     "editorSuggestWidget.foreground": "#9994B3",
-    "editorSuggestWidget.border": "#6A658225",
+    "editorSuggestWidget.border": "#6A658218",
     "editorSuggestWidget.selectedBackground": "#9994B330",
     "editorLineNumber.foreground": "#9892B375",
     "editorLineNumber.activeForeground": "#9A95B3",
@@ -227,7 +227,7 @@
     "panelTitle.inactiveForeground": "#9994B3",
     "panelTitle.activeForeground": "#6A6582",
     "input.background": "#E4E2F0",
-    "input.border": "#00000008",
+    "input.border": "#00000007",
     "inputOption.activeBackground": "#00000018",
     "inputOption.hoverBackground": "#00000010",
     "checkbox.background": "#E4E2F0",
@@ -250,7 +250,7 @@
     "settings.headerForeground": "#6A6582",
     "editorHoverWidget.background": "#EAE9F2",
     "editorHoverWidget.foreground": "#6A6582",
-    "editorHoverWidget.border": "#6A658225",
+    "editorHoverWidget.border": "#6A658218",
     "editorHoverWidget.statusBarBackground": "#E5E4ED",
     "editorSuggestWidgetStatus.foreground": "#9994B3",
     "checkbox.foreground": "#6ABDAE",
@@ -316,8 +316,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF6A34",
     "editorLightBulbAutoFix.foreground": "#2D88B5",
-    "editorInlayHint.background": "#197D941B",
-    "editorInlayHint.foreground": "#197D94C1",
+    "editorInlayHint.background": "#197F941B",
+    "editorInlayHint.foreground": "#197F94C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "snippetFinalTabstopHighlightBackground": "#67627A1D",
     "banner.background": "#F9F7FF",
@@ -517,7 +517,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#197D94"
+        "foreground": "#197F94"
       }
     },
     {
@@ -538,7 +538,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#197D94"
+        "foreground": "#197F94"
       }
     },
     {
@@ -602,7 +602,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#177287"
+        "foreground": "#177487"
       }
     },
     {
@@ -650,7 +650,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#197D94"
+        "foreground": "#197F94"
       }
     },
     {
@@ -795,7 +795,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#197D94"
+        "foreground": "#197F94"
       }
     },
     {
