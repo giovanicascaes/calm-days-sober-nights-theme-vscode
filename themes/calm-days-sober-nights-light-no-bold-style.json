@@ -137,7 +137,7 @@
     "statusBarItem.prominentBackground": "#0000003A",
     "statusBarItem.prominentForeground": "#ffffffA0",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#6F4CC2",
+    "statusBarItem.remoteBackground": "#7550CC",
     "statusBarItem.remoteBorder": "#00000026",
     "statusBar.noFolderForeground": "#0000006B",
     "statusBar.noFolderBackground": "#EDEBF7",
@@ -309,15 +309,15 @@
     "editorBracketHighlight.foreground1": "#15687380",
     "editorBracketPairGuide.activeBackground2": "#AD3F65B1",
     "editorBracketHighlight.foreground2": "#AD3F6580",
-    "editorBracketPairGuide.activeBackground3": "#396BB3B1",
-    "editorBracketHighlight.foreground3": "#396BB380",
+    "editorBracketPairGuide.activeBackground3": "#3B6AADB1",
+    "editorBracketHighlight.foreground3": "#3B6AAD80",
     "editorBracketPairGuide.activeBackground4": "#6A4FA8B1",
     "editorBracketHighlight.foreground4": "#6A4FA880",
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF6A34",
     "editorLightBulbAutoFix.foreground": "#2D88B5",
-    "editorInlayHint.background": "#197D941B",
-    "editorInlayHint.foreground": "#197D94C1",
+    "editorInlayHint.background": "#197F941B",
+    "editorInlayHint.foreground": "#197F94C1",
     "editor.snippetTabstopHighlightBackground": "#67627A10",
     "snippetFinalTabstopHighlightBackground": "#67627A1D",
     "banner.background": "#F9F7FF",
@@ -331,7 +331,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#6A658220",
     "debugView.stateLabelForeground": "#6A6582",
-    "debugTokenExpression.name": "#514AA8",
+    "debugTokenExpression.name": "#4239A8",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#747099",
@@ -418,12 +418,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#396BB3" }
+      "settings": { "foreground": "#3B6AAD" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#396BB3" }
+      "settings": { "foreground": "#3B6AAD" }
     },
     {
       "name": "Operators",
@@ -472,12 +472,12 @@
     {
       "name": "Function name",
       "scope": ["entity.name.function"],
-      "settings": { "foreground": "#197D94" }
+      "settings": { "foreground": "#197F94" }
     },
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "fontStyle": "italic", "foreground": "#6F4CC2" }
+      "settings": { "fontStyle": "italic", "foreground": "#7550CC" }
     },
     {
       "name": "Function call",
@@ -487,7 +487,7 @@
         "meta.function-call.generic",
         "support.function.go"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#197D94" }
+      "settings": { "fontStyle": "italic", "foreground": "#197F94" }
     },
     {
       "name": "Library function",
@@ -502,7 +502,7 @@
     {
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
-      "settings": { "foreground": "#514AA8" }
+      "settings": { "foreground": "#4239A8" }
     },
     {
       "name": "Entity name",
@@ -536,7 +536,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#177287" }
+      "settings": { "foreground": "#177487" }
     },
     {
       "name": "Library constant",
@@ -571,7 +571,7 @@
     {
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
-      "settings": { "foreground": "#197D94" }
+      "settings": { "foreground": "#197F94" }
     },
     {
       "name": "CSS tag names",
@@ -608,7 +608,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#396BB3" }
+      "settings": { "foreground": "#3B6AAD" }
     },
     {
       "name": "Search Results Lines",
@@ -669,7 +669,7 @@
     {
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
-      "settings": { "foreground": "#197D94" }
+      "settings": { "foreground": "#197F94" }
     },
     {
       "name": "Markup added",
@@ -748,6 +748,6 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": { "foreground": "#078F8D" },
-    "property.declaration": { "foreground": "#514AA8" }
+    "property.declaration": { "foreground": "#4239A8" }
   }
 }
