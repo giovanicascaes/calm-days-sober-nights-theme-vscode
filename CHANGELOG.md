@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.13.0
+New syntax colors; improve border colors
+
 ## 1.12.44
 Improve input borders
 
