@@ -15,20 +15,17 @@ fs.readdir(directoryPath, function (_err, files) {
 
       if (isDark) {
         newValue = data
-          .replace(
-            /="#C8C5DB"/gim,
-            `="${darkTheme.colors["icon.foreground"]}"`
-          )
-          .replace(/="#F0F4F8"/gim, '="#F1F0F8"')
+          .replace(/="#DBCCDA"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
+          .replace(/="#F1F0F8"/gim, '="#F1F0F8"')
           .replace(/-opacity="0.46"/gim, '-opacity="0.46"')
           .replace(/-opacity="0.18"/gim, '-opacity="0.18"');
       } else {
         newValue = data
           .replace(
-            /="#6A6582"/gim,
+            /="#827481"/gim,
             `="${lightTheme.colors["icon.foreground"]}"`
           )
-          .replace(/="#020D18"/gim, '="#060218"')
+          .replace(/="#060218"/gim, '="#060218"')
           .replace(/-opacity="0.56"/gim, '-opacity="0.56"')
           .replace(/-opacity="0.20"/gim, '-opacity="0.18"');
       }

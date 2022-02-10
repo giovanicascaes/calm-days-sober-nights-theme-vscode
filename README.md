@@ -34,7 +34,7 @@ This theme has the following inspirations:
 - [Horizon Theme](https://github.com/jolaleye/horizon-theme-vscode)
 - [Beautiful UI](https://github.com/swashata/vscode-beautiful-ui)
 - [Aylin](https://github.com/AhmedAbdulrahman/aylin-vscode-theme)
-- [ray.so's Candy Theme](https://ray.so)
+- [ray.so's Breeze Theme](https://ray.so)
 - [Floating UI code snippets theme](https://floating-ui.com)
 - macOS light theme
 - [Quill Icons](https://github.com/cdonohue/vscode-quill-icons)

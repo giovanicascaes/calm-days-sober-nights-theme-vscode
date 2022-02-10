@@ -1,5 +1,8 @@
 # Change Log
 
+## 2.0.0
+Almost a new theme ^^
+
 ## 1.13.2
 Improve syntax color
 
