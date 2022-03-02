@@ -320,8 +320,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#49D9F21B",
-    "editorInlayHint.foreground": "#49D9F2C1",
+    "editorInlayHint.background": "#49D0F21B",
+    "editorInlayHint.foreground": "#49D0F2C1",
     "editor.snippetTabstopHighlightBackground": "#7A627910",
     "editor.snippetFinalTabstopHighlightBackground": "#E68AE31D",
     "banner.background": "#42303C",
@@ -338,7 +338,7 @@
     "debugTokenExpression.name": "#7985F2",
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
-    "debugTokenExpression.value": "#B7A7C7",
+    "debugTokenExpression.value": "#B2A3C2",
     "debugTokenExpression.string": "#FEB7FE",
     "debugTokenExpression.boolean": "#D984F5",
     "debugTokenExpression.number": "#D984F5",
@@ -354,7 +354,7 @@
     {
       "settings": {
         "background": "#3B283A",
-        "foreground": "#B7A7C7"
+        "foreground": "#B2A3C2"
       }
     },
     {
@@ -369,7 +369,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#B7A7C7B0"
+        "foreground": "#B2A3C2B0"
       }
     },
     {
@@ -435,7 +435,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#B7A7C7"
+        "foreground": "#B2A3C2"
       }
     },
     {
@@ -482,7 +482,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#B7A7C796"
+        "foreground": "#B2A3C296"
       }
     },
     {
@@ -529,7 +529,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#49D9F2"
+        "foreground": "#49D0F2"
       }
     },
     {
@@ -550,7 +550,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#49D9F2E6"
+        "foreground": "#49D0F2E6"
       }
     },
     {
@@ -614,7 +614,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#49D9F2"
+        "foreground": "#49D0F2"
       }
     },
     {
@@ -662,7 +662,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#49D9F2E6"
+        "foreground": "#49D0F2E6"
       }
     },
     {
@@ -768,14 +768,14 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#B7A7C705"
+        "background": "#B2A3C205"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#B7A7C70f"
+        "background": "#B2A3C20f"
       }
     },
     {
@@ -783,7 +783,7 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#B7A7C70f",
+        "background": "#B2A3C20f",
         "foreground": "#8C718B"
       }
     },
@@ -799,7 +799,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#49D9F2E6"
+        "foreground": "#49D0F2E6"
       }
     },
     {
@@ -834,7 +834,7 @@
       "name": "Markup Table",
       "scope": ["markup.table"],
       "settings": {
-        "background": "#B7A7C70f",
+        "background": "#B2A3C20f",
         "foreground": "#53E0CB"
       }
     },
@@ -857,7 +857,7 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
       "settings": {
-        "background": "#B7A7C7",
+        "background": "#B2A3C2",
         "foreground": "#8C718B"
       }
     },

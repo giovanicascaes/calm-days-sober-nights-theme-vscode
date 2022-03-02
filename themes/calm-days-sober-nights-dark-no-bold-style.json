@@ -320,8 +320,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#49D9F21B",
-    "editorInlayHint.foreground": "#49D9F2C1",
+    "editorInlayHint.background": "#49D0F21B",
+    "editorInlayHint.foreground": "#49D0F2C1",
     "editor.snippetTabstopHighlightBackground": "#7A627910",
     "editor.snippetFinalTabstopHighlightBackground": "#E68AE31D",
     "banner.background": "#42303C",
@@ -338,7 +338,7 @@
     "debugTokenExpression.name": "#7985F2",
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
-    "debugTokenExpression.value": "#B7A7C7",
+    "debugTokenExpression.value": "#B2A3C2",
     "debugTokenExpression.string": "#FEB7FE",
     "debugTokenExpression.boolean": "#D984F5",
     "debugTokenExpression.number": "#D984F5",
@@ -351,7 +351,7 @@
     "debugView.valueChangedHighlight": "#FC92B780"
   },
   "tokenColors": [
-    { "settings": { "background": "#3B283A", "foreground": "#B7A7C7" } },
+    { "settings": { "background": "#3B283A", "foreground": "#B2A3C2" } },
     {
       "name": "Braces",
       "scope": [
@@ -363,7 +363,7 @@
         "punctuation.definition.block",
         "punctuation.definition.parameters"
       ],
-      "settings": { "foreground": "#B7A7C7B0" }
+      "settings": { "foreground": "#B2A3C2B0" }
     },
     {
       "name": "Comment",
@@ -412,7 +412,7 @@
     {
       "name": "Variable",
       "scope": ["variable"],
-      "settings": { "foreground": "#B7A7C7" }
+      "settings": { "foreground": "#B2A3C2" }
     },
     {
       "name": "Member Variable",
@@ -446,7 +446,7 @@
         "punctuation.terminator",
         "meta.delimiter.comma"
       ],
-      "settings": { "foreground": "#B7A7C796" }
+      "settings": { "foreground": "#B2A3C296" }
     },
     {
       "name": "Accessor",
@@ -481,7 +481,7 @@
     {
       "name": "Function name",
       "scope": ["entity.name.function"],
-      "settings": { "foreground": "#49D9F2" }
+      "settings": { "foreground": "#49D0F2" }
     },
     {
       "name": "Function arguments",
@@ -496,7 +496,7 @@
         "meta.function-call.generic",
         "support.function.go"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#49D9F2E6" }
+      "settings": { "fontStyle": "italic", "foreground": "#49D0F2E6" }
     },
     {
       "name": "Library function",
@@ -545,7 +545,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#49D9F2" }
+      "settings": { "foreground": "#49D0F2" }
     },
     {
       "name": "Library constant",
@@ -580,7 +580,7 @@
     {
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
-      "settings": { "foreground": "#49D9F2E6" }
+      "settings": { "foreground": "#49D0F2E6" }
     },
     {
       "name": "CSS tag names",
@@ -653,17 +653,17 @@
     {
       "name": "Markup Code",
       "scope": ["markup.raw"],
-      "settings": { "background": "#B7A7C705" }
+      "settings": { "background": "#B2A3C205" }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
-      "settings": { "background": "#B7A7C70f" }
+      "settings": { "background": "#B2A3C20f" }
     },
     {
       "name": "Markdown Separator",
       "scope": ["meta.separator"],
-      "settings": { "background": "#B7A7C70f", "foreground": "#8C718B" }
+      "settings": { "background": "#B2A3C20f", "foreground": "#8C718B" }
     },
     {
       "name": "Markup Blockquote",
@@ -673,7 +673,7 @@
     {
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
-      "settings": { "foreground": "#49D9F2E6" }
+      "settings": { "foreground": "#49D0F2E6" }
     },
     {
       "name": "Markup added",
@@ -698,7 +698,7 @@
     {
       "name": "Markup Table",
       "scope": ["markup.table"],
-      "settings": { "background": "#B7A7C70f", "foreground": "#53E0CB" }
+      "settings": { "background": "#B2A3C20f", "foreground": "#53E0CB" }
     },
     {
       "name": "Markup Raw Inline",
@@ -713,7 +713,7 @@
     {
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
-      "settings": { "background": "#B7A7C7", "foreground": "#8C718B" }
+      "settings": { "background": "#B2A3C2", "foreground": "#8C718B" }
     },
     {
       "scope": [
