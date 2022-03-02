@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#DBCCDA2a",
     "scrollbarSlider.activeBackground": "#DBCCDA5d",
     "scrollbarSlider.hoverBackground": "#DBCCDA43",
-    "progressBar.background": "#DB8CF5",
+    "progressBar.background": "#D984F5",
     "list.activeSelectionBackground": "#DBCCDA13",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#82658150",
@@ -131,7 +131,7 @@
     "statusBar.background": "#85E6D7",
     "statusBar.border": "#ffffff16",
     "statusBar.debuggingForeground": "#0000009E",
-    "statusBar.debuggingBackground": "#E79EFF",
+    "statusBar.debuggingBackground": "#DD93F5",
     "statusBar.debuggingBorder": "#ffffff16",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -339,9 +339,9 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#BBA9CC",
-    "debugTokenExpression.string": "#FEB2FE",
-    "debugTokenExpression.boolean": "#DB8CF5",
-    "debugTokenExpression.number": "#DB8CF5",
+    "debugTokenExpression.string": "#FEB7FE",
+    "debugTokenExpression.boolean": "#D984F5",
+    "debugTokenExpression.number": "#D984F5",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#DBCCDA",
@@ -384,14 +384,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#FEB2FE"
+        "foreground": "#FEB7FE"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#FEB2FE"
+        "foreground": "#FEB7FE"
       }
     },
     {
@@ -409,7 +409,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#DB8CF5"
+        "foreground": "#D984F5"
       }
     },
     {
@@ -421,14 +421,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#DB8CF5"
+        "foreground": "#D984F5"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#DB8CF5"
+        "foreground": "#D984F5"
       }
     },
     {
@@ -565,7 +565,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#FEB2FE"
+        "foreground": "#FEB7FE"
       }
     },
     {
@@ -717,7 +717,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#FEB2FE"
+        "foreground": "#FEB7FE"
       }
     },
     {
@@ -731,7 +731,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FEB2FE"
+        "foreground": "#FEB7FE"
       }
     },
     {
