@@ -338,7 +338,7 @@
     "debugTokenExpression.name": "#4B5294",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
-    "debugTokenExpression.value": "#816E99",
+    "debugTokenExpression.value": "#8B7B9E",
     "debugTokenExpression.string": "#996599",
     "debugTokenExpression.boolean": "#7D498F",
     "debugTokenExpression.number": "#7D498F",
@@ -354,7 +354,7 @@
     {
       "settings": {
         "background": "#F7E9F7",
-        "foreground": "#816E99"
+        "foreground": "#8B7B9E"
       }
     },
     {
@@ -369,7 +369,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#816E99B0"
+        "foreground": "#8B7B9EB0"
       }
     },
     {
@@ -435,7 +435,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#816E99"
+        "foreground": "#8B7B9E"
       }
     },
     {
@@ -474,7 +474,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#816E9996"
+        "foreground": "#8B7B9E96"
       }
     },
     {
@@ -768,14 +768,14 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#816E9905"
+        "background": "#8B7B9E05"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#816E990f"
+        "background": "#8B7B9E0f"
       }
     },
     {
@@ -783,7 +783,7 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#816E990f",
+        "background": "#8B7B9E0f",
         "foreground": "#C7ABC6"
       }
     },
@@ -834,7 +834,7 @@
       "name": "Markup Table",
       "scope": ["markup.table"],
       "settings": {
-        "background": "#816E990f",
+        "background": "#8B7B9E0f",
         "foreground": "#0F8775"
       }
     },
@@ -857,7 +857,7 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
       "settings": {
-        "background": "#816E99",
+        "background": "#8B7B9E",
         "foreground": "#C7ABC6"
       }
     },

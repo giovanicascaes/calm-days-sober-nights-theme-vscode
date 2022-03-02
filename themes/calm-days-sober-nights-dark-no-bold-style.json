@@ -338,7 +338,7 @@
     "debugTokenExpression.name": "#7985F2",
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
-    "debugTokenExpression.value": "#BBA9CC",
+    "debugTokenExpression.value": "#B7A7C7",
     "debugTokenExpression.string": "#FEB7FE",
     "debugTokenExpression.boolean": "#D984F5",
     "debugTokenExpression.number": "#D984F5",
@@ -351,7 +351,7 @@
     "debugView.valueChangedHighlight": "#FC92B780"
   },
   "tokenColors": [
-    { "settings": { "background": "#3B283A", "foreground": "#BBA9CC" } },
+    { "settings": { "background": "#3B283A", "foreground": "#B7A7C7" } },
     {
       "name": "Braces",
       "scope": [
@@ -363,7 +363,7 @@
         "punctuation.definition.block",
         "punctuation.definition.parameters"
       ],
-      "settings": { "foreground": "#BBA9CCB0" }
+      "settings": { "foreground": "#B7A7C7B0" }
     },
     {
       "name": "Comment",
@@ -412,7 +412,7 @@
     {
       "name": "Variable",
       "scope": ["variable"],
-      "settings": { "foreground": "#BBA9CC" }
+      "settings": { "foreground": "#B7A7C7" }
     },
     {
       "name": "Member Variable",
@@ -446,7 +446,7 @@
         "punctuation.terminator",
         "meta.delimiter.comma"
       ],
-      "settings": { "foreground": "#BBA9CC96" }
+      "settings": { "foreground": "#B7A7C796" }
     },
     {
       "name": "Accessor",
@@ -653,17 +653,17 @@
     {
       "name": "Markup Code",
       "scope": ["markup.raw"],
-      "settings": { "background": "#BBA9CC05" }
+      "settings": { "background": "#B7A7C705" }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
-      "settings": { "background": "#BBA9CC0f" }
+      "settings": { "background": "#B7A7C70f" }
     },
     {
       "name": "Markdown Separator",
       "scope": ["meta.separator"],
-      "settings": { "background": "#BBA9CC0f", "foreground": "#8C718B" }
+      "settings": { "background": "#B7A7C70f", "foreground": "#8C718B" }
     },
     {
       "name": "Markup Blockquote",
@@ -698,7 +698,7 @@
     {
       "name": "Markup Table",
       "scope": ["markup.table"],
-      "settings": { "background": "#BBA9CC0f", "foreground": "#53E0CB" }
+      "settings": { "background": "#B7A7C70f", "foreground": "#53E0CB" }
     },
     {
       "name": "Markup Raw Inline",
@@ -713,7 +713,7 @@
     {
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
-      "settings": { "background": "#BBA9CC", "foreground": "#8C718B" }
+      "settings": { "background": "#B7A7C7", "foreground": "#8C718B" }
     },
     {
       "scope": [
