@@ -313,8 +313,8 @@
     "editorBracketHighlight.foreground1": "#31BACCB1",
     "editorBracketPairGuide.activeBackground2": "#E06C95F1",
     "editorBracketHighlight.foreground2": "#E06C95B1",
-    "editorBracketPairGuide.activeBackground3": "#659BFFF1",
-    "editorBracketHighlight.foreground3": "#659BFFB1",
+    "editorBracketPairGuide.activeBackground3": "#65A0FFF1",
+    "editorBracketHighlight.foreground3": "#65A0FFB1",
     "editorBracketPairGuide.activeBackground4": "#927ACCF1",
     "editorBracketHighlight.foreground4": "#927ACCB1",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
@@ -339,7 +339,7 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#BBA9CC",
-    "debugTokenExpression.string": "#ECB7FE",
+    "debugTokenExpression.string": "#FEB2FE",
     "debugTokenExpression.boolean": "#DB8CF5",
     "debugTokenExpression.number": "#DB8CF5",
     "debugTokenExpression.error": "#ff3333",
@@ -373,12 +373,12 @@
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
-      "settings": { "foreground": "#ECB7FE" }
+      "settings": { "foreground": "#FEB2FE" }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
-      "settings": { "foreground": "#ECB7FE" }
+      "settings": { "foreground": "#FEB2FE" }
     },
     {
       "name": "Regular Expressions",
@@ -427,12 +427,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#659BFF" }
+      "settings": { "foreground": "#65A0FF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#659BFF" }
+      "settings": { "foreground": "#65A0FF" }
     },
     {
       "name": "Operators",
@@ -506,7 +506,7 @@
     {
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
-      "settings": { "foreground": "#ECB7FE" }
+      "settings": { "foreground": "#FEB2FE" }
     },
     {
       "name": "Entity name",
@@ -617,18 +617,18 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#659BFF" }
+      "settings": { "foreground": "#65A0FF" }
     },
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
-      "settings": { "foreground": "#ECB7FE" }
+      "settings": { "foreground": "#FEB2FE" }
     },
     { "scope": ["message.error"], "settings": { "foreground": "#ff3333" } },
     {
       "name": "Markup heading",
       "scope": ["markup.heading", "markup.heading entity.name"],
-      "settings": { "fontStyle": "bold", "foreground": "#ECB7FE" }
+      "settings": { "fontStyle": "bold", "foreground": "#FEB2FE" }
     },
     {
       "name": "Markup links",
