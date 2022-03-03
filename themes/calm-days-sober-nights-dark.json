@@ -263,7 +263,7 @@
     "quickInputTitle.background": "#362335",
     "input.foreground": "#DBCCDA",
     "input.placeholderForeground": "#857084",
-    "terminal.foreground": "#C4B4D6",
+    "terminal.foreground": "#C9BED6",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ED7480",
     "terminal.ansiGreen": "#70CC8F",
@@ -338,7 +338,7 @@
     "debugTokenExpression.name": "#7985F2",
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
-    "debugTokenExpression.value": "#C4B4D6",
+    "debugTokenExpression.value": "#C9BED6",
     "debugTokenExpression.string": "#F8B7FE",
     "debugTokenExpression.boolean": "#DA87F5",
     "debugTokenExpression.number": "#DA87F5",
@@ -354,7 +354,7 @@
     {
       "settings": {
         "background": "#3B283A",
-        "foreground": "#C4B4D6"
+        "foreground": "#C9BED6"
       }
     },
     {
@@ -369,7 +369,7 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#C4B4D6B0"
+        "foreground": "#C9BED6B0"
       }
     },
     {
@@ -435,7 +435,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#C4B4D6"
+        "foreground": "#C9BED6"
       }
     },
     {
@@ -482,7 +482,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#C4B4D696"
+        "foreground": "#C9BED696"
       }
     },
     {
@@ -768,14 +768,14 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#C4B4D605"
+        "background": "#C9BED605"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#C4B4D60f"
+        "background": "#C9BED60f"
       }
     },
     {
@@ -783,7 +783,7 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#C4B4D60f",
+        "background": "#C9BED60f",
         "foreground": "#8C718B"
       }
     },
@@ -834,7 +834,7 @@
       "name": "Markup Table",
       "scope": ["markup.table"],
       "settings": {
-        "background": "#C4B4D60f",
+        "background": "#C9BED60f",
         "foreground": "#53E0CB"
       }
     },
@@ -857,7 +857,7 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
       "settings": {
-        "background": "#C4B4D6",
+        "background": "#C9BED6",
         "foreground": "#8C718B"
       }
     },
