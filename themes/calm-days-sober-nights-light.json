@@ -529,7 +529,7 @@
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#634BB3"
+        "foreground": "#624CAD"
       }
     },
     {

@@ -481,7 +481,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "fontStyle": "italic", "foreground": "#634BB3" }
+      "settings": { "fontStyle": "italic", "foreground": "#624CAD" }
     },
     {
       "name": "Function call",
