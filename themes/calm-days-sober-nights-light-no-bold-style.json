@@ -387,7 +387,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Escape Characters",
@@ -461,7 +461,7 @@
     {
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Lambda arrow",
@@ -471,7 +471,7 @@
     {
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Function name",
@@ -481,7 +481,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "fontStyle": "italic", "foreground": "#624CAD" }
+      "settings": { "fontStyle": "italic", "foreground": "#614CA8" }
     },
     {
       "name": "Function call",
@@ -496,7 +496,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#0F8775", "fontStyle": "italic" }
+      "settings": { "foreground": "#108C7A", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -511,22 +511,22 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Static types",
       "scope": ["entity.name.type", "storage.type.cs"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Provided (support) values",
       "scope": "support",
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Tag start/end",
@@ -535,7 +535,7 @@
         "punctuation.definition.tag.begin",
         "punctuation.definition.tag"
       ],
-      "settings": { "foreground": "#0F877580" }
+      "settings": { "foreground": "#108C7A80" }
     },
     {
       "name": "Tag attribute",
@@ -550,7 +550,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Decorators/annotation",
@@ -602,7 +602,7 @@
     {
       "name": "CSS Properties",
       "scope": ["support.type.property-name"],
-      "settings": { "fontStyle": "normal", "foreground": "#0F8775" }
+      "settings": { "fontStyle": "normal", "foreground": "#108C7A" }
     },
     {
       "name": "Search Results Nums",
@@ -623,7 +623,7 @@
     {
       "name": "Language variable",
       "scope": ["variable.language"],
-      "settings": { "fontStyle": "italic", "foreground": "#0F8775" }
+      "settings": { "fontStyle": "italic", "foreground": "#108C7A" }
     },
     {
       "name": "Markup heading",
@@ -633,7 +633,7 @@
     {
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
-      "settings": { "foreground": "#0F8775" }
+      "settings": { "foreground": "#108C7A" }
     },
     {
       "name": "Markup Italic",
@@ -698,7 +698,7 @@
     {
       "name": "Markup Table",
       "scope": ["markup.table"],
-      "settings": { "background": "#80748F0f", "foreground": "#0F8775" }
+      "settings": { "background": "#80748F0f", "foreground": "#108C7A" }
     },
     {
       "name": "Markup Raw Inline",
@@ -751,7 +751,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#0F8775" },
+    "variable.defaultLibrary": { "foreground": "#108C7A" },
     "property.declaration": { "foreground": "#4B5294" }
   }
 }

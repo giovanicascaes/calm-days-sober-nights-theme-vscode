@@ -402,7 +402,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -450,7 +450,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -508,7 +508,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -522,7 +522,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -557,7 +557,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#53E0CB",
+        "foreground": "#55E6D0",
         "fontStyle": "italic"
       }
     },
@@ -572,24 +572,24 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
       "name": "Static types",
       "scope": ["entity.name.type", "storage.type.cs"],
-      "settings": { "foreground": "#53E0CB" }
+      "settings": { "foreground": "#55E6D0" }
     },
     {
       "name": "Provided (support) values",
       "scope": "support",
-      "settings": { "foreground": "#53E0CB" }
+      "settings": { "foreground": "#55E6D0" }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -607,7 +607,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#53E0CB80"
+        "foreground": "#55E6D080"
       }
     },
     {
@@ -629,7 +629,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -696,7 +696,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -738,7 +738,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -835,7 +835,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#C9BED60f",
-        "foreground": "#53E0CB"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -912,7 +912,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#53E0CB"
+      "foreground": "#55E6D0"
     },
     "property.declaration": {
       "foreground": "#7985F2"
