@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#8274812a",
     "scrollbarSlider.activeBackground": "#8274815d",
     "scrollbarSlider.hoverBackground": "#82748143",
-    "progressBar.background": "#7D498F",
+    "progressBar.background": "#7C438F",
     "list.activeSelectionBackground": "#82748112",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#DBC5DA50",
@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#4B5294",
+    "statusBarItem.remoteBackground": "#474E94",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#827481",
     "statusBar.noFolderBackground": "#F5E4F4",
@@ -335,13 +335,13 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#82748120",
     "debugView.stateLabelForeground": "#827481",
-    "debugTokenExpression.name": "#4B5294",
+    "debugTokenExpression.name": "#474E94",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#80748F",
-    "debugTokenExpression.string": "#906594",
-    "debugTokenExpression.boolean": "#7D498F",
-    "debugTokenExpression.number": "#7D498F",
+    "debugTokenExpression.string": "#905F94",
+    "debugTokenExpression.boolean": "#7C438F",
+    "debugTokenExpression.number": "#7C438F",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#D9628A",
     "debugIcon.breakpointDisabledForeground": "#B596B4",
@@ -373,12 +373,12 @@
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
-      "settings": { "foreground": "#906594" }
+      "settings": { "foreground": "#905F94" }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
-      "settings": { "foreground": "#906594" }
+      "settings": { "foreground": "#905F94" }
     },
     {
       "name": "Regular Expressions",
@@ -392,7 +392,7 @@
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
-      "settings": { "foreground": "#7D498F" }
+      "settings": { "foreground": "#7C438F" }
     },
     {
       "name": "Anchor Escape Characters",
@@ -402,12 +402,12 @@
     {
       "name": "Number",
       "scope": ["constant.numeric"],
-      "settings": { "foreground": "#7D498F" }
+      "settings": { "foreground": "#7C438F" }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
-      "settings": { "foreground": "#7D498F" }
+      "settings": { "foreground": "#7C438F" }
     },
     {
       "name": "Variable",
@@ -501,12 +501,12 @@
     {
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
-      "settings": { "foreground": "#906594" }
+      "settings": { "foreground": "#905F94" }
     },
     {
       "name": "Object",
       "scope": ["string.unquoted", "meta.embedded"],
-      "settings": { "foreground": "#4B5294" }
+      "settings": { "foreground": "#474E94" }
     },
     {
       "name": "Entity name",
@@ -617,7 +617,7 @@
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
-      "settings": { "foreground": "#906594" }
+      "settings": { "foreground": "#905F94" }
     },
     { "scope": ["message.error"], "settings": { "foreground": "#ff3333" } },
     {
@@ -628,7 +628,7 @@
     {
       "name": "Markup heading",
       "scope": ["markup.heading", "markup.heading entity.name"],
-      "settings": { "fontStyle": "bold", "foreground": "#906594" }
+      "settings": { "fontStyle": "bold", "foreground": "#905F94" }
     },
     {
       "name": "Markup links",
@@ -752,6 +752,6 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": { "foreground": "#108C7A" },
-    "property.declaration": { "foreground": "#4B5294" }
+    "property.declaration": { "foreground": "#474E94" }
   }
 }
