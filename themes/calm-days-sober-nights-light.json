@@ -339,7 +339,7 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#80748F",
-    "debugTokenExpression.string": "#905F94",
+    "debugTokenExpression.string": "#8B5F94",
     "debugTokenExpression.boolean": "#7C438F",
     "debugTokenExpression.number": "#7C438F",
     "debugTokenExpression.error": "#ff3333",
@@ -384,14 +384,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#905F94"
+        "foreground": "#8B5F94"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#905F94"
+        "foreground": "#8B5F94"
       }
     },
     {
@@ -529,7 +529,7 @@
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#614CA8"
+        "foreground": "#694CA8"
       }
     },
     {
@@ -557,7 +557,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#905F94"
+        "foreground": "#8B5F94"
       }
     },
     {
@@ -614,7 +614,7 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#C44170"
+        "foreground": "#119999"
       }
     },
     {
@@ -709,7 +709,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#905F94"
+        "foreground": "#8B5F94"
       }
     },
     {
@@ -731,7 +731,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#905F94"
+        "foreground": "#8B5F94"
       }
     },
     {
