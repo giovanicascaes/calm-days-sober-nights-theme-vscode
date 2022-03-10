@@ -16,7 +16,7 @@ fs.readdir(directoryPath, function (_err, files) {
       if (isDark) {
         newValue = data
           .replace(/="#DBCCDA"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
-          .replace(/="#F1F0F8"/gim, '="#F1F0F8"')
+          .replace(/="#F0F1F8"/gim, '="#F0F1F8"')
           .replace(/-opacity="0.46"/gim, '-opacity="0.46"')
           .replace(/-opacity="0.18"/gim, '-opacity="0.18"');
       } else {
@@ -25,7 +25,7 @@ fs.readdir(directoryPath, function (_err, files) {
             /="#827481"/gim,
             `="${lightTheme.colors["icon.foreground"]}"`
           )
-          .replace(/="#060218"/gim, '="#060218"')
+          .replace(/="#020618"/gim, '="#020618"')
           .replace(/-opacity="0.56"/gim, '-opacity="0.56"')
           .replace(/-opacity="0.20"/gim, '-opacity="0.18"');
       }
