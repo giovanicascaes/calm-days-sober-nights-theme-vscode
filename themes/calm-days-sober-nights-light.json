@@ -130,7 +130,7 @@
     "statusBar.foreground": "#000000A0",
     "statusBar.background": "#6ABDB1",
     "statusBar.border": "#00000016",
-    "statusBar.debuggingForeground": "#431659",
+    "statusBar.debuggingForeground": "#ffffffA0",
     "statusBar.debuggingBackground": "#A668BD",
     "statusBar.debuggingBorder": "#00000016",
     "statusBarItem.activeBackground": "#00000020",
@@ -614,7 +614,7 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#12959E"
+        "foreground": "#199AA3"
       }
     },
     {

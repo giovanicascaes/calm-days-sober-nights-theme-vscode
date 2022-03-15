@@ -550,7 +550,7 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#63EEF7" }
+      "settings": { "fontStyle": "italic", "foreground": "#86EFF7" }
     },
     {
       "name": "Library class/type",
