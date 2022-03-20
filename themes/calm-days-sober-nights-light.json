@@ -131,7 +131,7 @@
     "statusBar.background": "#6ABDB1",
     "statusBar.border": "#00000016",
     "statusBar.debuggingForeground": "#ffffffA0",
-    "statusBar.debuggingBackground": "#8B6594",
+    "statusBar.debuggingBackground": "#876594",
     "statusBar.debuggingBorder": "#00000016",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -339,7 +339,7 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#8B7994",
-    "debugTokenExpression.string": "#8B6594",
+    "debugTokenExpression.string": "#876594",
     "debugTokenExpression.boolean": "#7D468F",
     "debugTokenExpression.number": "#7D468F",
     "debugTokenExpression.error": "#ff3333",
@@ -377,21 +377,21 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#BEABC7"
+        "foreground": "#BCA3C7"
       }
     },
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#8B6594"
+        "foreground": "#876594"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#8B6594"
+        "foreground": "#876594"
       }
     },
     {
@@ -402,7 +402,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#199AA3"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#108C7A",
+        "foreground": "#199AA3",
         "fontStyle": "italic"
       }
     },
@@ -557,7 +557,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#8B6594"
+        "foreground": "#876594"
       }
     },
     {
@@ -571,7 +571,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#199AA3"
       }
     },
     {
@@ -621,7 +621,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#199AA3"
       }
     },
     {
@@ -680,7 +680,7 @@
         "source.stylus support.type"
       ],
       "settings": {
-        "foreground": "#BEABC7"
+        "foreground": "#BCA3C7"
       }
     },
     {
@@ -695,7 +695,7 @@
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
       "settings": {
-        "foreground": "#BEABC7"
+        "foreground": "#BCA3C7"
       }
     },
     {
@@ -709,7 +709,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#8B6594"
+        "foreground": "#876594"
       }
     },
     {
@@ -731,7 +731,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#8B6594"
+        "foreground": "#876594"
       }
     },
     {
@@ -784,7 +784,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#8B79940f",
-        "foreground": "#BEABC7"
+        "foreground": "#BCA3C7"
       }
     },
     {
@@ -849,8 +849,8 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "background": "#BEABC7",
-        "foreground": "#BEABC7"
+        "background": "#BCA3C7",
+        "foreground": "#BCA3C7"
       }
     },
     {
@@ -858,7 +858,7 @@
       "scope": ["punctuation.definition.markdown"],
       "settings": {
         "background": "#8B7994",
-        "foreground": "#BEABC7"
+        "foreground": "#BCA3C7"
       }
     },
     {
@@ -911,7 +911,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#108C7A"
+      "foreground": "#199AA3"
     },
     "property.declaration": {
       "foreground": "#474E94"

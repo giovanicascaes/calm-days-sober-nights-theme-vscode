@@ -131,7 +131,7 @@
     "statusBar.background": "#85E6D7",
     "statusBar.border": "#ffffff16",
     "statusBar.debuggingForeground": "#603973",
-    "statusBar.debuggingBackground": "#F2B7FE",
+    "statusBar.debuggingBackground": "#EBB7FE",
     "statusBar.debuggingBorder": "#ffffff16",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -339,7 +339,7 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#CDBCD6",
-    "debugTokenExpression.string": "#F2B7FE",
+    "debugTokenExpression.string": "#EBB7FE",
     "debugTokenExpression.boolean": "#DA87F5",
     "debugTokenExpression.number": "#DA87F5",
     "debugTokenExpression.error": "#ff3333",
@@ -377,21 +377,21 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#83718C"
+        "foreground": "#826D8C"
       }
     },
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F2B7FE"
+        "foreground": "#EBB7FE"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F2B7FE"
+        "foreground": "#EBB7FE"
       }
     },
     {
@@ -402,7 +402,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#86EFF7"
       }
     },
     {
@@ -557,7 +557,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#55E6D0",
+        "foreground": "#86EFF7",
         "fontStyle": "italic"
       }
     },
@@ -565,14 +565,14 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F2B7FE"
+        "foreground": "#EBB7FE"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#86EFF7"
       }
     },
     {
@@ -629,7 +629,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#86EFF7"
       }
     },
     {
@@ -688,7 +688,7 @@
         "source.stylus support.type"
       ],
       "settings": {
-        "foreground": "#83718C"
+        "foreground": "#826D8C"
       }
     },
     {
@@ -703,7 +703,7 @@
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
       "settings": {
-        "foreground": "#83718C"
+        "foreground": "#826D8C"
       }
     },
     {
@@ -717,7 +717,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F2B7FE"
+        "foreground": "#EBB7FE"
       }
     },
     {
@@ -731,7 +731,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F2B7FE"
+        "foreground": "#EBB7FE"
       }
     },
     {
@@ -784,7 +784,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#CDBCD60f",
-        "foreground": "#83718C"
+        "foreground": "#826D8C"
       }
     },
     {
@@ -849,8 +849,8 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "background": "#83718C",
-        "foreground": "#83718C"
+        "background": "#826D8C",
+        "foreground": "#826D8C"
       }
     },
     {
@@ -858,7 +858,7 @@
       "scope": ["punctuation.definition.markdown"],
       "settings": {
         "background": "#CDBCD6",
-        "foreground": "#83718C"
+        "foreground": "#826D8C"
       }
     },
     {
@@ -912,7 +912,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#55E6D0"
+      "foreground": "#86EFF7"
     },
     "property.declaration": {
       "foreground": "#7985F2"

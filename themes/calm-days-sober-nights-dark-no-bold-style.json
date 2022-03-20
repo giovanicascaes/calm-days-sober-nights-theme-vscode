@@ -131,7 +131,7 @@
     "statusBar.background": "#85E6D7",
     "statusBar.border": "#ffffff16",
     "statusBar.debuggingForeground": "#603973",
-    "statusBar.debuggingBackground": "#F2B7FE",
+    "statusBar.debuggingBackground": "#EBB7FE",
     "statusBar.debuggingBorder": "#ffffff16",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -339,7 +339,7 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#CDBCD6",
-    "debugTokenExpression.string": "#F2B7FE",
+    "debugTokenExpression.string": "#EBB7FE",
     "debugTokenExpression.boolean": "#DA87F5",
     "debugTokenExpression.number": "#DA87F5",
     "debugTokenExpression.error": "#ff3333",
@@ -368,17 +368,17 @@
     {
       "name": "Comment",
       "scope": ["comment"],
-      "settings": { "fontStyle": "italic", "foreground": "#83718C" }
+      "settings": { "fontStyle": "italic", "foreground": "#826D8C" }
     },
     {
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
-      "settings": { "foreground": "#F2B7FE" }
+      "settings": { "foreground": "#EBB7FE" }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
-      "settings": { "foreground": "#F2B7FE" }
+      "settings": { "foreground": "#EBB7FE" }
     },
     {
       "name": "Regular Expressions",
@@ -387,7 +387,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#55E6D0" }
+      "settings": { "foreground": "#86EFF7" }
     },
     {
       "name": "Escape Characters",
@@ -501,17 +501,17 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#55E6D0", "fontStyle": "italic" }
+      "settings": { "foreground": "#86EFF7", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
-      "settings": { "foreground": "#F2B7FE" }
+      "settings": { "foreground": "#EBB7FE" }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#55E6D0" }
+      "settings": { "foreground": "#86EFF7" }
     },
     {
       "name": "Static types",
@@ -555,7 +555,7 @@
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#55E6D0" }
+      "settings": { "foreground": "#86EFF7" }
     },
     {
       "name": "Decorators/annotation",
@@ -602,7 +602,7 @@
         "source.less support.type",
         "source.stylus support.type"
       ],
-      "settings": { "foreground": "#83718C" }
+      "settings": { "foreground": "#826D8C" }
     },
     {
       "name": "CSS Properties",
@@ -612,7 +612,7 @@
     {
       "name": "Search Results Nums",
       "scope": ["constant.numeric.line-number.find-in-files - match"],
-      "settings": { "foreground": "#83718C" }
+      "settings": { "foreground": "#826D8C" }
     },
     {
       "name": "Search Results Match Nums",
@@ -622,13 +622,13 @@
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
-      "settings": { "foreground": "#F2B7FE" }
+      "settings": { "foreground": "#EBB7FE" }
     },
     { "scope": ["message.error"], "settings": { "foreground": "#ff3333" } },
     {
       "name": "Markup heading",
       "scope": ["markup.heading", "markup.heading entity.name"],
-      "settings": { "fontStyle": "bold", "foreground": "#F2B7FE" }
+      "settings": { "fontStyle": "bold", "foreground": "#EBB7FE" }
     },
     {
       "name": "Markup links",
@@ -663,7 +663,7 @@
     {
       "name": "Markdown Separator",
       "scope": ["meta.separator"],
-      "settings": { "background": "#CDBCD60f", "foreground": "#83718C" }
+      "settings": { "background": "#CDBCD60f", "foreground": "#826D8C" }
     },
     {
       "name": "Markup Blockquote",
@@ -708,12 +708,12 @@
     {
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
-      "settings": { "background": "#83718C", "foreground": "#83718C" }
+      "settings": { "background": "#826D8C", "foreground": "#826D8C" }
     },
     {
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
-      "settings": { "background": "#CDBCD6", "foreground": "#83718C" }
+      "settings": { "background": "#CDBCD6", "foreground": "#826D8C" }
     },
     {
       "scope": [
@@ -752,7 +752,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#55E6D0" },
+    "variable.defaultLibrary": { "foreground": "#86EFF7" },
     "property.declaration": { "foreground": "#7985F2" }
   }
 }
