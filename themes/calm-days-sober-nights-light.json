@@ -270,7 +270,7 @@
     "terminal.ansiYellow": "#ED8045",
     "terminal.ansiBlue": "#2E6CD1",
     "terminal.ansiMagenta": "#B375C7",
-    "terminal.ansiCyan": "#46A9BA",
+    "terminal.ansiCyan": "#46B8BA",
     "terminal.ansiWhite": "#D8C7E0",
     "terminal.ansiBrightBlack": "#A794B0",
     "terminal.ansiBrightRed": "#F07186",
@@ -278,7 +278,7 @@
     "terminal.ansiBrightYellow": "#F28449",
     "terminal.ansiBrightBlue": "#3673D6",
     "terminal.ansiBrightMagenta": "#B87ACC",
-    "terminal.ansiBrightCyan": "#4CAEBF",
+    "terminal.ansiBrightCyan": "#4CBDBF",
     "terminal.ansiBrightWhite": "#EADDF0",
     "editorWidget.background": "#F0E6F5",
     "editorWidget.border": "#F0E6F5",
@@ -402,7 +402,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#199AA3"
+        "foreground": "#18A398"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#199AA3",
+        "foreground": "#18A398",
         "fontStyle": "italic"
       }
     },
@@ -571,7 +571,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#199AA3"
+        "foreground": "#18A398"
       }
     },
     {
@@ -614,14 +614,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#199AA3"
+        "foreground": "#18A398"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#199AA3"
+        "foreground": "#18A398"
       }
     },
     {
@@ -911,7 +911,7 @@
   ],
   "semanticTokenColors": {
     "variable.defaultLibrary": {
-      "foreground": "#199AA3"
+      "foreground": "#18A398"
     },
     "property.declaration": {
       "foreground": "#474E94"
