@@ -387,7 +387,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#7EFCF2" }
+      "settings": { "foreground": "#7CF7EE" }
     },
     {
       "name": "Escape Characters",
@@ -501,7 +501,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#7EFCF2", "fontStyle": "italic" }
+      "settings": { "foreground": "#7CF7EE", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -511,7 +511,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#7EFCF2" }
+      "settings": { "foreground": "#7CF7EE" }
     },
     {
       "name": "Static types",
@@ -550,12 +550,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#7EFCF2" }
+      "settings": { "fontStyle": "italic", "foreground": "#7CF7EE" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#7EFCF2" }
+      "settings": { "foreground": "#7CF7EE" }
     },
     {
       "name": "Decorators/annotation",
@@ -752,7 +752,7 @@
     }
   ],
   "semanticTokenColors": {
-    "variable.defaultLibrary": { "foreground": "#7EFCF2" },
+    "variable.defaultLibrary": { "foreground": "#7CF7EE" },
     "property.declaration": { "foreground": "#7985F2" }
   }
 }
