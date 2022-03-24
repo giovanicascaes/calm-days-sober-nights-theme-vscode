@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#474E94",
+    "statusBarItem.remoteBackground": "#4D5394",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#747782",
     "statusBar.noFolderBackground": "#EDF0FA",
@@ -335,7 +335,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#74778220",
     "debugView.stateLabelForeground": "#747782",
-    "debugTokenExpression.name": "#474E94",
+    "debugTokenExpression.name": "#4D5394",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#797E94",
@@ -402,7 +402,6 @@
     {
       "name": "Number, Boolean, Undefined, Null",
       "scope": [
-        "variable.other.constant",
         "punctuation.definition.constant",
         "constant.language",
         "constant.numeric",
@@ -521,7 +520,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "meta.field.declaration.ts variable.object.property"
       ],
-      "settings": { "foreground": "#474E94" }
+      "settings": { "foreground": "#4D5394" }
     },
     {
       "name": "Object Property",
@@ -532,7 +531,7 @@
         "meta.function-call variable.other.object.property",
         "variable.other.object.property.cs"
       ],
-      "settings": { "foreground": "#474E94" }
+      "settings": { "foreground": "#4D5394" }
     },
     {
       "name": "Entity name",
@@ -566,7 +565,7 @@
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#474E94" }
+      "settings": { "foreground": "#4D5394" }
     },
     {
       "name": "Library constant",
@@ -779,13 +778,13 @@
   "semanticTokenColors": {
     "parameter.declaration": { "foreground": "#654CA8" },
     "parameter": { "foreground": "#654CA8" },
-    "property.declaration": { "foreground": "#474E94" },
+    "property.declaration": { "foreground": "#4D5394" },
     "*.defaultLibrary": { "foreground": "#108C7A" },
     "function.defaultLibrary": { "foreground": "#2796A1" },
     "method.defaultLibrary": { "foreground": "#2796A1" },
     "variable.defaultLibrary": { "foreground": "#108C7A" },
     "property.defaultLibrary": { "foreground": "#108C7A" },
-    "variable.declaration": { "foreground": "#474E94" },
+    "variable.declaration": { "foreground": "#4D5394" },
     "variable": { "foreground": "#797E94" }
   },
   "semanticClass": "calm-days-sober-nights-light"

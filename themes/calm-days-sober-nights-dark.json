@@ -420,11 +420,10 @@
     {
       "name": "Number, Boolean, Undefined, Null",
       "scope": [
-        "variable.other.constant",
         "punctuation.definition.constant",
         "constant.language",
         "constant.numeric",
-        "support.constant",
+        "support.constant", 
         "constant.language.null",
         "constant.language.undefined",
         "constant.language.go",
