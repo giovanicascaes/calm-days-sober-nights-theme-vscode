@@ -22,10 +22,10 @@ fs.readdir(directoryPath, function (_err, files) {
       } else {
         newValue = data
           .replace(
-            /="#746D82"/gim,
+            /="#736987"/gim,
             `="${lightTheme.colors["icon.foreground"]}"`
           )
-          .replace(/="#090218"/gim, '="#090118"')
+          .replace(/="#090018"/gim, '="#090018"')
           .replace(/-opacity="0.56"/gim, '-opacity="0.56"')
           .replace(/-opacity="0.20"/gim, '-opacity="0.18"');
       }

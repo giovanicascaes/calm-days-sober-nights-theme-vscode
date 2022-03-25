@@ -224,7 +224,7 @@
     "tab.hoverBackground": "#292336",
     "tab.unfocusedActiveForeground": "#645C73",
     "tab.unfocusedInactiveForeground": "#645C73",
-    "tab.unfocusedHoverForeground": "#7D768C",
+    "tab.unfocusedHoverForeground": "#CEC7DB",
     "panel.border": "#CEC7DB1a",
     "panel.background": "#292336",
     "terminal.background": "#292336",
