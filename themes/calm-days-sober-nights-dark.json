@@ -365,6 +365,7 @@
         "meta.brace.curly",
         "meta.brace.round",
         "meta.brace.square",
+        "meta.block",
         "meta.structure.dictionary",
         "punctuation.section",
         "punctuation.definition.block",
@@ -641,7 +642,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#7985F2"
+        "foreground": "#49D0F2"
       }
     },
     {
