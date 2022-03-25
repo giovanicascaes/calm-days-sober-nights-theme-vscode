@@ -87,7 +87,7 @@
     "minimap.selectionHighlight": "#CCB3FF3D",
     "minimap.findMatchHighlight": "#807693B3",
     "minimap.unicodeHighlight": "#FFCC91B3",
-    "minimap.background": "#2C273D",
+    "minimap.background": "#30273C",
     "minimapSlider.background": "#CEC7DB1a",
     "minimapSlider.activeBackground": "#CEC7DB4d",
     "minimapSlider.hoverBackground": "#CEC7DB33",
