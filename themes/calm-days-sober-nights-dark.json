@@ -225,6 +225,7 @@
     "tab.unfocusedActiveForeground": "#645C73",
     "tab.unfocusedInactiveForeground": "#645C73",
     "tab.unfocusedHoverForeground": "#CEC7DB",
+    "tab.unfocusedActiveBorder": "#85E6D74E",
     "panel.border": "#CEC7DB1a",
     "panel.background": "#292336",
     "terminal.background": "#292336",
@@ -350,7 +351,8 @@
     "debugIcon.breakpointStackframeForeground": "#45E696",
     "debugView.valueChangedHighlight": "#FC92B780",
     "keybindingLabel.background": "#ffffff10",
-    "keybindingLabel.border": "#CEC7DB20"
+    "keybindingLabel.border": "#CEC7DB20",
+    "keybindingLabel.bottomBorder": "#00000005"
   },
   "tokenColors": [
     {
