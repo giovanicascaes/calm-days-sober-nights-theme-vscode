@@ -22,7 +22,7 @@ fs.readdir(directoryPath, function (_err, files) {
       } else {
         newValue = data
           .replace(
-            /="#736987"/gim,
+            /="#756C87"/gim,
             `="${lightTheme.colors["icon.foreground"]}"`
           )
           .replace(/="#090018"/gim, '="#090018"')
