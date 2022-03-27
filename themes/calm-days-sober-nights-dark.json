@@ -225,7 +225,7 @@
     "tab.unfocusedActiveForeground": "#645C73",
     "tab.unfocusedInactiveForeground": "#645C73",
     "tab.unfocusedHoverForeground": "#CEC7DB",
-    "tab.unfocusedActiveBorder": "#85E6D74E",
+    "tab.unfocusedActiveBorder": "#85E6D79F",
     "panel.border": "#CEC7DB1a",
     "panel.background": "#292336",
     "terminal.background": "#292336",
@@ -669,13 +669,14 @@
     {
       "name": "Decorators/annotation",
       "scope": [
+        "meta.decorator variable",
         "meta.decorator punctuation.decorator",
         "storage.type.annotation",
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#EBD6C1"
+        "foreground": "#EBDDC1"
       }
     },
     {
