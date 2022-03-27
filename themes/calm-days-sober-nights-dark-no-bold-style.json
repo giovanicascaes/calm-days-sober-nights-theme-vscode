@@ -41,7 +41,7 @@
     "list.inactiveSelectionForeground": "#FFFFFF",
     "list.inactiveFocusBackground": "#00000030",
     "list.invalidItemForeground": "#FF6675",
-    "listFilterWidget.outline": "#ffffff1A",
+    "listFilterWidget.outline": "#ffffff0A",
     "listFilterWidget.background": "#3A2959",
     "listFilterWidget.noMatchesOutline": "#D1545F",
     "list.filterMatchBackground": "#80769368",
@@ -600,7 +600,7 @@
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
-      "settings": { "foreground": "#EBDDC1" }
+      "settings": { "foreground": "#EBDAB7" }
     },
     {
       "name": "Invalid",

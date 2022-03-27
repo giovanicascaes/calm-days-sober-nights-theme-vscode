@@ -41,7 +41,7 @@
     "list.inactiveSelectionForeground": "#000000",
     "list.inactiveFocusBackground": "#ffffff40",
     "list.invalidItemForeground": "#CF344D",
-    "listFilterWidget.outline": "#0000001A",
+    "listFilterWidget.outline": "#0000000A",
     "listFilterWidget.background": "#DDD0F5",
     "listFilterWidget.noMatchesOutline": "#F57A8E",
     "list.filterMatchBackground": "#80769318",
