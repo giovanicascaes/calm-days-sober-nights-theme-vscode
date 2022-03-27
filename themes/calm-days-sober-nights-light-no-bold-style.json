@@ -371,6 +371,11 @@
       "settings": { "foreground": "#8076949A" }
     },
     {
+      "name": "Fix JSX string children",
+      "scope": ["meta.block meta.jsx.children"],
+      "settings": { "foreground": "#807694" }
+    },
+    {
       "name": "Comment",
       "scope": ["comment"],
       "settings": { "fontStyle": "italic", "foreground": "#AC9FC7" }

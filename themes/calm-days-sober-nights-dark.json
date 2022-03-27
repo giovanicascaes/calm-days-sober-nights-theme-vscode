@@ -378,6 +378,13 @@
       }
     },
     {
+      "name": "Fix JSX string children",
+      "scope": ["meta.block meta.jsx.children"],
+      "settings": {
+        "foreground": "#BFBAD6"
+      }
+    },
+    {
       "name": "Comment",
       "scope": ["comment"],
       "settings": {
