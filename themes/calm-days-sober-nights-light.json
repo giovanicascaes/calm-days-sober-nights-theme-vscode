@@ -351,8 +351,8 @@
     "debugIcon.breakpointStackframeForeground": "#1BB367",
     "debugView.valueChangedHighlight": "#D14F9380",
     "keybindingLabel.background": "#00000008",
-    "keybindingLabel.border": "#73609920",
-    "keybindingLabel.bottomBorder": "#00000009"
+    "keybindingLabel.border": "#776F8720",
+    "keybindingLabel.bottomBorder": "#00000020"
   },
   "tokenColors": [
     {
@@ -407,7 +407,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#2796A1"
+        "foreground": "#279FA1"
       }
     },
     {
@@ -559,7 +559,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#2796A1",
+        "foreground": "#279FA1",
         "fontStyle": "italic"
       }
     },
@@ -601,12 +601,16 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#2796A1"
+        "foreground": "#279FA1"
       }
     },
     {
       "name": "Static types",
-      "scope": ["entity.name.type", "storage.type.cs"],
+      "scope": [
+        "entity.name.type",
+        "storage.type.cs",
+        "variable.other.constant"
+      ],
       "settings": { "foreground": "#108C7A" }
     },
     {
@@ -644,14 +648,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#2796A1"
+        "foreground": "#279FA1"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#2796A1"
+        "foreground": "#279FA1"
       }
     },
     {
@@ -953,10 +957,10 @@
       "foreground": "#108C7A"
     },
     "function.defaultLibrary": {
-      "foreground": "#2796A1"
+      "foreground": "#279FA1"
     },
     "method.defaultLibrary": {
-      "foreground": "#2796A1"
+      "foreground": "#279FA1"
     },
     "variable.defaultLibrary": {
       "foreground": "#108C7A"

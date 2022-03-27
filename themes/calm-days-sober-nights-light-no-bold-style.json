@@ -351,8 +351,8 @@
     "debugIcon.breakpointStackframeForeground": "#1BB367",
     "debugView.valueChangedHighlight": "#D14F9380",
     "keybindingLabel.background": "#00000008",
-    "keybindingLabel.border": "#73609920",
-    "keybindingLabel.bottomBorder": "#00000009"
+    "keybindingLabel.border": "#776F8720",
+    "keybindingLabel.bottomBorder": "#00000020"
   },
   "tokenColors": [
     { "settings": { "background": "#EEEAF7", "foreground": "#807694" } },
@@ -392,7 +392,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#2796A1" }
+      "settings": { "foreground": "#279FA1" }
     },
     {
       "name": "Escape Characters",
@@ -508,7 +508,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#2796A1", "fontStyle": "italic" }
+      "settings": { "foreground": "#279FA1", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -541,11 +541,15 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#2796A1" }
+      "settings": { "foreground": "#279FA1" }
     },
     {
       "name": "Static types",
-      "scope": ["entity.name.type", "storage.type.cs"],
+      "scope": [
+        "entity.name.type",
+        "storage.type.cs",
+        "variable.other.constant"
+      ],
       "settings": { "foreground": "#108C7A" }
     },
     {
@@ -575,12 +579,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#2796A1" }
+      "settings": { "fontStyle": "italic", "foreground": "#279FA1" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#2796A1" }
+      "settings": { "foreground": "#279FA1" }
     },
     {
       "name": "Decorators/annotation",
@@ -785,8 +789,8 @@
     "parameter": { "foreground": "#654CA8" },
     "property.declaration": { "foreground": "#4D5394" },
     "*.defaultLibrary": { "foreground": "#108C7A" },
-    "function.defaultLibrary": { "foreground": "#2796A1" },
-    "method.defaultLibrary": { "foreground": "#2796A1" },
+    "function.defaultLibrary": { "foreground": "#279FA1" },
+    "method.defaultLibrary": { "foreground": "#279FA1" },
     "variable.defaultLibrary": { "foreground": "#108C7A" },
     "property.defaultLibrary": { "foreground": "#108C7A" },
     "variable.declaration": { "foreground": "#4D5394" },
