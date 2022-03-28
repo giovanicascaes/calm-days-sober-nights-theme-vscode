@@ -8,7 +8,7 @@
     "gitlens.gutterUncommittedForegroundColor": "#CEC7DB",
     "gitlens.gutterBackgroundColor": "#2E283B",
     "gitlens.gutterForegroundColor": "#756D85",
-    "focusBorder": "#CEC7DB32",
+    "focusBorder": "#B99DF232",
     "sash.hoverBorder": "#CEC7DB35",
     "foreground": "#CEC7DB",
     "descriptionForeground": "#756D85",
