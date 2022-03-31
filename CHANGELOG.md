@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.0
+Heavily tweaked theme release
+
 ## 2.0.0
 Almost a new theme ^^
 

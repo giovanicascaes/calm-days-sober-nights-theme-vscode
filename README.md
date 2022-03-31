@@ -34,12 +34,12 @@ This theme has the following inspirations:
 - [Horizon Theme](https://github.com/jolaleye/horizon-theme-vscode)
 - [Beautiful UI](https://github.com/swashata/vscode-beautiful-ui)
 - [Aylin](https://github.com/AhmedAbdulrahman/aylin-vscode-theme)
-- [ray.so's Breeze Theme](https://ray.so)
+- [ray.so's Themes](https://ray.so)
 - [Floating UI code snippets theme](https://floating-ui.com)
-- macOS light theme
 - [Quill Icons](https://github.com/cdonohue/vscode-quill-icons)
+- macOS light theme
 
-Syntax examples were grabbed from [syntax-highlight-samples](https://github.com/uloco/syntax-highlighting-samples)
+Icon grabbed and modified from [SVG Repo](https://www.svgrepo.com). Syntax examples grabbed from [syntax-highlight-samples](https://github.com/uloco/syntax-highlighting-samples)
 
 ## Donations
 
