@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.1
+Improved icon colors
+
 ## 3.0.0
 Heavily tweaked theme release
 
