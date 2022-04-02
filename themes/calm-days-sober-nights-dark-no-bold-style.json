@@ -605,7 +605,7 @@
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
-      "settings": { "foreground": "#EBDAB7" }
+      "settings": { "foreground": "#EBE0C1" }
     },
     {
       "name": "Invalid",

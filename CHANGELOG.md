@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.2
+Improved banner, decorator colors
+
 ## 3.0.1
 Improved icon colors
 
