@@ -498,7 +498,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "fontStyle": "italic", "foreground": "#654CA8" }
+      "settings": { "fontStyle": "italic", "foreground": "#6B50B3" }
     },
     {
       "name": "Function call",
@@ -791,8 +791,8 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#654CA8" },
-    "parameter": { "foreground": "#654CA8" },
+    "parameter.declaration": { "foreground": "#6B50B3" },
+    "parameter": { "foreground": "#6B50B3" },
     "property.declaration": { "foreground": "#4D5394" },
     "*.defaultLibrary": { "foreground": "#108C7A" },
     "function.defaultLibrary": { "foreground": "#279FA1" },

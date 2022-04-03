@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.3
+Improve arguments color
+
 ## 3.0.2
 Improved banner, decorator colors
 
