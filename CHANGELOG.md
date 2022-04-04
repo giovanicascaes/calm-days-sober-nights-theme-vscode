@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.4
+Improve debug colors
+
 ## 3.0.3
 Improve arguments color
 
