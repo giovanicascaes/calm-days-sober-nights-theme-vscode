@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.0.6
+Improved string color
+## 3.0.5
+Changed string color
+
 ## 3.0.4
 Improve debug colors
 
