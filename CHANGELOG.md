@@ -1,7 +1,14 @@
 # Change Log
 
+## 3.0.8
+Improved string color
+
+## 3.0.7
+Improved string color
+
 ## 3.0.6
 Improved string color
+
 ## 3.0.5
 Changed string color
 

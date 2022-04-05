@@ -131,7 +131,7 @@
     "statusBar.background": "#6ABDB1",
     "statusBar.border": "#00000016",
     "statusBar.debuggingForeground": "#ffffffA0",
-    "statusBar.debuggingBackground": "#7A6294",
+    "statusBar.debuggingBackground": "#876594",
     "statusBar.debuggingBorder": "#00000016",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -340,7 +340,7 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#807694",
-    "debugTokenExpression.string": "#7B6294",
+    "debugTokenExpression.string": "#876594",
     "debugTokenExpression.boolean": "#7D438F",
     "debugTokenExpression.number": "#7D438F",
     "debugTokenExpression.error": "#ff3333",
@@ -396,14 +396,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#7A6294"
+        "foreground": "#876594"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#7A6294"
+        "foreground": "#876594"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#7A6294"
+        "foreground": "#876594"
       }
     },
     {
@@ -751,7 +751,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#7A6294"
+        "foreground": "#876594"
       }
     },
     {
@@ -773,7 +773,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#7A6294"
+        "foreground": "#876594"
       }
     },
     {
