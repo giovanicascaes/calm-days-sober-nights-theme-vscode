@@ -613,11 +613,7 @@
     },
     {
       "name": "Static types",
-      "scope": [
-        "entity.name.type",
-        "storage.type.cs",
-        "variable.other.constant"
-      ],
+      "scope": ["entity.name.type", "storage.type.cs"],
       "settings": { "foreground": "#108C7A" }
     },
     {
