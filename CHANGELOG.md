@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.12
+Enhance light focus outline
+
 ## 3.0.11
 Enhance ghost text
 
