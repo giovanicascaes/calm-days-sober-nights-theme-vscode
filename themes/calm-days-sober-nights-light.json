@@ -264,7 +264,7 @@
     "quickInputTitle.background": "#EBE6F5",
     "input.foreground": "#776F87",
     "input.placeholderForeground": "#A499B8",
-    "terminal.foreground": "#807694",
+    "terminal.foreground": "#72678A",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#EB6C81",
     "terminal.ansiGreen": "#00B33C",
@@ -339,7 +339,7 @@
     "debugTokenExpression.name": "#4D5394",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
-    "debugTokenExpression.value": "#807694",
+    "debugTokenExpression.value": "#72678A",
     "debugTokenExpression.string": "#876594",
     "debugTokenExpression.boolean": "#7D438F",
     "debugTokenExpression.number": "#7D438F",
@@ -358,7 +358,7 @@
     {
       "settings": {
         "background": "#EEEAF7",
-        "foreground": "#807694"
+        "foreground": "#72678A"
       }
     },
     {
@@ -374,14 +374,14 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#8076949A"
+        "foreground": "#72678A9A"
       }
     },
     {
       "name": "Fix JSX string children",
       "scope": ["meta.block meta.jsx.children"],
       "settings": {
-        "foreground": "#807694"
+        "foreground": "#72678A"
       }
     },
     {
@@ -452,7 +452,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#807694"
+        "foreground": "#72678A"
       }
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "name": "Operators",
-      "scope": ["keyword.operator"],
+      "scope": ["keyword.operator", "text.xml meta.tag.xml"],
       "settings": {
         "foreground": "#C44170"
       }
@@ -491,7 +491,7 @@
         "meta.delimiter.comma"
       ],
       "settings": {
-        "foreground": "#80769476"
+        "foreground": "#72678A76"
       }
     },
     {
@@ -666,12 +666,13 @@
       "scope": [
         "meta.decorator variable",
         "meta.decorator punctuation.decorator",
+        "meta.decorator entity.name.function",
         "storage.type.annotation",
         "entity.name.class.decorator",
         "keyword.operator.decorator"
       ],
       "settings": {
-        "foreground": "#B39336"
+        "foreground": "#AD8E34"
       }
     },
     {
@@ -806,14 +807,14 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#80769405"
+        "background": "#72678A05"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#8076940f"
+        "background": "#72678A0f"
       }
     },
     {
@@ -821,7 +822,7 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#8076940f",
+        "background": "#72678A0f",
         "foreground": "#AC9FC7"
       }
     },
@@ -872,7 +873,7 @@
       "name": "Markup Table",
       "scope": ["markup.table"],
       "settings": {
-        "background": "#8076940f",
+        "background": "#72678A0f",
         "foreground": "#108C7A"
       }
     },
@@ -895,7 +896,7 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["punctuation.definition.markdown"],
       "settings": {
-        "background": "#807694",
+        "background": "#72678A",
         "foreground": "#AC9FC7"
       }
     },
@@ -976,7 +977,7 @@
       "foreground": "#4D5394"
     },
     "variable": {
-      "foreground": "#807694"
+      "foreground": "#72678A"
     }
   },
   "semanticClass": "calm-days-sober-nights-light"

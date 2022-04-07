@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.10
+Some general improvements
+
 ## 3.0.9
 Fix variable other constant color
 
