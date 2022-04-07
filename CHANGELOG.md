@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.11
+Enhance ghost text
+
 ## 3.0.10
 Some general improvements
 

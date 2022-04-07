@@ -328,7 +328,7 @@
     "banner.background": "#A499B819",
     "banner.foreground": "#776F87",
     "banner.iconForeground": "#776F87",
-    "editorGhostText.foreground": "#776F8760",
+    "editorGhostText.foreground": "#776F8750",
     "editorUnnecessaryCode.opacity": "#00000070",
     "editor.stackFrameHighlightBackground": "#CC0A4C16",
     "editor.focusedStackFrameHighlightBackground": "#0ACC6C11",
