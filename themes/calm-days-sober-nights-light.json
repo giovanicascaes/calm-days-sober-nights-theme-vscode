@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#776F872a",
     "scrollbarSlider.activeBackground": "#776F875d",
     "scrollbarSlider.hoverBackground": "#776F8743",
-    "progressBar.background": "#824794",
+    "progressBar.background": "#7F4D8E",
     "list.activeSelectionBackground": "#776F8712",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#CCC5DB50",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
     "debugTokenExpression.string": "#866594",
-    "debugTokenExpression.boolean": "#824794",
-    "debugTokenExpression.number": "#824794",
+    "debugTokenExpression.boolean": "#7F4D8E",
+    "debugTokenExpression.number": "#7F4D8E",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#D9628A",
     "debugIcon.breakpointDisabledForeground": "#776F87",
@@ -371,7 +371,8 @@
         "meta.structure.dictionary",
         "punctuation.section",
         "punctuation.definition.block",
-        "punctuation.definition.parameters"
+        "punctuation.definition.parameters",
+        "punctuation.definition.binding-pattern.object"
       ],
       "settings": {
         "foreground": "#7A6E949A"
@@ -421,7 +422,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#824794"
+        "foreground": "#7F4D8E"
       }
     },
     {
@@ -445,7 +446,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#824794"
+        "foreground": "#7F4D8E"
       }
     },
     {

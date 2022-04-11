@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#CEC7DB2a",
     "scrollbarSlider.activeBackground": "#CEC7DB5d",
     "scrollbarSlider.hoverBackground": "#CEC7DB43",
-    "progressBar.background": "#E287FF",
+    "progressBar.background": "#E599FF",
     "list.activeSelectionBackground": "#CEC7DB13",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#6F658250",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#D2C6E6",
     "debugTokenExpression.string": "#EAB9FE",
-    "debugTokenExpression.boolean": "#E287FF",
-    "debugTokenExpression.number": "#E287FF",
+    "debugTokenExpression.boolean": "#E599FF",
+    "debugTokenExpression.number": "#E599FF",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#CEC7DB",
@@ -366,7 +366,8 @@
         "meta.structure.dictionary",
         "punctuation.section",
         "punctuation.definition.block",
-        "punctuation.definition.parameters"
+        "punctuation.definition.parameters",
+        "punctuation.definition.binding-pattern.object"
       ],
       "settings": { "foreground": "#D2C6E69A" }
     },
@@ -402,7 +403,7 @@
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
-      "settings": { "foreground": "#E287FF" }
+      "settings": { "foreground": "#E599FF" }
     },
     {
       "name": "Anchor Escape Characters",
@@ -424,7 +425,7 @@
         "constant.language.infinity",
         "constant.language.nan"
       ],
-      "settings": { "foreground": "#E287FF" }
+      "settings": { "foreground": "#E599FF" }
     },
     {
       "name": "Variable",
@@ -503,7 +504,7 @@
     {
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
-      "settings": { "fontStyle": "italic", "foreground": "#B499FF" }
+      "settings": { "fontStyle": "italic", "foreground": "#B89EFF" }
     },
     {
       "name": "Function call",
@@ -793,8 +794,8 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#B499FF" },
-    "parameter": { "foreground": "#B499FF" },
+    "parameter.declaration": { "foreground": "#B89EFF" },
+    "parameter": { "foreground": "#B89EFF" },
     "property.declaration": { "foreground": "#7884F0" },
     "*.defaultLibrary": { "foreground": "#55E6D0" },
     "function.defaultLibrary": { "foreground": "#7DF8FA" },
