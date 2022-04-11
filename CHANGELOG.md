@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.13
+Improve bold, variable, property, function colors
+
 ## 3.0.12
 Enhance light focus outline
 
