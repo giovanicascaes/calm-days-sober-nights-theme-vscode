@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.14
+Improve some syntax colors
+
 ## 3.0.13
 Improve bold, variable, property, function colors
 
