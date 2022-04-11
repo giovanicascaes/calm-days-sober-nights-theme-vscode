@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#776F872a",
     "scrollbarSlider.activeBackground": "#776F875d",
     "scrollbarSlider.hoverBackground": "#776F8743",
-    "progressBar.background": "#754385",
+    "progressBar.background": "#824794",
     "list.activeSelectionBackground": "#776F8712",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#CCC5DB50",
@@ -131,7 +131,7 @@
     "statusBar.background": "#6ABDB1",
     "statusBar.border": "#00000016",
     "statusBar.debuggingForeground": "#ffffffA0",
-    "statusBar.debuggingBackground": "#795C85",
+    "statusBar.debuggingBackground": "#866594",
     "statusBar.debuggingBorder": "#00000016",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -340,9 +340,9 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
-    "debugTokenExpression.string": "#795C85",
-    "debugTokenExpression.boolean": "#754385",
-    "debugTokenExpression.number": "#754385",
+    "debugTokenExpression.string": "#866594",
+    "debugTokenExpression.boolean": "#824794",
+    "debugTokenExpression.number": "#824794",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#D9628A",
     "debugIcon.breakpointDisabledForeground": "#776F87",
@@ -396,14 +396,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#795C85"
+        "foreground": "#866594"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#795C85"
+        "foreground": "#866594"
       }
     },
     {
@@ -421,7 +421,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#754385"
+        "foreground": "#824794"
       }
     },
     {
@@ -445,7 +445,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#754385"
+        "foreground": "#824794"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#795C85"
+        "foreground": "#866594"
       }
     },
     {
@@ -749,7 +749,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#795C85"
+        "foreground": "#866594"
       }
     },
     {
@@ -771,7 +771,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#795C85"
+        "foreground": "#866594"
       }
     },
     {

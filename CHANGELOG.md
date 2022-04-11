@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.15
+Improve light string
+
 ## 3.0.14
 Improve some syntax colors
 
