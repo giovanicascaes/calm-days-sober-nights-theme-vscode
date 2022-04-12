@@ -367,7 +367,7 @@
         "punctuation.section",
         "punctuation.definition.block",
         "punctuation.definition.parameters",
-        "punctuation.definition.binding-pattern.object"
+        "meta.var.expr punctuation.definition.binding-pattern"
       ],
       "settings": { "foreground": "#D2C6E69A" }
     },
@@ -503,7 +503,11 @@
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "meta.parameter"],
+      "scope": [
+        "variable.parameter",
+        "meta.parameter",
+        "meta.parameters punctuation.definition.binding-pattern"
+      ],
       "settings": { "fontStyle": "italic", "foreground": "#B89EFF" }
     },
     {
