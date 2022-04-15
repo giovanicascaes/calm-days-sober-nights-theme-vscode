@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#495099",
+    "statusBarItem.remoteBackground": "#484F96",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#776F87",
     "statusBar.noFolderBackground": "#F1EDFA",
@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF6A34",
     "editorLightBulbAutoFix.foreground": "#2D88B5",
-    "editorInlayHint.background": "#066C851B",
-    "editorInlayHint.foreground": "#066C85C1",
+    "editorInlayHint.background": "#22758A1B",
+    "editorInlayHint.foreground": "#22758AC1",
     "editor.snippetTabstopHighlightBackground": "#7A627910",
     "snippetFinalTabstopHighlightBackground": "#7A62791D",
     "banner.background": "#A499B819",
@@ -336,7 +336,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#776F8720",
     "debugView.stateLabelForeground": "#776F87",
-    "debugTokenExpression.name": "#495099",
+    "debugTokenExpression.name": "#484F96",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#279FA1"
+        "foreground": "#28A6A0"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#066C85"
+        "foreground": "#22758A"
       }
     },
     {
@@ -564,14 +564,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#066C85"
+        "foreground": "#22758A"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#279FA1",
+        "foreground": "#2392A1",
         "fontStyle": "italic"
       }
     },
@@ -593,7 +593,7 @@
         "meta.field.declaration.ts variable.object.property"
       ],
       "settings": {
-        "foreground": "#495099"
+        "foreground": "#484F96"
       }
     },
     {
@@ -606,14 +606,14 @@
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#495099"
+        "foreground": "#484F96"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#279FA1"
+        "foreground": "#28A6A0"
       }
     },
     {
@@ -648,7 +648,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#066C85"
+        "foreground": "#22758A"
       }
     },
     {
@@ -656,14 +656,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#279FA1"
+        "foreground": "#28A6A0"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#279FA1"
+        "foreground": "#28A6A0"
       }
     },
     {
@@ -699,7 +699,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#066C85"
+        "foreground": "#22758A"
       }
     },
     {
@@ -844,7 +844,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#066C85"
+        "foreground": "#22758A"
       }
     },
     {
@@ -966,16 +966,16 @@
       "foreground": "#6B50B3"
     },
     "property.declaration": {
-      "foreground": "#495099"
+      "foreground": "#484F96"
     },
     "*.defaultLibrary": {
       "foreground": "#108C7A"
     },
     "function.defaultLibrary": {
-      "foreground": "#279FA1"
+      "foreground": "#2392A1"
     },
     "method.defaultLibrary": {
-      "foreground": "#279FA1"
+      "foreground": "#2392A1"
     },
     "variable.defaultLibrary": {
       "foreground": "#108C7A"
@@ -984,7 +984,7 @@
       "foreground": "#108C7A"
     },
     "variable.declaration": {
-      "foreground": "#495099"
+      "foreground": "#484F96"
     },
     "variable": {
       "foreground": "#7A6E94"
