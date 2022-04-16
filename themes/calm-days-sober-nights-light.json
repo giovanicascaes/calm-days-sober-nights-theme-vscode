@@ -547,8 +547,7 @@
       "scope": [
         "variable.parameter",
         "meta.parameter",
-        "meta.parameters punctuation.definition.binding-pattern",
-        "meta.parameters meta.parameter.object-binding-pattern variable.object.property"
+        "meta.parameters punctuation.definition.binding-pattern"
       ],
       "settings": {
         "fontStyle": "italic",
