@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.23
+Improve yellow terminal color, banner color
+
 ## 3.0.22
 Improve yellow terminal color, add semantic function color
 
