@@ -988,6 +988,9 @@
     },
     "variable": {
       "foreground": "#7A6E94"
+    },
+    "function": {
+      "foreground": "#22758A"
     }
   },
   "semanticClass": "calm-days-sober-nights-light"

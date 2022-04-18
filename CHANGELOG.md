@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.22
+Improve yellow terminal color, add semantic function color
+
 ## 3.0.21
 Improve library function syntax, yellow terminal colors
 

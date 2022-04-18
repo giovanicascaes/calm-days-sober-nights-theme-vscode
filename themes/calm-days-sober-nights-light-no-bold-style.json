@@ -806,7 +806,8 @@
     "variable.defaultLibrary": { "foreground": "#108C7A" },
     "property.defaultLibrary": { "foreground": "#108C7A" },
     "variable.declaration": { "foreground": "#4A5096" },
-    "variable": { "foreground": "#7A6E94" }
+    "variable": { "foreground": "#7A6E94" },
+    "function": { "foreground": "#22758A" }
   },
   "semanticClass": "calm-days-sober-nights-light"
 }
