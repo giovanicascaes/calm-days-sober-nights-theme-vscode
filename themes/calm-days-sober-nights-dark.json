@@ -579,7 +579,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#85CEF2",
+        "foreground": "#79DAF2",
         "fontStyle": "italic"
       }
     },
@@ -973,10 +973,10 @@
       "foreground": "#55E6D0"
     },
     "function.defaultLibrary": {
-      "foreground": "#85CEF2"
+      "foreground": "#79DAF2"
     },
     "method.defaultLibrary": {
-      "foreground": "#85CEF2"
+      "foreground": "#79DAF2"
     },
     "variable.defaultLibrary": {
       "foreground": "#55E6D0"

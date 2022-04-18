@@ -523,7 +523,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#85CEF2", "fontStyle": "italic" }
+      "settings": { "foreground": "#79DAF2", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -802,8 +802,8 @@
     "parameter": { "foreground": "#B89EFF" },
     "property.declaration": { "foreground": "#7884F0" },
     "*.defaultLibrary": { "foreground": "#55E6D0" },
-    "function.defaultLibrary": { "foreground": "#85CEF2" },
-    "method.defaultLibrary": { "foreground": "#85CEF2" },
+    "function.defaultLibrary": { "foreground": "#79DAF2" },
+    "method.defaultLibrary": { "foreground": "#79DAF2" },
     "variable.defaultLibrary": { "foreground": "#55E6D0" },
     "property.defaultLibrary": { "foreground": "#55E6D0" },
     "variable.declaration": { "foreground": "#7884F0" },
