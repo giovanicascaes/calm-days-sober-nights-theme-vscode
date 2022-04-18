@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.19
+Improve library function syntax, yellow terminal colors
+
 ## 3.0.18
 Improve library function syntax, yellow terminal colors
 

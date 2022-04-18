@@ -268,7 +268,7 @@
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ED7480",
     "terminal.ansiGreen": "#70CC8F",
-    "terminal.ansiYellow": "#EDDDAB",
+    "terminal.ansiYellow": "#EDDDAD",
     "terminal.ansiBlue": "#6EA6FA",
     "terminal.ansiMagenta": "#E8B9FA",
     "terminal.ansiCyan": "#90DFE0",
@@ -276,7 +276,7 @@
     "terminal.ansiBrightBlack": "#756A8C",
     "terminal.ansiBrightRed": "#F27985",
     "terminal.ansiBrightGreen": "#70CC8F",
-    "terminal.ansiBrightYellow": "#F2E1B1",
+    "terminal.ansiBrightYellow": "#F2E2B3",
     "terminal.ansiBrightBlue": "#73ABFF",
     "terminal.ansiBrightMagenta": "#EDBFFF",
     "terminal.ansiBrightCyan": "#95E5E6",
@@ -398,7 +398,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#7EF2EC" }
+      "settings": { "foreground": "#85FFF9" }
     },
     {
       "name": "Escape Characters",
@@ -533,7 +533,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#7EF2EC" }
+      "settings": { "foreground": "#85FFF9" }
     },
     {
       "name": "Static types",
@@ -590,12 +590,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#7EF2EC" }
+      "settings": { "fontStyle": "italic", "foreground": "#85FFF9" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#7EF2EC" }
+      "settings": { "foreground": "#85FFF9" }
     },
     {
       "name": "Decorators/annotation",
