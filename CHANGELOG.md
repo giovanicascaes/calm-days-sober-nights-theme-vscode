@@ -1,7 +1,13 @@
 # Change Log
 
+## 3.0.18
+Improve library function syntax, yellow terminal colors
+
+## 3.0.17
+Improve library function syntax, yellow terminal colors
+
 ## 3.0.16
-Improve some syntax colors
+Improve syntax colors, scrollbars
 
 ## 3.0.15
 Improve light string

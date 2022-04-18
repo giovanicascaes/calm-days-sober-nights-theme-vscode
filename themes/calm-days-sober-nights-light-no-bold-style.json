@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#484F96",
+    "statusBarItem.remoteBackground": "#4A5096",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#776F87",
     "statusBar.noFolderBackground": "#F1EDFA",
@@ -336,7 +336,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#776F8720",
     "debugView.stateLabelForeground": "#776F87",
-    "debugTokenExpression.name": "#484F96",
+    "debugTokenExpression.name": "#4A5096",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
@@ -398,7 +398,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#28A6A0" }
+      "settings": { "foreground": "#289994" }
     },
     {
       "name": "Escape Characters",
@@ -518,7 +518,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#2392A1", "fontStyle": "italic" }
+      "settings": { "foreground": "#2C79A1", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -535,7 +535,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "meta.field.declaration.ts variable.object.property"
       ],
-      "settings": { "foreground": "#484F96" }
+      "settings": { "foreground": "#4A5096" }
     },
     {
       "name": "Object Property",
@@ -546,12 +546,12 @@
         "meta.function-call variable.other.object.property",
         "variable.other.object.property.cs"
       ],
-      "settings": { "foreground": "#484F96" }
+      "settings": { "foreground": "#4A5096" }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#28A6A0" }
+      "settings": { "foreground": "#289994" }
     },
     {
       "name": "Static types",
@@ -585,12 +585,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#28A6A0" }
+      "settings": { "fontStyle": "italic", "foreground": "#289994" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#28A6A0" }
+      "settings": { "foreground": "#289994" }
     },
     {
       "name": "Decorators/annotation",
@@ -799,13 +799,13 @@
   "semanticTokenColors": {
     "parameter.declaration": { "foreground": "#6B50B3" },
     "parameter": { "foreground": "#6B50B3" },
-    "property.declaration": { "foreground": "#484F96" },
+    "property.declaration": { "foreground": "#4A5096" },
     "*.defaultLibrary": { "foreground": "#108C7A" },
-    "function.defaultLibrary": { "foreground": "#2392A1" },
-    "method.defaultLibrary": { "foreground": "#2392A1" },
+    "function.defaultLibrary": { "foreground": "#2C79A1" },
+    "method.defaultLibrary": { "foreground": "#2C79A1" },
     "variable.defaultLibrary": { "foreground": "#108C7A" },
     "property.defaultLibrary": { "foreground": "#108C7A" },
-    "variable.declaration": { "foreground": "#484F96" },
+    "variable.declaration": { "foreground": "#4A5096" },
     "variable": { "foreground": "#7A6E94" }
   },
   "semanticClass": "calm-days-sober-nights-light"

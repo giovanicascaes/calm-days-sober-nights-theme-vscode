@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#484F96",
+    "statusBarItem.remoteBackground": "#4A5096",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#776F87",
     "statusBar.noFolderBackground": "#F1EDFA",
@@ -336,7 +336,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#776F8720",
     "debugView.stateLabelForeground": "#776F87",
-    "debugTokenExpression.name": "#484F96",
+    "debugTokenExpression.name": "#4A5096",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#28A6A0"
+        "foreground": "#289994"
       }
     },
     {
@@ -571,7 +571,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#2392A1",
+        "foreground": "#2C79A1",
         "fontStyle": "italic"
       }
     },
@@ -593,7 +593,7 @@
         "meta.field.declaration.ts variable.object.property"
       ],
       "settings": {
-        "foreground": "#484F96"
+        "foreground": "#4A5096"
       }
     },
     {
@@ -606,14 +606,14 @@
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#484F96"
+        "foreground": "#4A5096"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#28A6A0"
+        "foreground": "#289994"
       }
     },
     {
@@ -656,14 +656,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#28A6A0"
+        "foreground": "#289994"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#28A6A0"
+        "foreground": "#289994"
       }
     },
     {
@@ -966,16 +966,16 @@
       "foreground": "#6B50B3"
     },
     "property.declaration": {
-      "foreground": "#484F96"
+      "foreground": "#4A5096"
     },
     "*.defaultLibrary": {
       "foreground": "#108C7A"
     },
     "function.defaultLibrary": {
-      "foreground": "#2392A1"
+      "foreground": "#2C79A1"
     },
     "method.defaultLibrary": {
-      "foreground": "#2392A1"
+      "foreground": "#2C79A1"
     },
     "variable.defaultLibrary": {
       "foreground": "#108C7A"
@@ -984,7 +984,7 @@
       "foreground": "#108C7A"
     },
     "variable.declaration": {
-      "foreground": "#484F96"
+      "foreground": "#4A5096"
     },
     "variable": {
       "foreground": "#7A6E94"
