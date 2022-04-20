@@ -1,6 +1,9 @@
 # Change Log
 
 ## 3.0.23
+Improve highlight colors
+
+## 3.0.23
 Improve yellow terminal color, banner color
 
 ## 3.0.22
