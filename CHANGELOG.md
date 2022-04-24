@@ -1,6 +1,9 @@
 # Change Log
 
-## 3.0.23
+## 3.0.25
+Improve library function color
+
+## 3.0.24
 Improve highlight colors
 
 ## 3.0.23

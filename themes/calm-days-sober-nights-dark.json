@@ -268,7 +268,7 @@
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ED7480",
     "terminal.ansiGreen": "#70CC8F",
-    "terminal.ansiYellow": "#F2DD9B",
+    "terminal.ansiYellow": "#F2DC96",
     "terminal.ansiBlue": "#6EA6FA",
     "terminal.ansiMagenta": "#E8B9FA",
     "terminal.ansiCyan": "#90DFE0",
@@ -276,7 +276,7 @@
     "terminal.ansiBrightBlack": "#756A8C",
     "terminal.ansiBrightRed": "#F27985",
     "terminal.ansiBrightGreen": "#70CC8F",
-    "terminal.ansiBrightYellow": "#F7E2A0",
+    "terminal.ansiBrightYellow": "#F7E19C",
     "terminal.ansiBrightBlue": "#73ABFF",
     "terminal.ansiBrightMagenta": "#EDBFFF",
     "terminal.ansiBrightCyan": "#95E5E6",
@@ -579,7 +579,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#80E5FF",
+        "foreground": "#7BDCF5",
         "fontStyle": "italic"
       }
     },
@@ -973,10 +973,10 @@
       "foreground": "#55E6D0"
     },
     "function.defaultLibrary": {
-      "foreground": "#80E5FF"
+      "foreground": "#7BDCF5"
     },
     "method.defaultLibrary": {
-      "foreground": "#80E5FF"
+      "foreground": "#7BDCF5"
     },
     "variable.defaultLibrary": {
       "foreground": "#55E6D0"
