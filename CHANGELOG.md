@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.26
+Improve library function, constant color
+
 ## 3.0.25
 Improve library function color
 
