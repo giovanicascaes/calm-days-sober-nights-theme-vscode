@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#33A19B"
+        "foreground": "#37AB93"
       }
     },
     {
@@ -571,7 +571,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#2481A3",
+        "foreground": "#2683AD",
         "fontStyle": "italic"
       }
     },
@@ -613,7 +613,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#33A19B"
+        "foreground": "#37AB93"
       }
     },
     {
@@ -656,14 +656,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#33A19B"
+        "foreground": "#37AB93"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#33A19B"
+        "foreground": "#37AB93"
       }
     },
     {
@@ -972,10 +972,10 @@
       "foreground": "#108C7A"
     },
     "function.defaultLibrary": {
-      "foreground": "#2481A3"
+      "foreground": "#2683AD"
     },
     "method.defaultLibrary": {
-      "foreground": "#2481A3"
+      "foreground": "#2683AD"
     },
     "variable.defaultLibrary": {
       "foreground": "#108C7A"

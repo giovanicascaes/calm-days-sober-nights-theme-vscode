@@ -268,7 +268,7 @@
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ED7480",
     "terminal.ansiGreen": "#70CC8F",
-    "terminal.ansiYellow": "#F2DC96",
+    "terminal.ansiYellow": "#F2DA8C",
     "terminal.ansiBlue": "#6EA6FA",
     "terminal.ansiMagenta": "#E8B9FA",
     "terminal.ansiCyan": "#90DFE0",
@@ -276,7 +276,7 @@
     "terminal.ansiBrightBlack": "#756A8C",
     "terminal.ansiBrightRed": "#F27985",
     "terminal.ansiBrightGreen": "#70CC8F",
-    "terminal.ansiBrightYellow": "#F7E19C",
+    "terminal.ansiBrightYellow": "#F7DE92",
     "terminal.ansiBrightBlue": "#73ABFF",
     "terminal.ansiBrightMagenta": "#EDBFFF",
     "terminal.ansiBrightCyan": "#95E5E6",
@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#9EF0EC"
+        "foreground": "#99F6E4"
       }
     },
     {
@@ -579,7 +579,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#7BD4F5",
+        "foreground": "#80D6FF",
         "fontStyle": "italic"
       }
     },
@@ -594,7 +594,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#9EF0EC"
+        "foreground": "#99F6E4"
       }
     },
     {
@@ -664,14 +664,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#9EF0EC"
+        "foreground": "#99F6E4"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#9EF0EC"
+        "foreground": "#99F6E4"
       }
     },
     {
@@ -973,10 +973,10 @@
       "foreground": "#55E6D0"
     },
     "function.defaultLibrary": {
-      "foreground": "#7BD4F5"
+      "foreground": "#80D6FF"
     },
     "method.defaultLibrary": {
-      "foreground": "#7BD4F5"
+      "foreground": "#80D6FF"
     },
     "variable.defaultLibrary": {
       "foreground": "#55E6D0"
