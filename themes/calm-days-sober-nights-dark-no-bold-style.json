@@ -398,7 +398,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#99F6E4" }
+      "settings": { "foreground": "#55E6D0" }
     },
     {
       "name": "Escape Characters",
@@ -523,7 +523,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#80D6FF", "fontStyle": "italic" }
+      "settings": { "foreground": "#49D0F2", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -533,7 +533,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#99F6E4" }
+      "settings": { "foreground": "#55E6D0" }
     },
     {
       "name": "Static types",
@@ -590,12 +590,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#99F6E4" }
+      "settings": { "fontStyle": "italic", "foreground": "#55E6D0" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#99F6E4" }
+      "settings": { "foreground": "#55E6D0" }
     },
     {
       "name": "Decorators/annotation",
@@ -802,8 +802,8 @@
     "parameter": { "foreground": "#B89EFF" },
     "property.declaration": { "foreground": "#7884F0" },
     "*.defaultLibrary": { "foreground": "#55E6D0" },
-    "function.defaultLibrary": { "foreground": "#80D6FF" },
-    "method.defaultLibrary": { "foreground": "#80D6FF" },
+    "function.defaultLibrary": { "foreground": "#49D0F2" },
+    "method.defaultLibrary": { "foreground": "#49D0F2" },
     "variable.defaultLibrary": { "foreground": "#55E6D0" },
     "property.defaultLibrary": { "foreground": "#55E6D0" },
     "variable.declaration": { "foreground": "#7884F0" },

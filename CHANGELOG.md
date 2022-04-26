@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.28
+Removes library function, constant, entity names colors
+
 ## 3.0.27
 Improve Improve library function, constant, terminal yellow color
 
