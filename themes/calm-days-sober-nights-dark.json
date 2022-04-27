@@ -28,12 +28,12 @@
     "scrollbarSlider.activeBackground": "#CEC7DB9d",
     "scrollbarSlider.hoverBackground": "#CEC7DB7d",
     "progressBar.background": "#E599FF",
-    "list.activeSelectionBackground": "#CEC7DB13",
+    "list.activeSelectionBackground": "#CEC7DB15",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#6F658250",
-    "list.focusBackground": "#CEC7DB15",
+    "list.focusBackground": "#CEC7DB21",
     "list.focusForeground": "#FFFFFF",
-    "list.focusOutline": "#CEC7DB12",
+    "list.focusOutline": "#ffffff00",
     "list.highlightForeground": "#85E6D7",
     "list.hoverBackground": "#CEC7DB09",
     "list.hoverForeground": "#FFFFFF",
@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#99F6E8"
       }
     },
     {
@@ -594,7 +594,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#99F6E8"
       }
     },
     {
@@ -671,7 +671,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#55E6D0"
+        "foreground": "#99F6E8"
       }
     },
     {

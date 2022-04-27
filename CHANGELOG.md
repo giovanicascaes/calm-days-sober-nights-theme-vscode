@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.0.29
+Some reverts, improve lists
+
 ## 3.0.28
 Removes library function, constant, entity names colors
 

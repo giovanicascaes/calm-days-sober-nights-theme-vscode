@@ -28,12 +28,12 @@
     "scrollbarSlider.activeBackground": "#776F878d",
     "scrollbarSlider.hoverBackground": "#776F876d",
     "progressBar.background": "#7F4D8E",
-    "list.activeSelectionBackground": "#776F8712",
+    "list.activeSelectionBackground": "#776F8715",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#CCC5DB50",
-    "list.focusBackground": "#776F8715",
+    "list.focusBackground": "#776F8721",
     "list.focusForeground": "#000000",
-    "list.focusOutline": "#776F8712",
+    "list.focusOutline": "#00000000",
     "list.highlightForeground": "#6ABDB1",
     "list.hoverBackground": "#776F8709",
     "list.hoverForeground": "#000000",
@@ -551,7 +551,7 @@
     {
       "name": "Entity name",
       "scope": ["entity.name"],
-      "settings": { "foreground": "#108C7A" }
+      "settings": { "foreground": "#37AB9A" }
     },
     {
       "name": "Static types",
@@ -585,12 +585,12 @@
     {
       "name": "Library constant",
       "scope": ["support.constant"],
-      "settings": { "fontStyle": "italic", "foreground": "#108C7A" }
+      "settings": { "fontStyle": "italic", "foreground": "#37AB9A" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
-      "settings": { "foreground": "#108C7A" }
+      "settings": { "foreground": "#37AB9A" }
     },
     {
       "name": "Decorators/annotation",
