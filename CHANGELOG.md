@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.1.0
+Improvements in function, icons colors
+
 ## 3.0.29
 Some reverts, improve lists
 

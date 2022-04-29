@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#776F874d",
     "scrollbarSlider.activeBackground": "#776F878d",
     "scrollbarSlider.hoverBackground": "#776F876d",
-    "progressBar.background": "#7F4D8E",
+    "progressBar.background": "#8E4D8E",
     "list.activeSelectionBackground": "#776F8715",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#CCC5DB50",
@@ -131,7 +131,7 @@
     "statusBar.background": "#6ABDB1",
     "statusBar.border": "#00000016",
     "statusBar.debuggingForeground": "#ffffffA0",
-    "statusBar.debuggingBackground": "#866594",
+    "statusBar.debuggingBackground": "#8B6594",
     "statusBar.debuggingBorder": "#00000016",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -270,16 +270,16 @@
     "terminal.ansiGreen": "#00B33C",
     "terminal.ansiYellow": "#EDC045",
     "terminal.ansiBlue": "#2E6CD1",
-    "terminal.ansiMagenta": "#B075C7",
-    "terminal.ansiCyan": "#46B8BA",
+    "terminal.ansiMagenta": "#B775C7",
+    "terminal.ansiCyan": "#46BAAE",
     "terminal.ansiWhite": "#CFC7E0",
     "terminal.ansiBrightBlack": "#9D94B0",
     "terminal.ansiBrightRed": "#F07186",
     "terminal.ansiBrightGreen": "#00B33C",
     "terminal.ansiBrightYellow": "#F2C549",
     "terminal.ansiBrightBlue": "#3673D6",
-    "terminal.ansiBrightMagenta": "#B57ACC",
-    "terminal.ansiBrightCyan": "#4CBDBF",
+    "terminal.ansiBrightMagenta": "#BC7ACC",
+    "terminal.ansiBrightCyan": "#4CBFB3",
     "terminal.ansiBrightWhite": "#E3DDF0",
     "editorWidget.background": "#EBE6F5",
     "editorWidget.border": "#EBE6F5",
@@ -340,9 +340,9 @@
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
-    "debugTokenExpression.string": "#866594",
-    "debugTokenExpression.boolean": "#7F4D8E",
-    "debugTokenExpression.number": "#7F4D8E",
+    "debugTokenExpression.string": "#8B6594",
+    "debugTokenExpression.boolean": "#8E4D8E",
+    "debugTokenExpression.number": "#8E4D8E",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#D9628A",
     "debugIcon.breakpointDisabledForeground": "#776F87",
@@ -397,14 +397,14 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#866594"
+        "foreground": "#8B6594"
       }
     },
     {
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#866594"
+        "foreground": "#8B6594"
       }
     },
     {
@@ -422,7 +422,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#7F4D8E"
+        "foreground": "#8E4D8E"
       }
     },
     {
@@ -446,7 +446,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#7F4D8E"
+        "foreground": "#8E4D8E"
       }
     },
     {
@@ -579,7 +579,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#866594"
+        "foreground": "#8B6594"
       }
     },
     {
@@ -613,7 +613,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#37AB9A"
+        "foreground": "#37AB9F"
       }
     },
     {
@@ -656,14 +656,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#37AB9A"
+        "foreground": "#37AB9F"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#37AB9A"
+        "foreground": "#37AB9F"
       }
     },
     {
@@ -754,7 +754,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#866594"
+        "foreground": "#8B6594"
       }
     },
     {
@@ -776,7 +776,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#866594"
+        "foreground": "#8B6594"
       }
     },
     {

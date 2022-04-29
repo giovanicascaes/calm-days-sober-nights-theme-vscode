@@ -17,8 +17,8 @@ fs.readdir(directoryPath, function (_err, files) {
         newValue = data
           .replace(/="#CEC7DB"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
           .replace(/="#F3F0F8"/gim, '="#F0ECF8"')
-          .replace(/-opacity="0.46"/gim, '-opacity="0.46"')
-          .replace(/-opacity="0.18"/gim, '-opacity="0.18"');
+          .replace(/-opacity="0.54"/gim, '-opacity="0.54"')
+          .replace(/-opacity="0.26"/gim, '-opacity="0.26"');
       } else {
         newValue = data
           .replace(
@@ -26,8 +26,8 @@ fs.readdir(directoryPath, function (_err, files) {
             `="${lightTheme.colors["icon.foreground"]}"`
           )
           .replace(/="#090018"/gim, '="#090018"')
-          .replace(/-opacity="0.56"/gim, '-opacity="0.56"')
-          .replace(/-opacity="0.20"/gim, '-opacity="0.18"');
+          .replace(/-opacity="0.62"/gim, '-opacity="0.62"')
+          .replace(/-opacity="0.24"/gim, '-opacity="0.24"');
       }
 
       fs.writeFileSync(filePath, newValue, "utf-8");
