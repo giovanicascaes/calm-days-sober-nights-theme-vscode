@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#49D0F21B",
-    "editorInlayHint.foreground": "#49D0F2C1",
+    "editorInlayHint.background": "#49C8F21B",
+    "editorInlayHint.foreground": "#49C8F2C1",
     "editor.snippetTabstopHighlightBackground": "#62677A10",
     "editor.snippetFinalTabstopHighlightBackground": "#62677A1D",
     "banner.background": "#6C6085",
@@ -415,7 +415,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#99F6ED"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -547,7 +547,7 @@
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#49D0F2"
+        "foreground": "#49C8F2"
       }
     },
     {
@@ -572,14 +572,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#49D0F2E6"
+        "foreground": "#49C8F2E6"
       }
     },
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#49D0F2",
+        "foreground": "#FA5D96",
         "fontStyle": "italic"
       }
     },
@@ -594,7 +594,7 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#99F6ED"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -656,7 +656,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#49D0F2"
+        "foreground": "#49C8F2"
       }
     },
     {
@@ -671,7 +671,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#99F6ED"
+        "foreground": "#55E6D0"
       }
     },
     {
@@ -707,7 +707,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#49D0F2E6"
+        "foreground": "#49C8F2E6"
       }
     },
     {
@@ -844,7 +844,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#49D0F2E6"
+        "foreground": "#49C8F2E6"
       }
     },
     {
@@ -973,10 +973,10 @@
       "foreground": "#55E6D0"
     },
     "function.defaultLibrary": {
-      "foreground": "#49D0F2"
+      "foreground": "#FA5D96"
     },
     "method.defaultLibrary": {
-      "foreground": "#49D0F2"
+      "foreground": "#49C8F2"
     },
     "variable.defaultLibrary": {
       "foreground": "#55E6D0"
@@ -991,7 +991,7 @@
       "foreground": "#D2C6E6"
     },
     "function": {
-      "foreground": "#49D0F2"
+      "foreground": "#49C8F2"
     }
   },
   "semanticClass": "calm-days-sober-nights-dark"

@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.1.1
+Improvements in function, entity colors
+
 ## 3.1.0
 Improvements in function, icons colors
 
