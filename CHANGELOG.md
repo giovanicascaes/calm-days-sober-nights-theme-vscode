@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.1.2
+Fix destructuring syntax
+
 ## 3.1.1
 Improvements in function, entity colors
 

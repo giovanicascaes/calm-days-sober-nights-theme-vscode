@@ -367,7 +367,8 @@
         "punctuation.section",
         "punctuation.definition.block",
         "punctuation.definition.parameters",
-        "meta.var.expr punctuation.definition.binding-pattern"
+        "meta.var.expr punctuation.definition.binding-pattern",
+        "meta.var.expr meta.object-binding-pattern-variable"
       ],
       "settings": { "foreground": "#7A6E949A" }
     },
