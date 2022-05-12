@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.1.3
+Update entity names, static types color
+
 ## 3.1.2
 Fix destructuring syntax
 
