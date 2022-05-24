@@ -1,5 +1,8 @@
 # Change Log
 
+## 3.1.5
+Improved function, entity colors
+
 ## 3.1.4
 Update entity names, static types color
 

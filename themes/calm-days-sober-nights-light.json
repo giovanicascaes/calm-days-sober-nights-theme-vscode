@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#4A5096",
+    "statusBarItem.remoteBackground": "#4A5094",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#776F87",
     "statusBar.noFolderBackground": "#F1EDFA",
@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF6A34",
     "editorLightBulbAutoFix.foreground": "#2D88B5",
-    "editorInlayHint.background": "#22708A1B",
-    "editorInlayHint.foreground": "#22708AC1",
+    "editorInlayHint.background": "#0F6D8C1B",
+    "editorInlayHint.foreground": "#0F6D8CC1",
     "editor.snippetTabstopHighlightBackground": "#7A627910",
     "snippetFinalTabstopHighlightBackground": "#7A62791D",
     "banner.background": "#9886B819",
@@ -336,7 +336,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#776F8720",
     "debugView.stateLabelForeground": "#776F87",
-    "debugTokenExpression.name": "#4A5096",
+    "debugTokenExpression.name": "#4A5094",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#7A6E94",
@@ -416,7 +416,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -519,7 +519,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -533,14 +533,14 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#22708A"
+        "foreground": "#0F6D8C"
       }
     },
     {
@@ -565,7 +565,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#22708A"
+        "foreground": "#0F6D8C"
       }
     },
     {
@@ -594,7 +594,7 @@
         "meta.field.declaration.ts variable.object.property"
       ],
       "settings": {
-        "foreground": "#4A5096"
+        "foreground": "#4A5094"
       }
     },
     {
@@ -607,31 +607,31 @@
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#4A5096"
+        "foreground": "#4A5094"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
       "name": "Static types",
       "scope": ["entity.name.type", "storage.type.cs"],
-      "settings": { "foreground": "#108C7A" }
+      "settings": { "foreground": "#108C86" }
     },
     {
       "name": "Provided (support) values",
       "scope": "support",
-      "settings": { "foreground": "#108C7A" }
+      "settings": { "foreground": "#108C86" }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -642,14 +642,14 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#108C7A80"
+        "foreground": "#108C8680"
       }
     },
     {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#22708A"
+        "foreground": "#0F6D8C"
       }
     },
     {
@@ -657,14 +657,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -700,7 +700,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#22708A"
+        "foreground": "#0F6D8C"
       }
     },
     {
@@ -734,7 +734,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -769,7 +769,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -784,7 +784,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -845,7 +845,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#22708A"
+        "foreground": "#0F6D8C"
       }
     },
     {
@@ -881,7 +881,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#7A6E940f",
-        "foreground": "#108C7A"
+        "foreground": "#108C86"
       }
     },
     {
@@ -967,31 +967,31 @@
       "foreground": "#6B50B3"
     },
     "property.declaration": {
-      "foreground": "#4A5096"
+      "foreground": "#4A5094"
     },
     "*.defaultLibrary": {
-      "foreground": "#108C7A"
+      "foreground": "#108C86"
     },
     "function.defaultLibrary": {
       "foreground": "#C44170"
     },
     "method.defaultLibrary": {
-      "foreground": "#22708A"
+      "foreground": "#0F6D8C"
     },
     "variable.defaultLibrary": {
-      "foreground": "#108C7A"
+      "foreground": "#108C86"
     },
     "property.defaultLibrary": {
-      "foreground": "#108C7A"
+      "foreground": "#108C86"
     },
     "variable.declaration": {
-      "foreground": "#4A5096"
+      "foreground": "#4A5094"
     },
     "variable": {
       "foreground": "#7A6E94"
     },
     "function": {
-      "foreground": "#22708A"
+      "foreground": "#0F6D8C"
     }
   },
   "semanticClass": "calm-days-sober-nights-light"
