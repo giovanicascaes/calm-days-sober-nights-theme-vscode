@@ -142,7 +142,7 @@
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#6F6F87",
     "statusBar.noFolderBackground": "#E1E1F2",
-    "statusBar.noFolderBorder": "#00000016",
+    "statusBar.noFolderBorder": "#00000010",
     "statusBarItem.warningForeground": "#ffffffA0",
     "statusBarItem.warningBackground": "#CF6A34",
     "statusBarItem.warningBorder": "#00000016",
