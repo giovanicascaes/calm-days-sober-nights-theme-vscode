@@ -990,7 +990,8 @@
       "foreground": "#69E3FF"
     },
     "property.defaultLibrary": {
-      "foreground": "#69E3FF"
+      "foreground": "#69E3FF",
+      "fontStyle": "bold"
     },
     "variable.declaration": {
       "foreground": "#7884F0"

@@ -814,7 +814,7 @@
     "function.defaultLibrary": { "foreground": "#82FAE8" },
     "method.defaultLibrary": { "foreground": "#1AC8FF" },
     "variable.defaultLibrary": { "foreground": "#69E3FF" },
-    "property.defaultLibrary": { "foreground": "#69E3FF" },
+    "property.defaultLibrary": { "foreground": "#69E3FF", "fontStyle": "bold" },
     "variable.declaration": { "foreground": "#7884F0" },
     "class": { "foreground": "#1AC8FF" },
     "variable": { "foreground": "#C6C6E6" },
