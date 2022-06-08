@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#1AC8FF0F",
-    "editorInlayHint.foreground": "#1AC8FFC1",
+    "editorInlayHint.background": "#1FC9FF0F",
+    "editorInlayHint.foreground": "#1FC9FFC1",
     "editor.snippetTabstopHighlightBackground": "#62627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#62627A1D",
     "banner.background": "#606085",
@@ -555,7 +555,7 @@
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#1AC8FF"
+        "foreground": "#1FC9FF"
       }
     },
     {
@@ -580,7 +580,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#1AC8FFE6"
+        "foreground": "#1FC9FFE6"
       }
     },
     {
@@ -664,7 +664,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#1AC8FF"
+        "foreground": "#1FC9FF"
       }
     },
     {
@@ -715,7 +715,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#1AC8FFE6"
+        "foreground": "#1FC9FFE6"
       }
     },
     {
@@ -852,7 +852,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#1AC8FFE6"
+        "foreground": "#1FC9FFE6"
       }
     },
     {
@@ -984,7 +984,7 @@
       "foreground": "#82FAE8"
     },
     "method.defaultLibrary": {
-      "foreground": "#1AC8FF"
+      "foreground": "#1FC9FF"
     },
     "variable.defaultLibrary": {
       "foreground": "#69E3FF"
@@ -997,13 +997,13 @@
       "foreground": "#7884F0"
     },
     "class": {
-      "foreground": "#1AC8FF"
+      "foreground": "#1FC9FF"
     },
     "variable": {
       "foreground": "#C6C6E6"
     },
     "function": {
-      "foreground": "#1AC8FF"
+      "foreground": "#1FC9FF"
     }
   },
   "semanticClass": "calm-days-sober-nights-dark"
