@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#C7C7DB5d",
     "scrollbarSlider.activeBackground": "#C7C7DB9d",
     "scrollbarSlider.hoverBackground": "#C7C7DB7d",
-    "progressBar.background": "#FF8FAB",
+    "progressBar.background": "#FF8FA4",
     "list.activeSelectionBackground": "#C7C7DB15",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#65658250",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#C6C6E6",
     "debugTokenExpression.string": "#EDB9FE",
-    "debugTokenExpression.boolean": "#FF8FAB",
-    "debugTokenExpression.number": "#FF8FAB",
+    "debugTokenExpression.boolean": "#FF8FA4",
+    "debugTokenExpression.number": "#FF8FA4",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#C7C7DB",
@@ -412,7 +412,7 @@
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
-      "settings": { "foreground": "#FF8FAB" }
+      "settings": { "foreground": "#FF8FA4" }
     },
     {
       "name": "Anchor Escape Characters",
@@ -434,7 +434,7 @@
         "constant.language.infinity",
         "constant.language.nan"
       ],
-      "settings": { "foreground": "#FF8FAB" }
+      "settings": { "foreground": "#FF8FA4" }
     },
     {
       "name": "Variable",
