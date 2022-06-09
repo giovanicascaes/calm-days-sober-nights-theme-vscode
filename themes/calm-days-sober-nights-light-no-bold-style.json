@@ -407,7 +407,7 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#00A38B" }
+      "settings": { "foreground": "#00A382" }
     },
     {
       "name": "Escape Characters",
@@ -512,7 +512,7 @@
         "meta.parameter",
         "meta.parameters punctuation.definition.binding-pattern"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#7F52B3" }
+      "settings": { "fontStyle": "italic", "foreground": "#774DA8" }
     },
     {
       "name": "Function call",
@@ -527,7 +527,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#00A38B", "fontStyle": "italic" }
+      "settings": { "foreground": "#00A382", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -806,11 +806,11 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#7F52B3" },
-    "parameter": { "foreground": "#7F52B3" },
+    "parameter.declaration": { "foreground": "#774DA8" },
+    "parameter": { "foreground": "#774DA8" },
     "property.declaration": { "foreground": "#3F468F" },
     "*.defaultLibrary": { "foreground": "#349DB8" },
-    "function.defaultLibrary": { "foreground": "#00A38B" },
+    "function.defaultLibrary": { "foreground": "#00A382" },
     "method.defaultLibrary": { "foreground": "#1C7D9C" },
     "variable.defaultLibrary": { "foreground": "#349DB8" },
     "property.defaultLibrary": { "foreground": "#349DB8", "fontStyle": "bold" },

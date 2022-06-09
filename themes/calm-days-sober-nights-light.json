@@ -426,7 +426,7 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#00A38B"
+        "foreground": "#00A382"
       }
     },
     {
@@ -562,7 +562,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7F52B3"
+        "foreground": "#774DA8"
       }
     },
     {
@@ -582,7 +582,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#00A38B",
+        "foreground": "#00A382",
         "fontStyle": "italic"
       }
     },
@@ -971,10 +971,10 @@
   ],
   "semanticTokenColors": {
     "parameter.declaration": {
-      "foreground": "#7F52B3"
+      "foreground": "#774DA8"
     },
     "parameter": {
-      "foreground": "#7F52B3"
+      "foreground": "#774DA8"
     },
     "property.declaration": {
       "foreground": "#3F468F"
@@ -983,7 +983,7 @@
       "foreground": "#349DB8"
     },
     "function.defaultLibrary": {
-      "foreground": "#00A38B"
+      "foreground": "#00A382"
     },
     "method.defaultLibrary": {
       "foreground": "#1C7D9C"
