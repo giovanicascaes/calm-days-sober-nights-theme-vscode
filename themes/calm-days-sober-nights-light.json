@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.remoteForeground": "#ffffffA0",
-    "statusBarItem.remoteBackground": "#3F468F",
+    "statusBarItem.remoteBackground": "#414894",
     "statusBarItem.remoteBorder": "#00000016",
     "statusBar.noFolderForeground": "#6F6F87",
     "statusBar.noFolderBackground": "#E1E1F2",
@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
     "editorLightBulb.foreground": "#CF6A34",
     "editorLightBulbAutoFix.foreground": "#2D88B5",
-    "editorInlayHint.background": "#1C7D9C0F",
-    "editorInlayHint.foreground": "#1C7D9CC1",
+    "editorInlayHint.background": "#027AAB0F",
+    "editorInlayHint.foreground": "#027AABC1",
     "editor.snippetTabstopHighlightBackground": "#62627A10",
     "snippetFinalTabstopHighlightBackground": "#62627A1D",
     "banner.background": "#8686B819",
@@ -336,7 +336,7 @@
     "debugView.exceptionLabelForeground": "#FFCCD4",
     "debugView.stateLabelBackground": "#6F6F8720",
     "debugView.stateLabelForeground": "#6F6F87",
-    "debugTokenExpression.name": "#3F468F",
+    "debugTokenExpression.name": "#414894",
     "debugExceptionWidget.background": "#CF344D10",
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#737399",
@@ -550,7 +550,7 @@
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#1C7D9C"
+        "foreground": "#027AAB"
       }
     },
     {
@@ -575,7 +575,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#1C7D9C"
+        "foreground": "#027AAB"
       }
     },
     {
@@ -604,7 +604,7 @@
         "meta.field.declaration.ts variable.object.property"
       ],
       "settings": {
-        "foreground": "#3F468F"
+        "foreground": "#414894"
       }
     },
     {
@@ -617,7 +617,7 @@
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#3F468F"
+        "foreground": "#414894"
       }
     },
     {
@@ -659,7 +659,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#1C7D9C"
+        "foreground": "#027AAB"
       }
     },
     {
@@ -710,7 +710,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#1C7D9C"
+        "foreground": "#027AAB"
       }
     },
     {
@@ -855,7 +855,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#1C7D9C"
+        "foreground": "#027AAB"
       }
     },
     {
@@ -977,7 +977,7 @@
       "foreground": "#774DA8"
     },
     "property.declaration": {
-      "foreground": "#3F468F"
+      "foreground": "#414894"
     },
     "*.defaultLibrary": {
       "foreground": "#349DB8"
@@ -986,7 +986,7 @@
       "foreground": "#00A382"
     },
     "method.defaultLibrary": {
-      "foreground": "#1C7D9C"
+      "foreground": "#027AAB"
     },
     "variable.defaultLibrary": {
       "foreground": "#349DB8"
@@ -996,16 +996,16 @@
       "fontStyle": "bold"
     },
     "variable.declaration": {
-      "foreground": "#3F468F"
+      "foreground": "#414894"
     },
     "class": {
-      "foreground": "#1C7D9C"
+      "foreground": "#027AAB"
     },
     "variable": {
       "foreground": "#737399"
     },
     "function": {
-      "foreground": "#1C7D9C"
+      "foreground": "#027AAB"
     }
   },
   "semanticClass": "calm-days-sober-nights-light"
