@@ -131,7 +131,7 @@
     "statusBar.background": "#85CFE6",
     "statusBar.border": "#ffffff16",
     "statusBar.debuggingForeground": "#603973",
-    "statusBar.debuggingBackground": "#F0B9FE",
+    "statusBar.debuggingBackground": "#EDB9FE",
     "statusBar.debuggingBorder": "#ffffff16",
     "statusBarItem.activeBackground": "#00000020",
     "statusBarItem.hoverBackground": "#00000010",
@@ -270,7 +270,7 @@
     "terminal.ansiGreen": "#70CC8F",
     "terminal.ansiYellow": "#F2D988",
     "terminal.ansiBlue": "#6EA6FA",
-    "terminal.ansiMagenta": "#EDB9FA",
+    "terminal.ansiMagenta": "#EAB9FA",
     "terminal.ansiCyan": "#90E0D9",
     "terminal.ansiWhite": "#DFDFFA",
     "terminal.ansiBrightBlack": "#6A6A8C",
@@ -278,7 +278,7 @@
     "terminal.ansiBrightGreen": "#70CC8F",
     "terminal.ansiBrightYellow": "#F7DD8D",
     "terminal.ansiBrightBlue": "#73ABFF",
-    "terminal.ansiBrightMagenta": "#F2BFFF",
+    "terminal.ansiBrightMagenta": "#EFBFFF",
     "terminal.ansiBrightCyan": "#95E6DF",
     "terminal.ansiBrightWhite": "#ffffff",
     "editorWidget.background": "#1C1C2B",
@@ -340,7 +340,7 @@
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#C6C6E6",
-    "debugTokenExpression.string": "#F0B9FE",
+    "debugTokenExpression.string": "#EDB9FE",
     "debugTokenExpression.boolean": "#FF8FAB",
     "debugTokenExpression.number": "#FF8FAB",
     "debugTokenExpression.error": "#ff3333",
@@ -398,7 +398,7 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#F0B9FE"
+        "foreground": "#EDB9FE"
       }
     },
     {
@@ -412,7 +412,7 @@
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#F0B9FE"
+        "foreground": "#EDB9FE"
       }
     },
     {
@@ -595,7 +595,7 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#F0B9FE"
+        "foreground": "#EDB9FE"
       }
     },
     {
@@ -770,7 +770,7 @@
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#F0B9FE"
+        "foreground": "#EDB9FE"
       }
     },
     {
@@ -784,7 +784,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F0B9FE"
+        "foreground": "#EDB9FE"
       }
     },
     {
