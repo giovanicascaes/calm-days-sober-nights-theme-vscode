@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#C7C7DB5d",
     "scrollbarSlider.activeBackground": "#C7C7DB9d",
     "scrollbarSlider.hoverBackground": "#C7C7DB7d",
-    "progressBar.background": "#FF94AF",
+    "progressBar.background": "#FF8AA7",
     "list.activeSelectionBackground": "#C7C7DB15",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#65658250",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#C6C6E6",
     "debugTokenExpression.string": "#F0B9FE",
-    "debugTokenExpression.boolean": "#FF94AF",
-    "debugTokenExpression.number": "#FF94AF",
+    "debugTokenExpression.boolean": "#FF8AA7",
+    "debugTokenExpression.number": "#FF8AA7",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#C7C7DB",
@@ -407,12 +407,12 @@
         "constant.other",
         "punctuation.definition.group.regexp"
       ],
-      "settings": { "foreground": "#82FAE8" }
+      "settings": { "foreground": "#7FF5DD" }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
-      "settings": { "foreground": "#FF94AF" }
+      "settings": { "foreground": "#FF8AA7" }
     },
     {
       "name": "Anchor Escape Characters",
@@ -434,7 +434,7 @@
         "constant.language.infinity",
         "constant.language.nan"
       ],
-      "settings": { "foreground": "#FF94AF" }
+      "settings": { "foreground": "#FF8AA7" }
     },
     {
       "name": "Variable",
@@ -517,7 +517,7 @@
         "meta.parameter",
         "meta.parameters punctuation.definition.binding-pattern"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#C596FA" }
+      "settings": { "fontStyle": "italic", "foreground": "#C999FF" }
     },
     {
       "name": "Function call",
@@ -532,7 +532,7 @@
     {
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
-      "settings": { "foreground": "#82FAE8", "fontStyle": "italic" }
+      "settings": { "foreground": "#7FF5DD", "fontStyle": "italic" }
     },
     {
       "name": "Imports and packages",
@@ -807,11 +807,11 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#C596FA" },
-    "parameter": { "foreground": "#C596FA" },
+    "parameter.declaration": { "foreground": "#C999FF" },
+    "parameter": { "foreground": "#C999FF" },
     "property.declaration": { "foreground": "#7884F0" },
     "*.defaultLibrary": { "foreground": "#69E3FF" },
-    "function.defaultLibrary": { "foreground": "#82FAE8" },
+    "function.defaultLibrary": { "foreground": "#7FF5DD" },
     "method.defaultLibrary": { "foreground": "#1FC9FF" },
     "variable.defaultLibrary": { "foreground": "#69E3FF" },
     "property.defaultLibrary": { "foreground": "#69E3FF", "fontStyle": "bold" },
