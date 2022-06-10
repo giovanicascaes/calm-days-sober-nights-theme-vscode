@@ -321,8 +321,8 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
     "editorLightBulb.foreground": "#FAB38E",
     "editorLightBulbAutoFix.foreground": "#66CCFF",
-    "editorInlayHint.background": "#21C1FF0F",
-    "editorInlayHint.foreground": "#21C1FFC1",
+    "editorInlayHint.background": "#32C2FA0F",
+    "editorInlayHint.foreground": "#32C2FAC1",
     "editor.snippetTabstopHighlightBackground": "#62627A10",
     "editor.snippetFinalTabstopHighlightBackground": "#62627A1D",
     "banner.background": "#606085",
@@ -555,7 +555,7 @@
       "name": "Function name",
       "scope": ["entity.name.function", "entity.name.function.member"],
       "settings": {
-        "foreground": "#21C1FF"
+        "foreground": "#32C2FA"
       }
     },
     {
@@ -567,7 +567,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#C999FF"
+        "foreground": "#CFA3FF"
       }
     },
     {
@@ -580,7 +580,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#21C1FFE6"
+        "foreground": "#32C2FAE6"
       }
     },
     {
@@ -664,7 +664,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#21C1FF"
+        "foreground": "#32C2FA"
       }
     },
     {
@@ -715,7 +715,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#21C1FFE6"
+        "foreground": "#32C2FAE6"
       }
     },
     {
@@ -852,7 +852,7 @@
       "name": "Markup List Bullet",
       "scope": ["markup.list punctuation.definition.list.begin"],
       "settings": {
-        "foreground": "#21C1FFE6"
+        "foreground": "#32C2FAE6"
       }
     },
     {
@@ -969,10 +969,10 @@
   ],
   "semanticTokenColors": {
     "parameter.declaration": {
-      "foreground": "#C999FF"
+      "foreground": "#CFA3FF"
     },
     "parameter": {
-      "foreground": "#C999FF"
+      "foreground": "#CFA3FF"
     },
     "property.declaration": {
       "foreground": "#7884F0"
@@ -984,7 +984,7 @@
       "foreground": "#7FF5DD"
     },
     "method.defaultLibrary": {
-      "foreground": "#21C1FF"
+      "foreground": "#32C2FA"
     },
     "variable.defaultLibrary": {
       "foreground": "#69E3FF"
@@ -997,13 +997,13 @@
       "foreground": "#7884F0"
     },
     "class": {
-      "foreground": "#21C1FF"
+      "foreground": "#32C2FA"
     },
     "variable": {
       "foreground": "#C6C6E6"
     },
     "function": {
-      "foreground": "#21C1FF"
+      "foreground": "#32C2FA"
     }
   },
   "semanticClass": "calm-days-sober-nights-dark"

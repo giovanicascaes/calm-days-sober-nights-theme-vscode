@@ -512,7 +512,7 @@
         "meta.parameter",
         "meta.parameters punctuation.definition.binding-pattern"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#774DA8" }
+      "settings": { "fontStyle": "italic", "foreground": "#815AAD" }
     },
     {
       "name": "Function call",
@@ -806,8 +806,8 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#774DA8" },
-    "parameter": { "foreground": "#774DA8" },
+    "parameter.declaration": { "foreground": "#815AAD" },
+    "parameter": { "foreground": "#815AAD" },
     "property.declaration": { "foreground": "#414894" },
     "*.defaultLibrary": { "foreground": "#349DB8" },
     "function.defaultLibrary": { "foreground": "#00A382" },

@@ -562,7 +562,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#774DA8"
+        "foreground": "#815AAD"
       }
     },
     {
@@ -971,10 +971,10 @@
   ],
   "semanticTokenColors": {
     "parameter.declaration": {
-      "foreground": "#774DA8"
+      "foreground": "#815AAD"
     },
     "parameter": {
-      "foreground": "#774DA8"
+      "foreground": "#815AAD"
     },
     "property.declaration": {
       "foreground": "#414894"
