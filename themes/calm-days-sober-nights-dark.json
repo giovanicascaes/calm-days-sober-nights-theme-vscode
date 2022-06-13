@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#C7C7DB5d",
     "scrollbarSlider.activeBackground": "#C7C7DB9d",
     "scrollbarSlider.hoverBackground": "#C7C7DB7d",
-    "progressBar.background": "#FF8AEA",
+    "progressBar.background": "#FF8FA9",
     "list.activeSelectionBackground": "#C7C7DB15",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#65658250",
@@ -138,7 +138,7 @@
     "statusBarItem.prominentBackground": "#0000002B",
     "statusBarItem.prominentForeground": "#000000",
     "statusBarItem.remoteForeground": "#000000A0",
-    "statusBarItem.remoteBackground": "#7884F0",
+    "statusBarItem.remoteBackground": "#787CF0",
     "statusBarItem.remoteBorder": "#ffffff16",
     "statusBar.noFolderForeground": "#C7C7DB",
     "statusBar.noFolderBackground": "#1A1A29",
@@ -336,13 +336,13 @@
     "debugView.exceptionLabelForeground": "#66292F",
     "debugView.stateLabelBackground": "#C7C7DB20",
     "debugView.stateLabelForeground": "#C7C7DB",
-    "debugTokenExpression.name": "#7884F0",
+    "debugTokenExpression.name": "#787CF0",
     "debugExceptionWidget.background": "#FF667510",
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#C6C6E6",
     "debugTokenExpression.string": "#EDB9FE",
-    "debugTokenExpression.boolean": "#FF8AEA",
-    "debugTokenExpression.number": "#FF8AEA",
+    "debugTokenExpression.boolean": "#FF8FA9",
+    "debugTokenExpression.number": "#FF8FA9",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#C7C7DB",
@@ -405,7 +405,7 @@
       "name": "Quotes",
       "scope": ["punctuation.definition.string", "punctuation.support.type.property-name"],
       "settings": {
-        "foreground": "#FA5D96"
+        "foreground": "#FF75A7"
       }
     },
     {
@@ -423,14 +423,14 @@
         "punctuation.definition.group.regexp"
       ],
       "settings": {
-        "foreground": "#7FF5DD"
+        "foreground": "#7BF5DC"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#FF8AEA"
+        "foreground": "#FF8FA9"
       }
     },
     {
@@ -454,7 +454,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#FF8AEA"
+        "foreground": "#FF8FA9"
       }
     },
     {
@@ -476,7 +476,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -534,7 +534,7 @@
       "name": "Inherited class type",
       "scope": ["entity.other.inherited-class"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -548,7 +548,7 @@
       "name": "Java primitive variable types",
       "scope": ["source.java storage.type.primitive"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -587,7 +587,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#7FF5DD",
+        "foreground": "#7BF5DC",
         "fontStyle": "italic"
       }
     },
@@ -602,24 +602,24 @@
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
       "name": "Static types",
       "scope": ["entity.name.type", "storage.type.cs"],
-      "settings": { "foreground": "#69E3FF" }
+      "settings": { "foreground": "#5CE0FF" }
     },
     {
       "name": "Provided (support) values",
       "scope": "support",
-      "settings": { "foreground": "#69E3FF" }
+      "settings": { "foreground": "#5CE0FF" }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -633,7 +633,7 @@
         "meta.field.declaration.ts variable.object.property"
       ],
       "settings": {
-        "foreground": "#7884F0"
+        "foreground": "#787CF0"
       }
     },
     {
@@ -646,7 +646,7 @@
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#7884F0"
+        "foreground": "#787CF0"
       }
     },
     {
@@ -657,7 +657,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#69E3FF80"
+        "foreground": "#5CE0FF80"
       }
     },
     {
@@ -672,14 +672,14 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -749,7 +749,7 @@
       "scope": ["support.type.property-name"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -791,7 +791,7 @@
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -888,7 +888,7 @@
       "scope": ["markup.table"],
       "settings": {
         "background": "#C6C6E60f",
-        "foreground": "#69E3FF"
+        "foreground": "#5CE0FF"
       }
     },
     {
@@ -975,26 +975,26 @@
       "foreground": "#CFA3FF"
     },
     "property.declaration": {
-      "foreground": "#7884F0"
+      "foreground": "#787CF0"
     },
     "*.defaultLibrary": {
-      "foreground": "#69E3FF"
+      "foreground": "#5CE0FF"
     },
     "function.defaultLibrary": {
-      "foreground": "#7FF5DD"
+      "foreground": "#7BF5DC"
     },
     "method.defaultLibrary": {
-      "foreground": "#7FF5DD"
+      "foreground": "#7BF5DC"
     },
     "variable.defaultLibrary": {
-      "foreground": "#69E3FF"
+      "foreground": "#5CE0FF"
     },
     "property.defaultLibrary": {
-      "foreground": "#69E3FF",
+      "foreground": "#5CE0FF",
       "fontStyle": "bold"
     },
     "variable.declaration": {
-      "foreground": "#7884F0"
+      "foreground": "#787CF0"
     },
     "class": {
       "foreground": "#32C2FA"
