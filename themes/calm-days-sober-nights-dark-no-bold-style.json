@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#C7C7DB5d",
     "scrollbarSlider.activeBackground": "#C7C7DB9d",
     "scrollbarSlider.hoverBackground": "#C7C7DB7d",
-    "progressBar.background": "#FF8FA4",
+    "progressBar.background": "#FF8AEA",
     "list.activeSelectionBackground": "#C7C7DB15",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#65658250",
@@ -269,7 +269,7 @@
     "terminal.ansiRed": "#ED7480",
     "terminal.ansiGreen": "#70CC8F",
     "terminal.ansiYellow": "#F2D988",
-    "terminal.ansiBlue": "#6EA6FA",
+    "terminal.ansiBlue": "#6E9DFA",
     "terminal.ansiMagenta": "#EAB9FA",
     "terminal.ansiCyan": "#90E0D9",
     "terminal.ansiWhite": "#DFDFFA",
@@ -277,7 +277,7 @@
     "terminal.ansiBrightRed": "#F27985",
     "terminal.ansiBrightGreen": "#70CC8F",
     "terminal.ansiBrightYellow": "#F7DD8D",
-    "terminal.ansiBrightBlue": "#73ABFF",
+    "terminal.ansiBrightBlue": "#73A2FF",
     "terminal.ansiBrightMagenta": "#EFBFFF",
     "terminal.ansiBrightCyan": "#95E6DF",
     "terminal.ansiBrightWhite": "#ffffff",
@@ -314,8 +314,8 @@
     "editorBracketHighlight.foreground1": "#31BACCB1",
     "editorBracketPairGuide.activeBackground2": "#E06C95F1",
     "editorBracketHighlight.foreground2": "#E06C95B1",
-    "editorBracketPairGuide.activeBackground3": "#65A3FFF1",
-    "editorBracketHighlight.foreground3": "#65A3FFB1",
+    "editorBracketPairGuide.activeBackground3": "#6599FFF1",
+    "editorBracketHighlight.foreground3": "#6599FFB1",
     "editorBracketPairGuide.activeBackground4": "#927ACCF1",
     "editorBracketHighlight.foreground4": "#927ACCB1",
     "editorBracketHighlight.unexpectedBracket.foreground": "#E65C6A",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#FF6675",
     "debugTokenExpression.value": "#C6C6E6",
     "debugTokenExpression.string": "#EDB9FE",
-    "debugTokenExpression.boolean": "#FF8FA4",
-    "debugTokenExpression.number": "#FF8FA4",
+    "debugTokenExpression.boolean": "#FF8AEA",
+    "debugTokenExpression.number": "#FF8AEA",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#FF6699",
     "debugIcon.breakpointDisabledForeground": "#C7C7DB",
@@ -412,7 +412,7 @@
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
-      "settings": { "foreground": "#FF8FA4" }
+      "settings": { "foreground": "#FF8AEA" }
     },
     {
       "name": "Anchor Escape Characters",
@@ -434,7 +434,7 @@
         "constant.language.infinity",
         "constant.language.nan"
       ],
-      "settings": { "foreground": "#FF8FA4" }
+      "settings": { "foreground": "#FF8AEA" }
     },
     {
       "name": "Variable",
@@ -454,12 +454,12 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#65A3FF" }
+      "settings": { "foreground": "#6599FF" }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
-      "settings": { "foreground": "#65A3FF" }
+      "settings": { "foreground": "#6599FF" }
     },
     {
       "name": "Operators",
@@ -668,7 +668,7 @@
     {
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
-      "settings": { "foreground": "#65A3FF" }
+      "settings": { "foreground": "#6599FF" }
     },
     {
       "name": "Search Results Lines",
@@ -812,7 +812,7 @@
     "property.declaration": { "foreground": "#7884F0" },
     "*.defaultLibrary": { "foreground": "#69E3FF" },
     "function.defaultLibrary": { "foreground": "#7FF5DD" },
-    "method.defaultLibrary": { "foreground": "#32C2FA" },
+    "method.defaultLibrary": { "foreground": "#7FF5DD" },
     "variable.defaultLibrary": { "foreground": "#69E3FF" },
     "property.defaultLibrary": { "foreground": "#69E3FF", "fontStyle": "bold" },
     "variable.declaration": { "foreground": "#7884F0" },
