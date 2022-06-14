@@ -27,7 +27,7 @@
     "scrollbarSlider.background": "#6F7B874d",
     "scrollbarSlider.activeBackground": "#6F7B878d",
     "scrollbarSlider.hoverBackground": "#6F7B876d",
-    "progressBar.background": "#B3369E",
+    "progressBar.background": "#994D8C",
     "list.activeSelectionBackground": "#6F7B8715",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#C5D0DB50",
@@ -314,8 +314,8 @@
     "editorBracketHighlight.foreground1": "#156873B1",
     "editorBracketPairGuide.activeBackground2": "#AD3F65F1",
     "editorBracketHighlight.foreground2": "#AD3F65B1",
-    "editorBracketPairGuide.activeBackground3": "#496EB8F1",
-    "editorBracketHighlight.foreground3": "#496EB8B1",
+    "editorBracketPairGuide.activeBackground3": "#5576B8F1",
+    "editorBracketHighlight.foreground3": "#5576B8B1",
     "editorBracketPairGuide.activeBackground4": "#6A4FA8F1",
     "editorBracketHighlight.foreground4": "#6A4FA8B1",
     "editorBracketHighlight.unexpectedBracket.foreground": "#B52D43",
@@ -341,8 +341,8 @@
     "debugExceptionWidget.border": "#CF344D",
     "debugTokenExpression.value": "#738699",
     "debugTokenExpression.string": "#886594",
-    "debugTokenExpression.boolean": "#B3369E",
-    "debugTokenExpression.number": "#B3369E",
+    "debugTokenExpression.boolean": "#994D8C",
+    "debugTokenExpression.number": "#994D8C",
     "debugTokenExpression.error": "#ff3333",
     "debugIcon.breakpointForeground": "#D9628A",
     "debugIcon.breakpointDisabledForeground": "#6F7B87",
@@ -431,7 +431,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape.backslash.regexp"],
       "settings": {
-        "foreground": "#B3369E"
+        "foreground": "#994D8C"
       }
     },
     {
@@ -455,7 +455,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#B3369E"
+        "foreground": "#994D8C"
       }
     },
     {
@@ -476,14 +476,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#496EB8"
+        "foreground": "#5576B8"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#496EB8"
+        "foreground": "#5576B8"
       }
     },
     {
@@ -756,7 +756,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#496EB8"
+        "foreground": "#5576B8"
       }
     },
     {

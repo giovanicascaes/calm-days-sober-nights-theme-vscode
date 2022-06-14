@@ -1,7 +1,11 @@
 # Change Log
 
+## 5.0.0
+v5
+
 ## 4.0.0
 v4
+
 ## 3.1.6
 Improved function, entity colors
 
