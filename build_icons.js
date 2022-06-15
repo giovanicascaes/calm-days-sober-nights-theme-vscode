@@ -15,8 +15,8 @@ fs.readdir(directoryPath, function (_err, files) {
 
       if (isDark) {
         newValue = data
-          .replace(/="#C7CEDB"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
-          .replace(/="#ECECF8"/gim, '="#ECECF8"')
+          .replace(/="#C7CADB"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
+          .replace(/="#ECEEF8"/gim, '="#ECEEF8"')
           .replace(/-opacity="0.54"/gim, '-opacity="0.54"')
           .replace(/-opacity="0.26"/gim, '-opacity="0.26"');
       } else {
