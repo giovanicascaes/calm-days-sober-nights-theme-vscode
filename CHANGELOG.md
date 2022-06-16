@@ -1,5 +1,8 @@
 # Change Log
 
+## 5.1.0
+Revamped borders
+
 ## 5.0.0
 v5
 

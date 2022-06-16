@@ -4,7 +4,7 @@
   "displayName": "Calm Days, Sober Nights",
   "description": "A Visual Studio Code theme for the day light and night darkness coders",
   "icon": "icon.png",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "engines": {
     "vscode": "^1.55.0"
   },
