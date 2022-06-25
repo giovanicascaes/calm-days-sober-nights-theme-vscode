@@ -15,19 +15,28 @@ fs.readdir(directoryPath, function (_err, files) {
 
       if (isDark) {
         newValue = data
-          .replace(/="#C7CADB"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
-          .replace(/="#ECEEF8"/gim, '="#ECEEF8"')
-          .replace(/-opacity="0.54"/gim, '-opacity="0.54"')
-          .replace(/-opacity="0.26"/gim, '-opacity="0.26"');
+          .replace(
+            /="#C7CADB"/gim,
+            `="${darkTheme.colors["icon.foreground"]}"`
+          )
+          .replace(
+            /="#ECEEF8"/gim,
+            `="${darkTheme.colors["descriptionForeground"]}"`
+          )
+          .replace(/-opacity="0.54"/gim, '-opacity="0.36"')
+          .replace(/-opacity="0.26"/gim, '-opacity="0.36"');
       } else {
         newValue = data
           .replace(
             /="#6F7B87"/gim,
             `="${lightTheme.colors["icon.foreground"]}"`
           )
-          .replace(/="#000018"/gim, '="#000018"')
-          .replace(/-opacity="0.62"/gim, '-opacity="0.62"')
-          .replace(/-opacity="0.24"/gim, '-opacity="0.24"');
+          .replace(
+            /="#000018"/gim,
+            `="${lightTheme.colors["descriptionForeground"]}"`
+          )
+          .replace(/-opacity="0.62"/gim, '-opacity="0.44"')
+          .replace(/-opacity="0.24"/gim, '-opacity="0.44"');
       }
 
       fs.writeFileSync(filePath, newValue, "utf-8");
