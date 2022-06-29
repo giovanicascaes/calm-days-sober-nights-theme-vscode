@@ -15,16 +15,13 @@ fs.readdir(directoryPath, function (_err, files) {
 
       if (isDark) {
         newValue = data
+          .replace(/="#C7CADB"/gim, `="${darkTheme.colors["icon.foreground"]}"`)
           .replace(
-            /="#C7CADB"/gim,
-            `="${darkTheme.colors["icon.foreground"]}"`
-          )
-          .replace(
-            /="#ECEEF8"/gim,
+            /="#6D7185"/gim,
             `="${darkTheme.colors["descriptionForeground"]}"`
           )
-          .replace(/-opacity="0.54"/gim, '-opacity="0.36"')
-          .replace(/-opacity="0.26"/gim, '-opacity="0.36"');
+          .replace(/-opacity="0.36"/gim, '-opacity="0.36"')
+          .replace(/-opacity="0.32"/gim, '-opacity="0.32"');
       } else {
         newValue = data
           .replace(
@@ -32,11 +29,11 @@ fs.readdir(directoryPath, function (_err, files) {
             `="${lightTheme.colors["icon.foreground"]}"`
           )
           .replace(
-            /="#000018"/gim,
+            /="#99A9B8"/gim,
             `="${lightTheme.colors["descriptionForeground"]}"`
           )
-          .replace(/-opacity="0.62"/gim, '-opacity="0.44"')
-          .replace(/-opacity="0.24"/gim, '-opacity="0.44"');
+          .replace(/-opacity="0.44"/gim, '-opacity="0.44"')
+          .replace(/-opacity="0.34"/gim, '-opacity="0.34"');
       }
 
       fs.writeFileSync(filePath, newValue, "utf-8");
