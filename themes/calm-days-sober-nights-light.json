@@ -295,7 +295,7 @@
     "activityBar.foreground": "#6AAABD",
     "activityBarBadge.background": "#6AAABD",
     "activityBarBadge.foreground": "#CCF3FF",
-    "activityBar.activeBackground": "#EBF0F5",
+    "activityBar.activeBackground": "#6AAABD12",
     "panelTitle.activeBorder": "#6AAABD",
     "panel.dropBorder": "#6AAABD",
     "notificationCenterHeader.background": "#EBF0F5",
