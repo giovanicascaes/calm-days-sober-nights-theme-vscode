@@ -220,7 +220,7 @@
     "tab.inactiveForeground": "#6D7185",
     "tab.inactiveBackground": "#252833",
     "tab.activeForeground": "#85CFE6",
-    "tab.activeBackground": "#85CFE612",
+    "tab.activeBackground": "#263441",
     "tab.hoverForeground": "#85CFE6",
     "tab.hoverBackground": "#00000000",
     "tab.unfocusedActiveBackground": "#6D718512",
