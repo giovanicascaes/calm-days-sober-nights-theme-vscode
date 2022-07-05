@@ -196,7 +196,7 @@
     "editorSuggestWidget.selectedBackground": "#6D718530",
     "editorLineNumber.foreground": "#71748255",
     "editorLineNumber.activeForeground": "#C7CADBB4",
-    "editor.lineHighlightBackground": "#00000019",
+    "editor.lineHighlightBackground": "#ffffff06",
     "editor.lineHighlightBorder": "#00000000",
     "editorHint.foreground": "#C7CADB",
     "notifications.background": "#1E202B",
