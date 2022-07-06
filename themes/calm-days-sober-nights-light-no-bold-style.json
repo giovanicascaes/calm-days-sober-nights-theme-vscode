@@ -229,7 +229,7 @@
     "tab.unfocusedActiveBorder": "#99A9B8",
     "panel.border": "#CBD3D9",
     "panel.background": "#EBF0F5",
-    "terminal.background": "#F0F4F7",
+    "terminal.background": "#EBF0F5",
     "sideBar.border": "#CBD3D9",
     "panelTitle.inactiveForeground": "#99A9B8",
     "panelTitle.activeForeground": "#6F7B87",
