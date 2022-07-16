@@ -294,7 +294,7 @@
     "editorWidget.border": "#EBF0F5",
     "editorWidget.foreground": "#6F7B87",
     "badge.background": "#3E9BB61D",
-    "badge.foreground": "#3F7A8D",
+    "badge.foreground": "#3E9BB6",
     "editorCursor.foreground": "#3E9BB6",
     "editorSuggestWidget.highlightForeground": "#3E9BB6",
     "editorWidget.resizeBorder": "#3E9BB6",
