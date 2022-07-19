@@ -213,7 +213,7 @@
     "button.secondaryBackground": "#DADEE3",
     "button.secondaryHoverBackground": "#C7CCD1",
     "button.secondaryForeground": "#000000A0",
-    "titleBar.activeBackground": "#EDF3F7",
+    "titleBar.activeBackground": "#EBF2F7",
     "titleBar.inactiveBackground": "#F3F7FA",
     "titleBar.activeForeground": "#6F7B87",
     "titleBar.inactiveForeground": "#99A9B8",
